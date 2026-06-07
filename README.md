@@ -15,8 +15,8 @@ de récupérer des images, et d'aboutir à un **PDF chronologique précis**.*
 
 | Livrable | Fichier | Description |
 |----------|---------|-------------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | Synthèse de 9 pages, chronologie depuis l'an 900 + 8 illustrations |
-| 📝 **Dossier de recherche détaillé** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | Toutes les données, hypothèses, notes critiques et sources |
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | Synthèse de **12 pages** (éd. approfondie), chronologie depuis l'an 900 + 8 illustrations |
+| 📝 **Dossier de recherche détaillé** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | **v2** — 11 sections : données, seigneurs, passage des chevaliers, hypothèses, notes critiques, sources |
 | 🖼️ **Iconographie** | [`images/`](images/) | 11 images (domaine public / Creative Commons) |
 | ⚙️ **Générateur de PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
 
@@ -28,12 +28,13 @@ Les « fonctionnalités » demandées dans le brief initial, traitées **une par
 
 | # | Fonctionnalité demandée | Statut | Où ? |
 |---|--------------------------|--------|------|
-| 1 | 🏯 Le **château de Morthemer** | ✅ Traité | RECHERCHE § 3, PDF § 3 |
-| 2 | ⛪ L'**église de Morthemer** | ✅ Traité | RECHERCHE § 4, PDF § 4 |
-| 3 | 🗼 La **tour de Cognac** | ✅ Traité (sources rares, pistes d'archives données) | RECHERCHE § 5, PDF § 5 |
-| 4 | 👁️ Le **mystère du trou (« œil »)** au plafond, à l'opposé du clocher | ✅ Analysé (5 hypothèses argumentées) | RECHERCHE § 6, PDF § 6 |
-| 5 | 🖼️ **Images / croquis** (liens + téléchargements) | ✅ 11 images récupérées | `images/` |
-| 6 | 📄 **PDF chronologique précis** depuis l'an 900 | ✅ Généré (9 p.) | `Morthemer-Recherche-Historique.pdf` |
+| 1 | 🏯 Le **château de Morthemer** | ✅ Approfondi (donjon, petit château, Soubeyran, restauration) | RECHERCHE § 4 |
+| 2 | ⛪ L'**église collégiale Notre-Dame** | ✅ Approfondi | RECHERCHE § 6 |
+| 3 | 🗼 La **tour de Cognac** | ✅ Traité (sources rares, pistes d'archives données) | RECHERCHE § 7 |
+| 4 | 👁️ Le **mystère du trou (« œil »)** à l'opposé du clocher | ✅ Analysé (5 hypothèses argumentées) | RECHERCHE § 8 |
+| 5 | 🖼️ **Images / croquis** + **fonds d'archives** (vues avant restauration) | ✅ 11 images + 6 fonds référencés | `images/`, RECHERCHE § 10 |
+| 6 | 📄 **PDF chronologique précis** depuis l'an 900 | ✅ Généré (12 p.) | `Morthemer-Recherche-Historique.pdf` |
+| 7 | ⚔️ **Passage des seigneurs/chevaliers** entre église et château *(approfondissement demandé)* | ✅ Section dédiée | RECHERCHE § 5 |
 
 ---
 
@@ -42,20 +43,40 @@ Les « fonctionnalités » demandées dans le brief initial, traitées **une par
 - **Morthemer** = chef-lieu d'une **châtellenie** du Poitou (attestée *Castellania
   Mortemari* en **1077**), érigée en **baronnie en 1428** (28 fiefs). Étymologie :
   *Mortuum Mare*, « mer morte » (eaux dormantes / étangs).
-- **Château** : première mention au **Xe s.**, donjon du XIIe s., **« restauration
-  abusive »** par Boeswillwald (disciple de Viollet-le-Duc) vers **1865** ; donjon
-  inscrit MH **1927**, ensemble **2008**. Propriété privée.
+- **Seigneurs successifs** : famille de **Morthemer** (vicomtes de Châtellerault) →
+  **Sénéchal** (XIIIe-XIVe s., bâtisseurs du donjon v. 1369-1375) → **Taveau**
+  (XVe-XVIIIe s.) → **baron de Soubeyran** (1844, sauve le château de la ruine).
+- **⚔️ Le passage des chevaliers (axe approfondi)** : église et château **soudés**
+  sur le rocher. Un **passage voûté sous la 2ᵉ travée de la nef** mène à la cour du
+  château — **on entre dans la forteresse par l'église**. Grand **portail ouest
+  muré**, accès reporté au nord le long du chevet ; **tribune seigneuriale** d'où le
+  seigneur et sa garnison suivaient la messe à part ; **crypte = nécropole**. *(La
+  qualification de « chapelle castrale » est **débattue** : ArmmA y voit une
+  paroissiale + collégiale dès les années 1220.)*
+- **Château** : donjon **carré à 5 niveaux** (tourelles-contreforts), **petit
+  château de 1771** ; **quasi-ruine avant 1860**, puis **« restauration abusive »**
+  par **Boeswillwald** (~1865) — la silhouette actuelle est en partie une
+  **recomposition du XIXe s.** Donjon inscrit MH **1927**, ensemble **2008**.
 - **Église collégiale Notre-Dame** : romane (XIe-XIIe s.), remaniée gothique
   **1230-1250**, **crypte à 3 vaisseaux** avec peintures (Christ en Majesté, Vierge
   à l'Enfant) **découvertes en 1978**, restaurées 1982-1983 ; **classée MH 1908**.
-- **Jean Chandos**, sénéchal du Poitou, blessé mortellement à **Lussac-les-Châteaux**
-  le **31 décembre 1369**, **inhumé à Morthemer**.
+- **Jean Chandos**, sénéchal du Poitou, blessé à **Lussac-les-Châteaux** le **31 déc.
+  1369**, **transporté à Morthemer**, y meurt le 1ᵉʳ janv. 1370 et y est inhumé.
+  **Légendes** : fantôme de Chandos ; « Dames de Morthemer ».
 - **Tour de Cognac** : datée XIe s. (toponyme local *Conniacum*, sans rapport avec
   la ville de Cognac) — documentation lacunaire, à compléter en archives.
 - **Le « trou-œil »** : non documenté dans les sources publiques. Hypothèse
   privilégiée : un **oculus** (« œil » de pierre), à la fois fonctionnel (lumière)
   et **symbolique** (l'« Œil de Dieu »), son décalage par rapport au clocher
   s'expliquant par les remaniements de 1230-1250. **À valider par un relevé in situ.**
+
+> 🖼️ **Images d'archives avant la restauration de 1865.** Le château actuel étant une
+> recomposition du XIXe s., son **état primitif (quasi-ruine)** n'apparaît que sur des
+> vues antérieures à 1865 — **aucune n'est librement téléchargeable** (Wikimedia n'en a
+> pas ; les dépôts qui en conservent sont sous droits ou à accès restreint). Les clichés
+> APMH/Gossin réunis ici montrent l'édifice **il y a ~un siècle** (après restauration).
+> Liste des **6 fonds d'archives** à consulter (Médiathèque Grand Poitiers / Gossin 1918,
+> Geneanet, base Mémoire, Gallica, Arch. dép. Vienne) : [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) § 10.
 
 > ⚠️ **Note critique majeure** : la présence d'un « Raoul de Mortemer » à **Hastings
 > (1066)**, reprise par les sites locaux, relève vraisemblablement d'une **confusion
