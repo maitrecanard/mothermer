@@ -261,6 +261,7 @@ note("Point débattu : une tradition (catalogue de la Médiathèque Grand Poitie
   + "chanoines dès les années 1220, sans fonction de chapelle castrale. On retient l’imbrication "
   + "physique avérée, en signalant que la qualification de « chapelle du château » est contestée.");
 figure('07-eglise-interieur-nef-choeur.jpg', "Intérieur : la nef vers le chœur en hémicycle. Le passage voûté vers le château ouvre sous la 2e travée (Médiathèque de l’architecture et du patrimoine).");
+figure('13-eglise-ensemble-nord.jpg', "Ensemble nord : la jonction entre l’église et le château — c’est par ce côté, le long du chevet, que se fait aujourd’hui l’accès (Médiathèque de l’architecture et du patrimoine).");
 
 /* ------------------------------- 6. ÉGLISE ------------------------------- */
 h1('6. L’église collégiale Notre-Dame');
@@ -279,7 +280,8 @@ h2('La crypte et ses peintures');
 para("Crypte à trois vaisseaux (nécropole seigneuriale), jadis plus vaste, éclairée par quatre "
   + "ouvertures. Elle conserve un Christ en Majesté sur la voûte (entouré des symboles des "
   + "évangélistes) et une Vierge à l’Enfant sur le mur est ; frise végétale et écu armorié "
-  + "« accroché à un clou » (probablement les Sénéchal). Le fond quadrillé trahit l’influence de "
+  + "« accroché à un clou » (armoiries lues comme celles des Taveau, parfois rattachées aux "
+  + "Sénéchal). Le fond quadrillé trahit l’influence de "
   + "l’enluminure et du vitrail. Peintures découvertes en 1978, restaurées en 1982-1983, datées "
   + "du XIIIe–XIVe s. selon les sources.");
 figure('08-eglise-crypte.jpg', "La crypte, vue vers le nord-est (Médiathèque de l’architecture et du patrimoine).");
@@ -327,6 +329,7 @@ para("Conclusion provisoire : l’explication la plus économique reste un oculu
   + "(lumière) et potentiellement symbolique (l’« œil » divin éclairant le chœur), son décalage "
   + "s’expliquant par les remaniements de 1230-1250. À valider par un relevé in situ et auprès de "
   + "la CRMH Nouvelle-Aquitaine.");
+figure('12-eglise-nef-vue-entree.jpg', "La nef vue de l’entrée (extrémité ouest), côté de l’ancien grand portail muré — la zone « à l’opposé du clocher » évoquée par l’énigme (Médiathèque de l’architecture et du patrimoine).");
 
 /* ------------------------------- 9. CHANDOS & LÉGENDES ------------------------------- */
 h1('9. Jean Chandos et les légendes');
@@ -337,6 +340,10 @@ para("Jean (John) Chandos († 1er janvier 1370), sénéchal du Poitou et conné
   + "Morthemer, il y meurt le lendemain et y est inhumé. Une carte postale ancienne porte "
   + "explicitement la légende : « La forteresse de Morthemer où fut transporté Chandos, blessé au "
   + "Pont de Lussac » (§ 10).");
+note("Précision : le « tombeau de Chandos » désigne en réalité un monument "
+  + "commémoratif en pierre (XIVe s.) déplacé en 1886 et aujourd’hui à Mazerolles (RD 25, entre "
+  + "Lussac et Gouex), classé objet en 1909 (Palissy PM86000321) — à distinguer du lieu "
+  + "d’inhumation, à Morthemer. Les dates flottent (1368/1369 vs 1369/1370) selon le comput.");
 h2('Légendes locales');
 bullet("Le fantôme de Chandos : certaines nuits, on entendrait encore des pas autour du château, "
   + "comme si l’âme du capitaine hantait les lieux — récit que les anciens du village transmettent.");
@@ -364,6 +371,14 @@ table(['Fonds', 'Description', 'Accès'], [1.4, 2.6, 1.4], [
   ['Gallica / BnF', 'Congrès archéologique de France, session Poitiers 1843 : planches gravées possibles.', 'gallica.bnf.fr'],
   ['Arch. dép. de la Vienne', 'Cadastre napoléonien, terriers, fonds figurés.', 'archives-vienne.fr'],
 ]);
+h2('Plans, peintures et héraldique (liens — non redistribués, droits réservés)');
+para("Documents de haute valeur mais non librement réutilisables (donc non inclus dans le "
+  + "dépôt) — à consulter en ligne. Attribution : voir le fichier CREDITS.md.");
+bullet("Plan de l’église (relevé Durand, 1979-1980) — base ArmmA (Univ. Poitiers / CNRS).");
+bullet("Peintures de la crypte (Christ en Majesté, Vierge à l’Enfant, 1230-1250) et écusson aux "
+  + "armes des Taveau — base ArmmA, page « Morthemer, église Notre-Dame ».");
+bullet("Notices documentaires POP : château (Mérimée PA00105752), collégiale (Inventaire "
+  + "IA00045380), monument sépulcral de Jean Chandos (Palissy PM86000321, 5 clichés).");
 
 /* ------------------------------- 11. NOTES & SOURCES ------------------------------- */
 h1('11. Notes critiques et sources');
@@ -393,7 +408,7 @@ note("Pistes non dépouillées en ligne : Archives départementales de la Vienne
   + "archéologique de France (Poitou, 1843), Gallica.");
 doc.moveDown(0.5); hr();
 doc.fillColor(MUTED).font('Times-Italic').fontSize(9)
-  .text("Morthemer — Recherche historique et archéologique. Édition approfondie (v2). Document "
+  .text("Morthemer — Recherche historique et archéologique. Édition approfondie (v3). Document "
     + "généré à partir du dossier RECHERCHE-MORTHEMER.md.", { align: 'center' });
 
 doc.end();

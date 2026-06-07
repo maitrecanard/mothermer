@@ -15,9 +15,10 @@ de récupérer des images, et d'aboutir à un **PDF chronologique précis**.*
 
 | Livrable | Fichier | Description |
 |----------|---------|-------------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | Synthèse de **12 pages** (éd. approfondie), chronologie depuis l'an 900 + 8 illustrations |
-| 📝 **Dossier de recherche détaillé** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | **v2** — 11 sections : données, seigneurs, passage des chevaliers, hypothèses, notes critiques, sources |
-| 🖼️ **Iconographie** | [`images/`](images/) | 11 images (domaine public / Creative Commons) |
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | Synthèse de **14 pages** (éd. approfondie), chronologie depuis l'an 900 + 10 illustrations |
+| 📝 **Dossier de recherche détaillé** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | **v3** — 11 sections : données, seigneurs, passage des chevaliers, hypothèses, galerie étendue, sources |
+| 🖼️ **Iconographie** | [`images/`](images/) | **15 images** (domaine public / Creative Commons) |
+| ⚖️ **Crédits & licences** | [`CREDITS.md`](CREDITS.md) | Source/licence de chaque image + liens vers plans/peintures non redistribués |
 | ⚙️ **Générateur de PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
 
 ---
@@ -32,8 +33,8 @@ Les « fonctionnalités » demandées dans le brief initial, traitées **une par
 | 2 | ⛪ L'**église collégiale Notre-Dame** | ✅ Approfondi | RECHERCHE § 6 |
 | 3 | 🗼 La **tour de Cognac** | ✅ Traité (sources rares, pistes d'archives données) | RECHERCHE § 7 |
 | 4 | 👁️ Le **mystère du trou (« œil »)** à l'opposé du clocher | ✅ Analysé (5 hypothèses argumentées) | RECHERCHE § 8 |
-| 5 | 🖼️ **Images / croquis** + **fonds d'archives** (vues avant restauration) | ✅ 11 images + 6 fonds référencés | `images/`, RECHERCHE § 10 |
-| 6 | 📄 **PDF chronologique précis** depuis l'an 900 | ✅ Généré (12 p.) | `Morthemer-Recherche-Historique.pdf` |
+| 5 | 🖼️ **Images / croquis / plans / peintures** + fonds d'archives | ✅ **15 images** téléchargées + plan, peintures de la crypte, héraldique & notices **liés** | `images/`, `CREDITS.md`, RECHERCHE § 10 |
+| 6 | 📄 **PDF chronologique précis** depuis l'an 900 | ✅ Généré (14 p.) | `Morthemer-Recherche-Historique.pdf` |
 | 7 | ⚔️ **Passage des seigneurs/chevaliers** entre église et château *(approfondissement demandé)* | ✅ Section dédiée | RECHERCHE § 5 |
 
 ---
@@ -61,8 +62,12 @@ Les « fonctionnalités » demandées dans le brief initial, traitées **une par
   **1230-1250**, **crypte à 3 vaisseaux** avec peintures (Christ en Majesté, Vierge
   à l'Enfant) **découvertes en 1978**, restaurées 1982-1983 ; **classée MH 1908**.
 - **Jean Chandos**, sénéchal du Poitou, blessé à **Lussac-les-Châteaux** le **31 déc.
-  1369**, **transporté à Morthemer**, y meurt le 1ᵉʳ janv. 1370 et y est inhumé.
-  **Légendes** : fantôme de Chandos ; « Dames de Morthemer ».
+  1369**, **transporté à Morthemer**, y meurt le 1ᵉʳ janv. 1370 et y est inhumé. Son
+  **monument commémoratif** (XIVe s.) a été **déplacé à Mazerolles en 1886** (à ne pas
+  confondre avec le lieu d'inhumation). **Légendes** : fantôme de Chandos ; « Dames de Morthemer ».
+- **Plans, peintures de la crypte & héraldique** : un **plan de l'église** (relevé Durand
+  1979-80), les **peintures** (Christ en Majesté, Vierge à l'Enfant) et l'**écu des Taveau**
+  sont documentés par la base **ArmmA** — **liés** (droits réservés), voir [`CREDITS.md`](CREDITS.md).
 - **Tour de Cognac** : datée XIe s. (toponyme local *Conniacum*, sans rapport avec
   la ville de Cognac) — documentation lacunaire, à compléter en archives.
 - **Le « trou-œil »** : non documenté dans les sources publiques. Hypothèse

@@ -190,7 +190,8 @@ triangulaire trapu » dans une notice ancienne). **Modillons sculptés** au chev
 seigneuriale), jadis plus vaste, **éclairée par quatre ouvertures**. Elle conserve
 un **Christ en Majesté** sur la voûte (entouré des symboles des évangélistes) et
 une **Vierge à l'Enfant** sur le mur est ; **frise végétale** et **écu armorié**
-« accroché à un clou » (probablement les **Sénéchal**). **Fond quadrillé** trahissant
+« accroché à un clou » — armoiries lues comme celles des **Taveau** (base ArmmA),
+parfois rattachées aux **Sénéchal** selon les interprétations. **Fond quadrillé** trahissant
 l'influence de l'enluminure et du vitrail. Peintures **découvertes en 1978**,
 **restaurées en 1982-1983**, datées du **XIIIe–XIVe s.** selon les sources.
 
@@ -271,6 +272,17 @@ le lendemain** et y est **inhumé**. Une **carte postale ancienne** porte
 explicitement la légende : *« La forteresse de Morthemer où fut transporté Chandos,
 blessé au Pont de Lussac »* (§ 10).
 
+> **Précision sur le « tombeau de Chandos ».** Il faut distinguer **deux lieux** :
+> le **lieu d'inhumation** (Morthemer) et le **monument commémoratif** qui marquait
+> l'endroit où il fut frappé. Ce dernier — un **monument sépulcral en pierre du
+> XIVe s., en forme de bâtière sur deux dais** — a été **déplacé en 1886** et se
+> trouve aujourd'hui sur la commune de **Mazerolles** (RD 25, entre
+> Lussac-les-Châteaux et Gouex), à une centaine de mètres de son emplacement
+> initial. Il est **classé au titre objet depuis 1909** (POP/Palissy
+> **PM86000321**). ⚠ Les notices anciennes flottent sur les **dates** (1368/1369
+> vs 1369/1370) selon le **comput** (ancien/nouveau style) — d'où les divergences
+> entre sources.
+
 **Légendes locales.**
 - **Le fantôme de Chandos** : certaines nuits, on entendrait encore des **pas
   autour du château**, comme si l'âme du capitaine **hantait** les lieux — récit
@@ -302,6 +314,12 @@ clichés anciens de la **Médiathèque de l'architecture et du patrimoine**, fon
 | `09-eglise-gisant.jpg` | Tombeau / gisant (Renée Sanglier) |
 | `10-dames-de-morthemer.jpg` | Illustration « Dames de Morthemer » (légende) |
 | `11-vitrail-radegonde.jpg` | Vitrail de sainte Radegonde |
+| `12-eglise-nef-vue-entree.jpg` | Nef vue de l'entrée (extrémité **ouest**, côté portail muré — cf. § 8) |
+| `13-eglise-ensemble-nord.jpg` | Ensemble nord : **jonction église / château** (cf. § 5) |
+| `14-eglise-ensemble-sud-est.jpg` | Ensemble sud-est |
+| `15-statue-vierge.jpg` | Statue Vierge à l'Enfant |
+
+> Détail des sources et licences de chaque fichier : [`CREDITS.md`](CREDITS.md).
 
 > ⚠️ **Sur les vues *avant* la restauration de 1865.** Le château actuel étant une
 > **recomposition du XIXe s.**, seules des **vues antérieures à 1865** montrent son
@@ -323,6 +341,35 @@ clichés anciens de la **Médiathèque de l'architecture et du patrimoine**, fon
 | **Gallica / BnF** | *Congrès archéologique de France*, session **Poitiers 1843** et volumes du Poitou : planches gravées possibles. | gallica.bnf.fr |
 | **Archives départementales de la Vienne** | Cadastre napoléonien, terriers de la châtellenie, fonds figurés. | archives-vienne.fr |
 
+### 10.3 Galerie iconographique étendue — **plans, peintures, héraldique** (liens)
+
+Documents à **haute valeur** mais **non librement réutilisables** : ils ne sont
+**pas redistribués** dans ce dépôt (droits réservés). Liens directs pour
+consultation (attribution : voir [`CREDITS.md`](CREDITS.md)).
+
+**Plan & relevé**
+- **Plan de l'église** (relevé *Durand, 1979-1980*, pl. I), base **ArmmA** :
+  <https://armma.saprat.fr/wp-content/uploads/2015/04/Notre-Dame-de-Morthemer-plan-Durand-1979-1980-pl.-I-4.jpg>
+
+**Peintures murales & héraldique de la crypte** (ArmmA)
+- **Crypte** (vue d'ensemble) :
+  <https://armma.saprat.fr/wp-content/uploads/2015/04/Morthemer-%C3%A9glise-Notre-Dame-crypte.jpg>
+- **Écusson aux armes des Taveau** :
+  <https://armma.saprat.fr/wp-content/uploads/2015/04/Ecusson-aux-armes-des-Taveau.-Morthemer-%C3%A9glise-Notre-Dame-crypte-5.jpg>
+- **Tombeau de chevalier** (détail de l'armoirie) — *idem ArmmA* ; et la **page
+  monument** réunissant nef, tombes, peintures :
+  <https://armma.saprat.fr/monument/sarcophage-morthemer-valdivienne/>
+- *Pour mémoire,* le **Christ en Majesté** (voûte) et la **Vierge à l'Enfant** (mur
+  est), campagne **1230-1250**, sont visibles sur cette même page ArmmA et dans la
+  base **Mémoire** (Min. Culture).
+
+**Notices documentaires (texte + clichés institutionnels)**
+- **Château** — Mérimée **PA00105752** : <https://pop.culture.gouv.fr/notice/merimee/PA00105752>
+- **Collégiale Notre-Dame** — Inventaire **IA00045380** :
+  <https://pop.culture.gouv.fr/notice/merimee/IA00045380>
+- **Monument sépulcral de Jean Chandos** — Palissy **PM86000321** (5 clichés) :
+  <https://pop.culture.gouv.fr/notice/palissy/PM86000321>
+
 ---
 
 ## 11. Notes critiques et sources
@@ -339,6 +386,11 @@ clichés anciens de la **Médiathèque de l'architecture et du patrimoine**, fon
 - **Datation des peintures** : XIIIe (1230-1250) **ou** XIVe s. selon les sources ;
   découvertes 1978, restaurées 1982-1983.
 - **Nombre de travées de la nef** : **4 ou 5** selon les sources.
+- **Datation voûtes/clocher** : l'**Inventaire général** (IA00045380) les rapproche
+  de la **fin du XIIe s.**, là où ArmmA situe le grand remaniement en **1230-1250**.
+- **Tombeau de Chandos** : **monument commémoratif déplacé à Mazerolles (1886)**, à
+  distinguer du **lieu d'inhumation** (Morthemer) ; dates flottantes (comput).
+- **Écu de la crypte** : lu **Taveau** (ArmmA) ou **Sénéchal** selon les sources.
 - **Tour de Cognac** : datation (Xe/XIe s.) et fonction **à confirmer en archives**.
 - **Le « trou-œil »** : **non documenté** ; hypothèses (§ 8) à valider sur place.
 
@@ -372,5 +424,6 @@ clichés anciens de la **Médiathèque de l'architecture et du patrimoine**, fon
 
 ---
 
-*Document de recherche — version 2.0 (édition approfondie). Le PDF chronologique
+*Document de recherche — version 3.0 (élargissement iconographique : plans,
+peintures, héraldique, monument de Chandos ; voir aussi `CREDITS.md`). Le PDF
 illustré (`Morthemer-Recherche-Historique.pdf`) est généré à partir de ces données.*
