@@ -180,8 +180,11 @@ figure('02-donjon-ouest.jpg',"Le donjon, face ouest : tourelles-contreforts et p
 h1('5. L’église et le passage des seigneurs et chevaliers');
 para("Église romane des XIe–XIIe s. : chevet et crypte (2e moitié XIe s.) ; transept, nef et clocher "
   +"remaniés (gothique) — fin XIIe s. selon l’Inventaire, 1230-1250 selon ArmmA. Collégiale dès les "
-  +"années 1220, fortifiée au XIVe s. Plan en croix latine, chœur en hémicycle sur crypte, "
-  +"clocher-porche à flèche, modillons sculptés au chevet.");
+  +"années 1220. Voûtes de style angevin et transept asymétrique (XIIIe s.) ; le poids du clocher "
+  +"impose de renforcer l’abside (les 2 escaliers de la crypte sont alors condamnés, remplacés par un "
+  +"escalier central). Au XIVe s., fortifiée : murs surélevés, fenêtres condamnées, meurtrières "
+  +"(cf. § 7) ; système défensif supprimé par Boeswillwald au XIXe s. Plan en croix latine, chœur en "
+  +"hémicycle sur crypte, clocher-porche à flèche, modillons sculptés au chevet.");
 h2('L’imbrication église ↔ château');
 bullet("Un passage voûté sous la 2e travée de la nef mène à la cour du château : on entre dans la "
   +"forteresse par l’église.");
@@ -236,17 +239,21 @@ h1('7. Le mystère du « trou en forme d’œil »');
 para("Question : la voûte présenterait un trou en forme d’œil, à l’opposé du clocher. Aucun document "
   +"public ne le décrit ; interprétation argumentée, à confirmer in situ. Le clocher est vers l’est "
   +"(chœur/château) ; « à l’opposé » désigne la partie ouest (ancien portail muré).");
-h2('Hypothèse privilégiée : une trémie d’église-refuge (fortification du XIVe s.)');
-para("Hypothèse fondée sur l’observation d’un toit exhaussé (de l’ordre de 3 m) : elle est la plus "
-  +"cohérente avec un fait établi — l’église a été FORTIFIÉE au XIVe s. (§ 5), en pleine guerre de "
-  +"Cent Ans. Dans les églises fortifiées, l’espace ménagé entre les voûtes et le toit servait de "
-  +"SALLE DE REFUGE aux non-combattants, qui y montaient vivres et coffres ; l’accès se faisait par "
-  +"un percement de la voûte — une TRÉMIE, parfois doublée d’une trappe — par laquelle on hissait "
-  +"gens et provisions, et qui servait de point de SURVEILLANCE. La forme « en œil » serait alors "
-  +"l’orifice de hissage / d’observation du refuge haut.");
-bullet("S’appuie sur la fortification avérée (XIVe s.), non sur une conjecture symbolique.");
+h2('Hypothèse privilégiée : un vestige du dispositif défensif (église-refuge, XIVe s.)');
+para("L’exhaussement est attesté par une source : l’exposé HÉRAGE (d’après la thèse de Ph. Durand) "
+  +"décrit le XIVe s. ainsi —");
+quote("« C’est l’époque de la Guerre de Cent Ans. On fortifie l’église en surélevant les murs, en "
+  +"condamnant les fenêtres et en ouvrant des meurtrières. » — et au XIXe s. : « On supprime tout le "
+  +"système défensif de la Guerre de Cent Ans » (restauration Boeswillwald).",
+  "HÉRAGE, Morthemer, un village, une histoire (2005), d’après Ph. Durand.");
+para("C’est exactement la surélévation (« toit rehaussé ») observée. Dans les églises fortifiées, "
+  +"l’espace entre les voûtes et le toit servait de SALLE DE REFUGE (vivres, coffres) ; l’accès se "
+  +"faisait par un percement de la voûte — une TRÉMIE, parfois doublée d’une trappe — par laquelle on "
+  +"hissait gens et provisions, et qui servait de point de SURVEILLANCE. Le « trou » s’explique donc "
+  +"comme un vestige de ce niveau de défense : meurtrière rescapée ou trémie du comble-refuge — la "
+  +"plupart du système ayant été démantelé par Boeswillwald, d’où sa rareté et le mystère qui l’entoure.");
+bullet("Attesté par écrit (murs surélevés, fenêtres condamnées, meurtrières) — pas une conjecture.");
 bullet("Le toit exhaussé crée précisément l’espace de refuge que la trémie dessert.");
-bullet("Typologie documentée : « la nef pour le bétail, le refuge au-dessus pour les non-combattants », accès par trappe de surveillance.");
 bullet("La position « à l’opposé du clocher » (ouest) cadre avec un accès au comble éloigné du beffroi.");
 para("À vérifier sur place : y a-t-il une salle dans le comble au-dessus des voûtes ? Le trou est-il "
   +"une trémie traversante (et non un oculus de pignon) ? Traces d’exhaussement (reprises de "
@@ -347,7 +354,7 @@ h2('Sources principales');
   "POP : château PA00105752 ; Inventaire IA00045380 ; cénotaphe Chandos PM86000321.",
   "ArmmA (SAPRAT/CNRS/Univ. Poitiers) ; base des collégiales séculières (Univ. Limoges, 1223-1790).",
   "Beauchet-Filleau, familles du Poitou ; Histoire de la famille Taveau ; chartes de Nouaillé.",
-  "HÉRAGE, « Morthemer, un village, une histoire » (2005) ; site Valdivienne (Dame d’Or) ; Terra Aventura.",
+  "HÉRAGE, « Morthemer, un village, une histoire » (2005, d’après Ph. Durand) — fortification « en surélevant les murs » ; Dame d’Or (Trésors de l’Histoire, 1990).",
   "IGN/data.geopf.fr (Cassini, état-major) ; Médiathèque Grand Poitiers ; Wikimedia Commons.",
 ].forEach(s=>bullet(s));
 doc.moveDown(0.5); hr();

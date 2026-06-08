@@ -120,6 +120,25 @@ années 1220 ; **fortifiée au XIVe s.**
 **chœur en hémicycle** sur crypte. **Clocher-porche** à flèche ; **modillons
 sculptés** au chevet.
 
+**Campagnes de construction (d'après la thèse de Ph. Durand, via HÉRAGE) :**
+- **XIe s.** : église à **nef unique**, abside sur crypte ; **2 escaliers latéraux**
+  desservaient la crypte ; toit en **charpente de bois** ; **portail à l'opposé de
+  l'abside** (ouest). *(Une autre église, St-Christophe de Montierneuf, existait dans
+  le cimetière.)*
+- **XIIIe s.** : ajout du **transept** et du **clocher**, **voûtes de style angevin** ;
+  transept **asymétrique** (nord plus court, à cause du sol) ; le **poids du clocher**
+  impose de **renforcer l'abside** — de **gros blocs** dans la crypte **condamnent les
+  2 escaliers**, remplacés par un **escalier central**.
+- **XIVe s.** : **bâtiment au nord de la nef** pour les **tombeaux des seigneurs** ;
+  **fortification** (guerre de Cent Ans) : **murs surélevés, fenêtres condamnées,
+  meurtrières** (cf. § 7).
+- **fin XVIIe s.** : **bâtiment de liaison** donjon↔église → **suppression du portail
+  de façade** (2 portes, nord et sud) ; **tribune** au-dessus de l'ancien portail ;
+  **démolition** du bâtiment des tombeaux.
+- **fin XIXe s.** : **Boeswillwald** **supprime tout le système défensif**, refait
+  murs, vitraux, **toiture**, sol ; la **chapelle du transept nord** devient chapelle
+  privée des **Soubeyran**. (Classée MH — **1908**, *1909* selon HÉRAGE.)
+
 **Imbrication église ↔ château (le passage des seigneurs/chevaliers).** L'église et
 le château sont **soudés** sur le rocher. Un **passage voûté sous la 2ᵉ travée de la
 nef** mène à la **cour du château** : on entre dans la forteresse **par l'église**.
@@ -230,12 +249,22 @@ avec les **chartes de l'abbaye de Nouaillé** et **Beauchet-Filleau** (famille d
 argumentée, à confirmer par un **relevé sur place**. Le clocher est vers l'**est**
 (chœur/château) ; « à l'opposé » = partie **ouest** (ancien portail muré).
 
-### Hypothèse privilégiée : une **trémie d'église-refuge** (mise en défense du XIVe s.)
+### Hypothèse privilégiée : un **vestige du dispositif défensif** (église-refuge, XIVe s.)
 
-Cette piste — proposée à partir de l'observation que **le toit aurait été exhaussé**
-(de l'ordre de **3 m**) — est la **plus cohérente avec un fait établi** : l'église de
-Morthemer a été **fortifiée au XIVe siècle** (§ 5), en pleine guerre de Cent Ans
-(épisode Chandos, 1369-1370).
+**Une source primaire confirme l'exhaussement.** L'exposé **HÉRAGE** (d'après la
+**thèse de Philippe Durand**) décrit ainsi le XIVe s. : *« C'est l'époque de la Guerre
+de Cent Ans. On **fortifie l'église en surélevant les murs, en condamnant les fenêtres
+et en ouvrant des meurtrières**. »* — exactement la **surélévation** (« toit rehaussé »)
+proposée. Et au XIXe s. : *« On **supprime tout le système défensif** de la Guerre de
+Cent Ans »* (restauration Boeswillwald), avec réfection de la **toiture** et des murs.
+
+**Conséquence pour le « trou ».** Le percement s'explique alors comme un **vestige du
+niveau de défense / de refuge** aménagé au XIVe s. **au-dessus des voûtes** sous les
+**murs surélevés** : soit une **meurtrière** rescapée, soit la **trémie** d'accès au
+comble-refuge (par où l'on **hissait gens et vivres** et où l'on **surveillait**). La
+plupart de ce système ayant été **démantelé par Boeswillwald**, un tel orifice serait
+l'un des **rares témoins** survivants — ce qui explique aussi qu'il **intrigue** et ne
+soit pas « expliqué » par les notices touristiques.
 
 Dans les **églises fortifiées**, l'**espace ménagé entre les voûtes et le toit**
 (comble surélevé) servait de **salle de refuge** pour les non-combattants, qui y
@@ -272,12 +301,14 @@ de maçonnerie, ancienne ligne de toit), des **corbeaux/échelle/trappe**, des
 4. **Communication avec la tribune seigneuriale** (observation / son).
 5. **Ouverture acoustique** (vase scellé) — ou **hagioscope** (si le trou est dans un mur).
 
-**Conclusion provisoire (révisée).** Compte tenu de la **fortification documentée**,
-l'explication la plus probable est désormais une **trémie d'accès à une salle de
-refuge** aménagée sous un **toit exhaussé** — fonction de **hissage / surveillance**
-plutôt que de pur ornement. L'hypothèse de l'**oculus de lumière** reste l'alternative
-si le percement se révèle être au pignon. **À trancher par un relevé du comble** et
-auprès de la **CRMH Nouvelle-Aquitaine**.
+**Conclusion (révisée à la lumière de la source).** L'exhaussement des murs est
+**attesté par écrit** (HÉRAGE/Durand) : l'explication la plus probable du « trou » est
+un **vestige du dispositif défensif du XIVe s.** (meurtrière, ou trémie d'accès au
+**comble-refuge** : hissage de gens/vivres, surveillance), la majeure partie du système
+ayant été **supprimée par Boeswillwald**. L'**oculus de lumière** ne reste l'hypothèse
+que si le percement se révèle être au **pignon**. **À confirmer par un relevé du
+comble** (salle de refuge ? trémie ? meurtrières ?) et auprès de la **CRMH
+Nouvelle-Aquitaine**.
 
 ---
 
@@ -312,8 +343,9 @@ le 6 novembre 1909** (Palissy **PM86000321**). Une **rue Chandos** subsiste à M
   contraints de capituler devant **Du Guesclin**, auraient **caché une Vierge en or
   dans un souterrain** sans jamais revenir ; elle n'aurait jamais été retrouvée. Les
   **souterrains** de Morthemer (réels, périodiquement redécouverts) entretiennent le
-  mystère. Légende reprise par le parcours **Terra Aventura « La Malédiction de la
-  Dame d'Or »** (site officiel de Valdivienne ; Tourisme Vienne).
+  mystère. Anecdote « connue des gens de Morthemer », publiée dans la revue ***Trésors
+  de l'Histoire* (août 1990)** et reprise par le parcours **Terra Aventura « La
+  Malédiction de la Dame d'Or »** (site officiel de Valdivienne ; Tourisme Vienne).
 - 👻 **Le fantôme de Chandos** : des pas entendus la nuit autour du château —
   **tradition orale contemporaine**.
 - 🐾 **L'empreinte de saint Martin** (cupule de la chapelle du *Pas-de-Saint-Martin*)
@@ -374,8 +406,10 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 ## 10. Notes critiques et sources
 
 ### Points débattus / à vérifier
-- **Hastings (1066)** : tradition locale ; famille de Mortemer présente à la conquête
-  = **normande** (Mortemer-en-Bray). Attribution **douteuse**.
+- **Hastings (1066)** : **débat**. L'historiographie courante attribue le « Mortemer »
+  de la conquête à la **Normandie** (Mortemer-en-Bray). HÉRAGE **défend au contraire**
+  un **Raoul de Mortemer poitevin** (contingent du Haut-Poitou), avec parenté possible
+  entre les deux lignées. À traiter comme **revendication locale**, non comme fait acquis.
 - **« Chapelle castrale »** : qualification **contestée** par ArmmA (paroissiale +
   collégiale dès 1220).
 - **Datation voûtes/clocher** : **fin XIIe s.** (Inventaire) vs **1230-1250** (ArmmA).
@@ -414,8 +448,11 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 - **Base des collégiales séculières de France** (Univ. Limoges) — chapitre 1223-1790.
 - **Beauchet-Filleau**, *Dictionnaire… familles du Poitou* ; *Histoire de la famille
   Taveau de Morthemer* (Montamisé) ; **chartes de l'abbaye de Nouaillé** (Gallica).
-- **HÉRAGE**, *Morthemer, un village, une histoire* (16 avr. 2005) :
-  <https://docplayer.fr/23284726>.
+- **HÉRAGE**, *Morthemer, un village, une histoire* (16 avr. 2005, d'après la **thèse
+  de Ph. Durand**) — **source de la fortification « en surélevant les murs »** (§ 7) et
+  de la Dame d'Or. PDF via Wayback :
+  <https://web.archive.org/web/20250126082056/https://www.herage.org/telechargements/antenne_expose_20050416_morthemer.pdf>
+  (aussi <https://docplayer.fr/23284726>).
 - Site officiel **Valdivienne** (*Histoire et Légendes* — Dame d'Or) ; **Terra Aventura**
   (Tourisme Vienne) ; offices de tourisme ; **Wikimedia Commons** ; **IGN/data.geopf.fr**
   (cartes Cassini & état-major).
