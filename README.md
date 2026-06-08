@@ -26,3 +26,42 @@ cherche et récupère tout écrit d'époque aillant été écrit à partir de 90
 
 ## Finalité
 créer un PDF extrêmement précis sur ta recherche en suivant la chronologie depuis l'années 900
+
+---
+
+# 📋 Résultats de la recherche
+
+> *Cette partie est le **rendu** de la mission ci-dessus (le cahier des charges
+> au-dessus est conservé tel quel). Travail repris de zéro sur la base actualisée.*
+
+## Livrables
+| Livrable | Fichier | Contenu |
+|----------|---------|---------|
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | 10 pages, chronologie depuis l'an 900, 10 illustrations, citation de Froissart |
+| 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
+| ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
+| 🖼️ **Iconographie** | [`images/`](images/) | 14 images libres (dont une **miniature de manuscrit**) |
+| ⚖️ **Crédits & licences** | [`CREDITS.md`](CREDITS.md) | Source/licence de chaque image + liens manuscrits/plans/gravures |
+| ⚙️ **Générateur du PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
+
+## Les 4 thèmes demandés — réponses
+- 🏯 **Château** : 1ʳᵉ mention Xe s. ; donjon carré à 5 niveaux (re)bâti par les *Sénéchal* (~1375) ; quasi-ruine avant 1860 puis **restauration de Boeswillwald (1865)** ; MH 1927/2008.
+- ⛪ **Église collégiale Notre-Dame** : romane (XIe-XIIe s.), crypte peinte (Christ en Majesté, Vierge à l'Enfant) ; **soudée au château** — on y entre **par un passage voûté sous la nef** ; MH 1908.
+- 🗼 **Tour de Cognac** : XIe s., toponyme *Conniacum* (rien à voir avec la ville de Cognac) ; **peu documentée** → archives à dépouiller.
+- 👁️ **Trou « en forme d'œil »** : **non documenté** ; hypothèse la plus probable = un **oculus** (lumière + symbole de l'« Œil de Dieu »), à valider in situ.
+
+## Pièce maîtresse : un écrit d'époque
+Le récit par **Jean Froissart** de la mort de **Jean Chandos** transporté à *Mortemer*
+(1ᵉʳ janvier 1370) est cité **mot à mot** dans le PDF et dans
+[`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md), avec ses **variantes manuscrites**.
+
+> ⚠️ **Images d'archives sous droits** (peintures de la crypte, plan d'architecte,
+> manuscrits enluminés, cartes postales) : **non redistribuées** dans ce dépôt mais
+> **liées** avec attribution dans [`CREDITS.md`](CREDITS.md). Seules les images libres
+> (domaine public / CC) sont téléchargées.
+
+## Régénérer le PDF
+```bash
+npm install pdfkit
+NODE_PATH=/chemin/vers/node_modules node generate-pdf.js   # -> Morthemer-Recherche-Historique.pdf
+```
