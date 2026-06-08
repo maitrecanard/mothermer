@@ -9,9 +9,12 @@ documents **sous droits réservés** (clichés de laboratoire, photothèques) ne
 
 ## 1. Images téléchargées dans `images/` (réutilisables)
 
-Source : **Wikimedia Commons**. Beaucoup sont des clichés anciens (début XXe s.) de
-la **Médiathèque de l'architecture et du patrimoine** (fonds *APMH*, domaine
-public). Licence exacte par fichier : voir sa page Commons
+Sources : **Wikimedia Commons** (clichés anciens *APMH* en domaine public ;
+miniatures de manuscrits de Froissart en domaine public) et **IGN /
+data.geopf.fr** pour les **plans d'époque** (carte de Cassini, XVIIIᵉ s. ; carte
+d'état-major, 1820-1866), diffusés sous **Licence Ouverte Etalab** (attribution :
+« IGN — data.geopf.fr », fonds Cassini d'après la BnF). Licence exacte des images
+Commons : voir la page de chaque fichier
 (<https://commons.wikimedia.org/wiki/Category:Ch%C3%A2teau_de_Morthemer>).
 
 | Fichier | Sujet | Origine / licence |
@@ -29,7 +32,10 @@ public). Licence exacte par fichier : voir sa page Commons
 | `11-statue-vierge.jpg` | Statue Vierge à l'Enfant | Commons |
 | `12-dames-de-morthemer.jpg` | Illustration « Dames de Morthemer » | Commons |
 | `chandos-mort-lussac.jpg` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
+| `manuscrit-froissart-poitiers.jpg` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
+| `plan-cassini-morthemer.jpg` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |
+| `plan-etat-major-morthemer.jpg` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
 
 ---
 

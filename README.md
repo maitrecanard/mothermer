@@ -40,7 +40,7 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 | 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | 10 pages, chronologie depuis l'an 900, 10 illustrations, citation de Froissart |
 | 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
 | ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
-| 🖼️ **Iconographie** | [`images/`](images/) | 14 images libres (dont une **miniature de manuscrit**) |
+| 🖼️ **Iconographie** | [`images/`](images/) | **17 images libres** : 2 **plans d'époque** (Cassini, état-major), 2 **manuscrits** (Froissart), objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
 | ⚖️ **Crédits & licences** | [`CREDITS.md`](CREDITS.md) | Source/licence de chaque image + liens manuscrits/plans/gravures |
 | ⚙️ **Générateur du PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
 
@@ -55,10 +55,19 @@ Le récit par **Jean Froissart** de la mort de **Jean Chandos** transporté à *
 (1ᵉʳ janvier 1370) est cité **mot à mot** dans le PDF et dans
 [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md), avec ses **variantes manuscrites**.
 
-> ⚠️ **Images d'archives sous droits** (peintures de la crypte, plan d'architecte,
-> manuscrits enluminés, cartes postales) : **non redistribuées** dans ce dépôt mais
-> **liées** avec attribution dans [`CREDITS.md`](CREDITS.md). Seules les images libres
-> (domaine public / CC) sont téléchargées.
+### 🆕 Plans, manuscrits et reliques (ajoutés)
+- 🗺️ **Plans d'époque** *téléchargés* (domaine public, via IGN/data.geopf.fr) :
+  **carte de Cassini** (XVIIIᵉ s.) et **carte d'état-major** (1820-1866) centrées sur
+  Morthemer — `images/plan-cassini-morthemer.jpg`, `images/plan-etat-major-morthemer.jpg`.
+- 📜 **Manuscrits** *téléchargés* (domaine public) : deux miniatures des *Chroniques*
+  de **Froissart** — mort de Chandos à Lussac, et bataille de Poitiers.
+- ⚱️ **Objets / reliques** : gisant de Renée Sanglier, peintures de la crypte, statue
+  Vierge à l'Enfant, vitrail de sainte Radegonde (images libres) ; **tombeau de
+  chevalier** (épée + écu gravés) et **sarcophage** en liens (ArmmA).
+
+> ⚠️ Restent **liés** (droits réservés, non redistribués) : le **plan d'architecte
+> Durand (1979-80)**, les **photos des peintures de la crypte** d'ArmmA, et les
+> **cartes postales** anciennes — voir [`CREDITS.md`](CREDITS.md).
 
 ## Régénérer le PDF
 ```bash

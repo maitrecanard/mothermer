@@ -161,10 +161,14 @@ illustre l'évolution classique du castrum poitevin entre le XIe et le XIVe s.
 actuel** : aucun lieu-dit « Cognac » n'apparaît dans la Base Adresse Nationale ni
 dans OpenStreetMap pour Valdivienne, et le nom ne figure pas dans l'article
 encyclopédique. « **Cognac** » est ici un **microtoponyme** (du gallo-romain
-*Conniacum*, type *-acum*), **sans rapport** avec la ville de Cognac. **À documenter
-sur place et en archives** : *Dictionnaire topographique de la Vienne* de **L. Rédet**
-(1881, qui recense les noms de lieu anciens et modernes), **cadastre napoléonien**
-et **terriers** de la châtellenie aux **Archives départementales de la Vienne**.
+*Conniacum*, type *-acum*), **sans rapport** avec la ville de Cognac. L'examen des
+**cartes anciennes** rassemblées ici — **Cassini** (XVIIIᵉ s.) et **état-major**
+(1820-1866) — n'a pas livré de toponyme « Cognac » lisible aux abords de Morthemer
+(noms voisins relevés : *la Tour*, *le Chai au Bourgeois*, *le Châtelard
+Bourgeois*…). **À documenter sur place et en archives** : *Dictionnaire topographique
+de la Vienne* de **L. Rédet** (1881), **cadastre napoléonien** (sections, à fort
+grossissement) et **terriers** de la châtellenie aux **Archives départementales de la
+Vienne**.
 
 ---
 
@@ -232,8 +236,17 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `10-vitrail-radegonde.jpg` | Vitrail de sainte Radegonde |
 | `11-statue-vierge.jpg` | Statue Vierge à l'Enfant |
 | `12-dames-de-morthemer.jpg` | Illustration « Dames de Morthemer » (légende) |
-| `chandos-mort-lussac.jpg` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos |
+| `chandos-mort-lussac.jpg` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
+| `manuscrit-froissart-poitiers.jpg` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
 | `chandos-blason.png` | Armoiries de Sir John Chandos |
+| `plan-cassini-morthemer.jpg` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
+| `plan-etat-major-morthemer.jpg` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
+
+**Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
+(`09-eglise-gisant.jpg`), les **peintures de la crypte** (`06`), la **statue Vierge
+à l'Enfant** (`11`), le **vitrail de sainte Radegonde** (`10`). À cela s'ajoutent (en
+liens, § 9.2, droits réservés) le **tombeau de chevalier en dos d'âne** (épée et écu
+gravés, au pied du gisant) et le **sarcophage** étudiés par ArmmA.
 
 ### 9.2 Manuscrits, plans, gravures — **liens** (droits réservés, non redistribués)
 - **Manuscrits enluminés de Froissart** (miniatures du combat de Lussac / mort de

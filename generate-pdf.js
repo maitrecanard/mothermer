@@ -201,10 +201,13 @@ para("Lecture d’historien : c’est une tour résidentielle seigneuriale (tour
   +"se trouvait dans cette tour primitive ; le siège seigneurial a ensuite glissé vers le château "
   +"actuel — évolution classique du castrum poitevin du XIe au XIVe s.");
 para("Reste à préciser : la localisation cadastrale et l’état actuel. Aucun lieu-dit « Cognac » "
-  +"n’apparaît dans la Base Adresse Nationale ni dans OpenStreetMap pour Valdivienne. « Cognac » est "
-  +"un microtoponyme (gallo-romain Conniacum), sans rapport avec la ville de Cognac. À documenter via "
-  +"le Dictionnaire topographique de la Vienne (Rédet, 1881), le cadastre napoléonien et les terriers "
-  +"(Archives départementales de la Vienne).");
+  +"n’apparaît dans la Base Adresse Nationale ni dans OpenStreetMap pour Valdivienne, ni — à la "
+  +"lecture — sur les cartes anciennes ci-dessous. « Cognac » est un microtoponyme (gallo-romain "
+  +"Conniacum), sans rapport avec la ville de Cognac. À documenter via le Dictionnaire topographique "
+  +"de la Vienne (Rédet, 1881), le cadastre napoléonien et les terriers (Arch. dép. de la Vienne).");
+h2('Plans d’époque (cartes anciennes)');
+figure('plan-cassini-morthemer.jpg',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",330);
+figure('plan-etat-major-morthemer.jpg',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",330);
 
 /* ---- 7. TROU-ŒIL ---- */
 h1('7. Le mystère du « trou en forme d’œil »');
@@ -236,6 +239,7 @@ note("Critique des sources : les manuscrits de Froissart divergent — les uns f
   +"« un jour et une nuit » après sa blessure, d’autres « le tiers jour après » — d’où le flottement "
   +"des dates (31 déc. 1369 / 1er janv. 1370). Texte complet : voir TEXTES-ET-ECRITS.md.");
 figure('chandos-mort-lussac.jpg',"Le combat du pont de Lussac où Chandos fut frappé — miniature d’un manuscrit médiéval des Chroniques (Wikimedia Commons, domaine public).",300);
+figure('manuscrit-froissart-poitiers.jpg',"Folio des Chroniques de Froissart : la bataille de Poitiers (1356), où Chandos s’illustra aux côtés du Prince Noir (Wikimedia Commons, domaine public).",300);
 para("À distinguer : le lieu d’inhumation (Morthemer) et le monument commémoratif (pierre du XIVe s. "
   +"en bâtière) déplacé en 1886 à Mazerolles, classé objet en 1909 (Palissy PM86000321).");
 h2('Légendes');
@@ -259,11 +263,12 @@ note("Écrits non numérisés à dépouiller : Archives départementales de la V
 
 /* ---- 10. ICONOGRAPHIE ---- */
 h1('10. Iconographie : manuscrits, plans, gravures');
-para("Les images libres (domaine public / CC) sont réunies dans le dossier images/ (source et "
-  +"licence de chaque fichier : CREDITS.md). Les documents sous droits réservés ne sont pas "
-  +"redistribués mais liés :");
-bullet("Manuscrits enluminés de Froissart (miniatures du combat de Lussac / mort de Chandos) — "
-  +"catégories Wikimedia Commons des Chroniques (BnF) ; une miniature figure au § 8.");
+para("Le dossier inclut désormais des images libres de chaque type demandé : deux miniatures de "
+  +"MANUSCRITS (Froissart, § 8), deux PLANS d’époque (Cassini et état-major, § 6), des OBJETS et "
+  +"reliques (gisant, peintures de la crypte, statue, vitrail) et des illustrations. Source et licence "
+  +"de chaque fichier : CREDITS.md. Les documents sous droits réservés ne sont pas redistribués mais liés :");
+bullet("Manuscrits enluminés de Froissart — autres folios des catégories Wikimedia Commons des "
+  +"Chroniques (BnF Fr 2643-2646, 2663-2664).");
 bullet("Plan de l’église (relevé Durand, 1979-1980) et peintures de la crypte — base ArmmA.");
 bullet("Gravures et clichés anciens — Congrès archéologique (Poitiers 1843) sur Gallica ; clichés "
   +"Gossin (1918), Médiathèque Grand Poitiers ; cartes postales anciennes (Geneanet).");
