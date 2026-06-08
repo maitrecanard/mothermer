@@ -73,9 +73,19 @@ function table(cols, widths, rows){
 }
 function figure(file, caption, maxH){
   const p=path.join(IMG,file); if(!fs.existsSync(p)) return; maxH=maxH||300;
-  ensureSpace(Math.min(maxH,180)); doc.moveDown(0.2);
-  try{ doc.image(p,{fit:[CONTENT_W,maxH],align:'center'}); }catch(e){ doc.fillColor('red').fontSize(9).text('[image: '+file+']'); }
-  doc.moveDown(0.2); doc.fillColor(MUTED).font('Times-Italic').fontSize(9).text(caption,{align:'center'}); doc.moveDown(0.6); doc.fillColor(INK);
+  let img; try{ img=doc.openImage(p); }catch(e){ return; }
+  const scale=Math.min(CONTENT_W/img.width, maxH/img.height);
+  const w=img.width*scale, h=img.height*scale;
+  const capH=caption?doc.heightOfString(caption,{width:CONTENT_W})+6:0;
+  // réserve la hauteur réelle (image + légende) ; saute de page si nécessaire
+  if (doc.y + h + capH + 10 > doc.page.height - doc.page.margins.bottom) doc.addPage();
+  doc.moveDown(0.2);
+  const x=LEFT+(CONTENT_W-w)/2, y=doc.y;
+  try{ doc.image(p, x, y, {width:w, height:h}); doc.y = y + h; }
+  catch(e){ doc.fillColor('red').fontSize(9).text('[image: '+file+']'); }
+  doc.moveDown(0.2);
+  if(caption){ doc.fillColor(MUTED).font('Times-Italic').fontSize(9).text(caption,{align:'center'}); }
+  doc.moveDown(0.6); doc.fillColor(INK);
 }
 
 /* ---- COUVERTURE ---- */
