@@ -183,6 +183,7 @@ para("Avant 1860, le château était si délabré que, sans l’intervention, «
   +"du XIXe s. Donjon inscrit MH 1927, ensemble 2008 (PA00105752). Propriété privée.");
 figure('01-chateau-vue-nord.png',"Le château, vue nord : le donjon restauré au XIXe s. et l’église (Wikimedia Commons).");
 figure('02-donjon-ouest.png',"Le donjon, face ouest : tourelles-contreforts et parapet (Wikimedia Commons).",320);
+figure('13-chateau-cour.png',"Le château vu de la cour : donjon crénelé et corps de logis à arcades (base Mémoire, Médiathèque de l’architecture et du patrimoine — Licence Ouverte).",330);
 
 /* ---- 5. ÉGLISE & PASSAGE ---- */
 h1('5. L’église et le passage des seigneurs et chevaliers');
@@ -202,6 +203,8 @@ bullet("La crypte servait de nécropole seigneuriale.");
 note("Point débattu : la qualification de « chapelle castrale » est contestée par ArmmA (église "
   +"paroissiale + collégiale dès 1220, non chapelle du château).");
 figure('08-eglise-chateau-nord.png',"Ensemble nord : la jonction entre l’église et le château (Médiathèque de l’architecture et du patrimoine).");
+figure('17-eglise-elevation-sud.png',"Élévation sud de l’église : clocher roman, nef et chevet (base Mémoire — Licence Ouverte).",300);
+figure('18-eglise-chevet-donjon.png',"Le chevet et le clocher de l’église, avec le donjon du château en arrière-plan (base Mémoire — Licence Ouverte).",330);
 para("Chapitre collégial : l’église Sainte-Marie est cédée en 1110-1111 aux moines de Saint-Cyprien "
   +"de Poitiers (confirmation du pape Calixte II, 1119) ; collège de chanoines séculiers de fondation "
   +"seigneuriale attesté de v.1223 à 1790 (supprimé à la Révolution).");
@@ -267,6 +270,7 @@ bullet("La position « à l’opposé du clocher » (ouest) cadre avec un accès
 para("À vérifier sur place : y a-t-il une salle dans le comble au-dessus des voûtes ? Le trou est-il "
   +"une trémie traversante (et non un oculus de pignon) ? Traces d’exhaussement (reprises de "
   +"maçonnerie, ancienne ligne de toit), corbeaux, échelle/trappe, meurtrières ?");
+figure('20-eglise-charpente-comble-1.png',"L’ESPACE SOUS COMBLE, au-dessus des voûtes de l’église : la charpente et l’extrados des voûtes — c’est précisément le volume où s’aménageait la salle de refuge (base Mémoire — Licence Ouverte).",330);
 h2('Autres hypothèses (subsidiaires)');
 bullet("Oculus / œil-de-bœuf : simple ouverture de lumière (si le percement est au pignon).");
 bullet("Symbolique — l’« Œil de Dieu » : faisceau de lumière sur le chœur.");

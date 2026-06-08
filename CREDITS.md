@@ -43,6 +43,15 @@ Commons : voir la page de chaque fichier
 | `manuscrit-chandos-garter-1435.png` | **Manuscrit** : portrait de Sir John Chandos, Garter Book (v. 1435, BL Stowe 594) | Domaine public (PD-old-100) — Wikimedia Commons |
 | `sceau-chandos-1357.png` | **Sceau** de Jean Chandos (1357) | Domaine public — Wikimedia Commons |
 | `chandos-cenotaphe-mazerolles.png` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) | Licence Ouverte etalab — base Mémoire (Min. Culture) |
+| `13-chateau-cour.png` | Château vu de la cour (donjon + logis à arcades) | Base Mémoire / MAP (Min. Culture) — Licence Ouverte |
+| `14-chateau-vue-ancienne.png` | Château, photographie ancienne | Base Mémoire / MAP — Licence Ouverte |
+| `15-eglise-flanc-sud.png` | Église, flanc sud (clocher, nef) | Base Mémoire / MAP — Licence Ouverte |
+| `16-eglise-village.png` | Église et village, panorama | Base Mémoire / MAP — Licence Ouverte |
+| `17-eglise-elevation-sud.png` | Église, élévation sud complète | Base Mémoire / MAP — Licence Ouverte |
+| `18-eglise-chevet-donjon.png` | Chevet + clocher + donjon en arrière-plan | Base Mémoire / MAP — Licence Ouverte |
+| `19-eglise-chevet.png` | Chevet et clocher (depuis le talus) | Base Mémoire / MAP — Licence Ouverte |
+| `20-eglise-charpente-comble-1.png` | **Comble** : charpente au-dessus des voûtes (espace-refuge, cf. § 7) | Base Mémoire / MAP — Licence Ouverte |
+| `21-eglise-charpente-comble-2.png` | **Comble** : charpente au-dessus des voûtes (2) | Base Mémoire / MAP — Licence Ouverte |
 
 ---
 
@@ -76,6 +85,18 @@ Page : <https://armma.saprat.fr/monument/sarcophage-morthemer-valdivienne/>
 - **Cadastre napoléonien** & terriers — **Archives départementales de la Vienne**.
 - Clichés *Gossin* (1918) — **Médiathèque Grand Poitiers** (cote 2017 A-B VIE F3).
 - Cartes postales anciennes (forteresse / Chandos) — **Geneanet** (compte requis).
+
+### 2.5 Fonds Le Falher (Lussac) — œuvres et clichés **sous droits** (liens)
+Site de **Pascal Le Falher** (historien local) / œuvres de **Lionel Le Falher** — non
+libres (hors « Les Dames de Morthemer », déjà CC, voir § 1 et § 4). À consulter via
+Wayback (le site Orange ne se résout plus directement) ; **ne pas redistribuer** sans
+autorisation :
+- **Photo du gisant + tombeau de chevalier « en dos d'âne »** (église de Morthemer) :
+  `…/Images/tombeau chandos morthemer.JPG`
+- **Écu sculpté (« Armes Chandos »)** : `…/Images/Armes Chandos.JPG`
+- **Bataille de Poitiers (roi Jean et Chandos)** : `…/Images/BATAILLE POITIERS ROI JEAN ET CHANDOS.JPG`
+- **Monument Chandos** (plusieurs vues) ; *Château et bataille navale* (sur Commons, CC).
+- Accès : `http://web.archive.org/web/2023*/http://pascal.lefalher.pagesperso-orange.fr/galerie_des_peintures_de_lionel_.htm`
 
 ---
 

@@ -416,6 +416,15 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `manuscrit-chandos-garter-1435.png` | **Manuscrit** : portrait de Sir John Chandos, *Garter Book* (v. 1435, BL Stowe 594) — Commons (DP) |
 | `sceau-chandos-1357.png` | **Sceau** de Jean Chandos (1357) — Commons (DP) |
 | `chandos-cenotaphe-mazerolles.png` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) — base Mémoire (Licence Ouverte) |
+| `13-chateau-cour.png` | Château vu de la cour (donjon + logis) — base Mémoire |
+| `14-chateau-vue-ancienne.png` | Château, photo ancienne — base Mémoire |
+| `15-eglise-flanc-sud.png` | Église, flanc sud — base Mémoire |
+| `16-eglise-village.png` | Église + village (panorama) — base Mémoire |
+| `17-eglise-elevation-sud.png` | Église, élévation sud — base Mémoire |
+| `18-eglise-chevet-donjon.png` | Chevet + clocher + donjon — base Mémoire |
+| `19-eglise-chevet.png` | Chevet et clocher — base Mémoire |
+| `20-eglise-charpente-comble-1.png` | **Comble** au-dessus des voûtes (espace-refuge, § 7) — base Mémoire |
+| `21-eglise-charpente-comble-2.png` | **Comble** au-dessus des voûtes (2) — base Mémoire |
 
 **Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
 (`09-eglise-gisant.png`), les **peintures de la crypte** (`06`), la **statue Vierge
