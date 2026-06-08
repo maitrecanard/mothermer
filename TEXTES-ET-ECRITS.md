@@ -25,6 +25,20 @@ ancienne « trace écrite » du lieu :
 > **Archives départementales de la Vienne** et à la **Société des Antiquaires de
 > l'Ouest** (Archives historiques du Poitou).
 
+**La plus ancienne mention écrite de la famille (charte de Nouaillé, n°177, v.
+1091-1115).** Le *Cartulaire de l'abbaye de Nouaillé* (éd. Monsabert, p. 279)
+conserve cet acte :
+
+> *« Engelelme de Morthemer et ses frères Pierre et Bernard renoncent aux redevances
+> que leur père Engelelme percevait indûment à Fleuré, Mazerolles, Bouresse, la Carte
+> d'Arbert, et à un droit de pacage dont ils jouissaient ; le tout rendu déjà à
+> l'abbaye de Nouaillé par Engelelme le père, mais conservé par le fils… »*
+
+C'est le **plus ancien écrit** rattachant des **« de Morthemer »** à des droits
+seigneuriaux (fin XIe – début XIIe s.). Le même cartulaire cite aussi *Goscelin*,
+*Samuel le Riche de Mortemer*, et un *Petrus, prior de Mortemer* (prieuré dépendant
+de Nouaillé). *(Page reproduite : `images/document-cartulaire-nouaille.jpg`.)*
+
 ### 1.2 Jean Froissart, *Chroniques* (v. 1370-1400) — **source capitale**
 Froissart consacre à la **mort de Jean Chandos à Mortemer** (1er janvier 1370) l'une
 des pages les plus célèbres de ses *Chroniques*. Texte d'époque reproduit

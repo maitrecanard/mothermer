@@ -155,6 +155,10 @@ table(['Date','Événement'],[1.1,4],[
 
 /* ---- 3. SEIGNEURS ---- */
 h1('3. Les seigneurs de Morthemer');
+para("La plus ancienne mention écrite de la famille figure dans une charte de l’abbaye de Nouaillé "
+  +"(v. 1091-1115) : « Engelelme de Morthemer et ses frères Pierre et Bernard renoncent aux redevances "
+  +"que leur père Engelelme percevait… à Fleuré, Mazerolles, Bouresse… » (cf. ci-dessous).");
+figure('document-cartulaire-nouaille.jpg',"La plus ancienne trace écrite : charte n°177 du cartulaire de l’abbaye de Nouaillé (v. 1091-1115) nommant Engelelme de Morthemer et ses frères (éd. Monsabert, p. 279 — source gallica.bnf.fr / BnF).",380);
 table(['Période','Lignée','Faits'],[1.2,1.5,3],[
   ['XIe–XIIIe s.','de Morthemer (vic. de Châtellerault)',"Nom cité dès 1054 ; châtellenie 1077."],
   ['XIIIe s.','Chenin puis de la Vergne',"Guillaume V Chenin (†v.1276), Agathe Chenin, Guillaume de la Vergne."],
@@ -279,6 +283,7 @@ para("Jean (John) Chandos († 1er janv. 1370), sénéchal du Poitou et connéta
   +"capitaine anglais de la guerre de Cent Ans, fut blessé au pont de Lussac le 31 décembre 1369 "
   +"(coup de Jacques de Saint-Martin), transporté à Mortemer, « la plus prochaine forteresse », où il "
   +"mourut. Jean Froissart en a tiré l’une des plus belles pages de ses Chroniques (texte d’époque) :");
+figure('manuscrit-chandos-garter-1435.jpg',"Sir John Chandos, portrait enluminé du « Garter Book » de William Bruges (v. 1435, British Library, Stowe MS 594) — avec ses armes et l’insigne de la Jarretière (Wikimedia Commons, domaine public).",330);
 quote("« Là fu li dis monsigneur Jehan Chandos de ses gens desarmés moult doucement et couchiés sus "
   +"targes et sus pavais, et amenés et aportés tout le pas à Mortemer, le plus proçainne forterèce de "
   +"là. […] Li gentilz chevaliers dessus nommés ne vesqui de ceste navrure q’un jour et une nuit, et "
@@ -298,6 +303,7 @@ para("Version divergente : la Chronique de Bertrand du Guesclin de Cuvelier fait
   +"monument commémoratif (pierre en bâtière, XIVe s.), longtemps près du pont de Lussac, a été "
   +"déplacé en 1886 à Mazerolles (lieu-dit Aubeniaux) ; classé objet le 6 novembre 1909 (Palissy "
   +"PM86000321). Une rue Chandos subsiste à Morthemer.");
+figure('chandos-cenotaphe-mazerolles.jpg',"Le cénotaphe de Jean Chandos (croix et dalle en bâtière sur dais), aujourd’hui à Mazerolles — cliché ancien (base Mémoire, Min. de la Culture, Licence Ouverte).",300);
 h2('Légendes locales');
 bullet("La « Dame d’Or » : pendant la guerre de Cent Ans, les Anglais capitulant devant Du Guesclin "
   +"auraient caché une Vierge en or dans un souterrain, jamais retrouvée — légende reprise par le "

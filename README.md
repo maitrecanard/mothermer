@@ -37,10 +37,10 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Livrables
 | Livrable | Fichier | Contenu |
 |----------|---------|---------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **16 pages**, chronologie depuis l'an 900, 15 illustrations, citations de Froissart, de l'épitaphe de Chandos et de Rédet |
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **18 pages**, chronologie depuis l'an 900, ~20 illustrations, citations (Froissart, épitaphe de Chandos, Rédet, charte de Nouaillé) |
 | 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
 | ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
-| 🖼️ **Iconographie** | [`images/`](images/) | **19 images libres** : 2 **plans d'époque** (Cassini, état-major), 2 **manuscrits** (Froissart), 2 **documents/écrits** (Rédet, Beauchet-Filleau — Gallica/BnF), objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
+| 🖼️ **Iconographie** | [`images/`](images/) | **24 images libres** : 2 **plans d'époque** (Cassini, état-major), **manuscrits** (Froissart ; **portrait de Chandos**, Garter Book 1435), **écrits** (charte de **Nouaillé** v.1091-1115, Rédet, Beauchet-Filleau, blason Taveau), **sceau** de Chandos (1357), **cénotaphe** de Chandos, objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
 | ⚖️ **Crédits & licences** | [`CREDITS.md`](CREDITS.md) | Source/licence de chaque image + liens manuscrits/plans/gravures |
 | ⚙️ **Générateur du PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
 
@@ -55,6 +55,13 @@ Le récit par **Jean Froissart** de la mort de **Jean Chandos** transporté à *
 (1ᵉʳ janvier 1370) est cité **mot à mot** (PDF + [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md)),
 avec ses **variantes manuscrites**, l'**épitaphe** (« *A Mortemer mon corps enterrer firent* »)
 et la **version rivale de Cuvelier** (mort à Chauvigny).
+
+## 🌍 Moisson multi-registres (départemental → international)
+Campagne de collecte sur 4 niveaux (BnF/Gallica, Poitou/Inventaire, Vienne, sources anglo-normandes).
+**Nouvelles pièces libres téléchargées** : la **charte de Nouaillé** (v. 1091-1115, *Engelelme de
+Morthemer* — plus ancien écrit), le **portrait enluminé de Chandos** (Garter Book, v. 1435), son
+**sceau** (1357), le **cénotaphe** de Mazerolles (base Mémoire), les pages **Rédet** et
+**Beauchet-Filleau** (Gallica/BnF). Détails et URLs : [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md), [`CREDITS.md`](CREDITS.md).
 
 ## 🔬 Enquête approfondie (dernière passe)
 Recherche multi-sources étendue sur l'**histoire, les légendes et les écrits** des trois

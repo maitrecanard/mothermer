@@ -50,6 +50,7 @@ dormante : étang, marais), soit **« mer morte »** (*Mortuum Mare*), en écho 
 | **1054** | Le nom des **seigneurs de Morthemer** est cité (vicomtes de Châtellerault). |
 | **1066** | *(Tradition locale)* « Raoul de Mortemer » à Hastings — **⚠ confusion probable** avec les **Mortemer normands** (§ 10). |
 | **1077** | *Castellania Mortemari* (châtellenie) ; forme *Mortemarum*. |
+| **v. 1091-1115** | **Engelelme de Morthemer** et ses frères Pierre et Bernard (charte de l'**abbaye de Nouaillé**, n°177) — plus ancienne mention écrite de la famille. |
 | **XIe s.** | **Tour de Cognac** : selon la tradition, première résidence des seigneurs (à l'écart). *N.B. : les textes ne l'attestent qu'à partir des années 1370 (§ 6).* Chevet et **crypte romans** (2ᵉ moitié XIe s.). |
 | **1110-1111** | L'église Sainte-Marie est **cédée par l'évêque Pierre II aux moines de Saint-Cyprien de Poitiers** (confirmé par le pape **Calixte II en 1119**). |
 | **fin XIe–déb. XIIe s.** | **Église romane Notre-Dame** (chœur, crypte). |
@@ -385,6 +386,11 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
 | `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac, donjon en ruine à Mortemer », Rédet (1881, p. 129) — Gallica/BnF |
 | `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) — Gallica/BnF |
+| `document-cartulaire-nouaille.jpg` | **Écrit (le plus ancien)** : charte n°177 (v. 1091-1115), *Engelelme de Morthemer*, cartulaire de Nouaillé (p. 279) — Gallica/BnF |
+| `document-blason-taveau.jpg` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) — Gallica/BnF |
+| `manuscrit-chandos-garter-1435.jpg` | **Manuscrit** : portrait de Sir John Chandos, *Garter Book* (v. 1435, BL Stowe 594) — Commons (DP) |
+| `sceau-chandos-1357.jpg` | **Sceau** de Jean Chandos (1357) — Commons (DP) |
+| `chandos-cenotaphe-mazerolles.jpg` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) — base Mémoire (Licence Ouverte) |
 
 **Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
 (`09-eglise-gisant.jpg`), les **peintures de la crypte** (`06`), la **statue Vierge

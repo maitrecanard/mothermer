@@ -38,6 +38,11 @@ Commons : voir la page de chaque fichier
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
 | `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac » du Dict. topographique de la Vienne, Rédet (1881, p. 129) | Domaine public — source gallica.bnf.fr / BnF |
 | `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-cartulaire-nouaille.jpg` | **Écrit** : charte n°177 (v. 1091-1115), Engelelme de Morthemer, cartulaire de Nouaillé (p. 279) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-blason-taveau.jpg` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) | Domaine public — source gallica.bnf.fr / BnF |
+| `manuscrit-chandos-garter-1435.jpg` | **Manuscrit** : portrait de Sir John Chandos, Garter Book (v. 1435, BL Stowe 594) | Domaine public (PD-old-100) — Wikimedia Commons |
+| `sceau-chandos-1357.jpg` | **Sceau** de Jean Chandos (1357) | Domaine public — Wikimedia Commons |
+| `chandos-cenotaphe-mazerolles.jpg` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) | Licence Ouverte etalab — base Mémoire (Min. Culture) |
 
 ---
 
