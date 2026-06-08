@@ -163,6 +163,10 @@ table(['Période','Lignée','Faits'],[1.2,1.5,3],[
   ['1844 →','de Soubeyran',"Acquièrent le domaine ; commanditent la restauration de 1865."],
   ['XXe s. →','Werbrouck / Volpelières d’Escombreras',"Propriété privée (SCI Domaine de Morthemer) ; vendue en 1993."],
 ]);
+para("D’après Beauchet-Filleau, Guillaume Taveau, baron de Mortemer (et maire de Poitiers en 1388, "
+  +"1395-1398, 1412-1413 ; sénéchal d’Olivier de Clisson en 1385), reçut la terre de Mortemer par son "
+  +"mariage avec Sibylle de Saint-Martin.");
+figure('document-taveau-beauchet-filleau.jpg',"Entrée « Taveau, branche de Mortemer » dans le Dictionnaire des familles du Poitou de Beauchet-Filleau (p. 694). Source gallica.bnf.fr / BnF.",430);
 
 /* ---- 4. CHÂTEAU ---- */
 h1('4. Le château');
@@ -215,13 +219,13 @@ para("Longtemps l’élément le plus obscur du dossier, la tour de Cognac est d
   +"par une source de premier ordre : le Dictionnaire topographique de la Vienne de L. Rédet (1881), "
   +"qui lui consacre une entrée, complétée par l’exposé local de la société HÉRAGE (2005).");
 quote("« Cognac, donjon en ruine à Mortemer. — Herbergamentum quod fuit Guidonis de Coignaco "
-  +"militis (v. 1370) ; houstel de Mortemer appelé anciennement l’oustel de Coignac (1436) ; fief de "
-  +"Mortemer autrement Cougnac (1629). — Ancien fief relevant de l’abbaye de Nouaillé. »",
+  +"militis (1372) ; houstel de Mortemer appelé anciennement l’oustel de Coignac (1436) ; fief de "
+  +"Mortemer autrement Cougnac (1639). — Ancien fief relevant de l’abbaye de Nouaillé. »",
   "L. Rédet, Dictionnaire topographique du département de la Vienne, 1881.");
 bullet("« Cognac » est un toponyme attesté à Morthemer même, désignant un donjon en ruine — la "
   +"tour n’est donc pas un objet fantôme.");
-bullet("Formes datées : un chevalier Guy de Coignac (v. 1370) ; l’oustel de Coignac (1436) ; "
-  +"Cougnac (1629). Fief tenu de l’abbaye de Nouaillé, avec son propre arrière-fief.");
+bullet("Formes datées : un chevalier Guy de Coignac (1372) ; l’oustel de Coignac (1436) ; "
+  +"Cougnac (1639). Fief tenu de l’abbaye de Nouaillé, avec son propre arrière-fief.");
 bullet("La formule de 1436 — « l’hôtel de Morthemer appelé anciennement l’hôtel de Coignac » — "
   +"fonde l’idée que Cognac fut la RÉSIDENCE SEIGNEURIALE PRIMITIVE, à l’écart du château actuel.");
 para("Lecture d’historien : tour résidentielle / maîtresse, premier caput de la châtellenie avant "
@@ -230,6 +234,7 @@ para("Lecture d’historien : tour résidentielle / maîtresse, premier caput de
   +"1370) ; l’étymologie Conniacum (type -acum) est plausible mais non sourcée pour ce lieu ; le "
   +"toponyme est éteint (absent de la BAN, d’OSM et illisible sur Cassini/état-major). La "
   +"localisation à la parcelle reste à chercher au cadastre napoléonien (Arch. dép. de la Vienne).");
+figure('document-redet-cognac.jpg',"La preuve écrite : l’entrée « Cognac, donjon en ruine à Mortemer » dans le Dictionnaire topographique de la Vienne de L. Rédet (1881, p. 129). Source gallica.bnf.fr / BnF.",430);
 h2('Plans d’époque (cartes anciennes)');
 figure('plan-cassini-morthemer.png',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",430);
 figure('plan-etat-major-morthemer.png',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",430);

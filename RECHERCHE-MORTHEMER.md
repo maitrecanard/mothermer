@@ -58,7 +58,7 @@ dormante : étang, marais), soit **« mer morte »** (*Mortuum Mare*), en écho 
 | **XIIIe s.** | La seigneurie passe aux **Sénéchal**. |
 | **v. 1369–1375** | Les Sénéchal **(re)bâtissent le donjon** ; l'église est **fortifiée**. |
 | **31 déc. 1369** | **Jean Chandos**, sénéchal du Poitou, blessé au **pont de Lussac** ; transporté à **Mortemer**, il y meurt (**1ᵉʳ janv. 1370**) — récit de **Froissart** (§ 8). |
-| **v. 1370** | Un chevalier **Guy de Coignac** (*Guido de Coignaco miles*) cité à Cognac/Mortemer (Rédet). |
+| **1372** | Un chevalier **Guy de Coignac** (*Guidonis de Coignaco militis*) cité à Cognac/Mortemer (Rédet). |
 | **14 juin 1428** | **Geoffroy Taveau** rend hommage au roi pour sa **baronnie de Mortemer** ; **28 fiefs** (« 1ʳᵉ baronnie du Poitou »). |
 | **1436** | *« l'oustel de Mortemer appelé anciennement l'oustel de Coignac »* (Rédet). |
 | **XVe–XVIIIe s.** | Seigneurie aux **Taveau** (Mathurin Taveau av. 1512, ép. Renée Sanglier). |
@@ -82,7 +82,7 @@ dormante : étang, marais), soit **« mer morte »** (*Mortuum Mare*), en écho 
 | XIe–XIIIe s. | **de Morthemer** (vic. de Châtellerault) | Nom cité dès 1054 ; châtellenie 1077. |
 | XIIIe s. | **Chenin** puis **de la Vergne** | Guillaume V Chenin († v. 1276), Agathe Chenin (héritière), Guillaume de la Vergne. |
 | XIIIe–XIVe s. | **Sénéchal** | **Aubert Sénéchal** (cité dès 1267) ép. Agathe Chenin ; **(re)bâtissent le donjon** v. 1369-1375 ; armes *d'or, au chef de gueules à deux pals de vair* (écu de la crypte). |
-| fin XIVe–XVIIIe s. | **Taveau** | **Guillaume Taveau** baron v. 1391 (reprend les armes Sénéchal) ; **Geoffroy Taveau** hommage 1428 ; **Mathurin Taveau** (av. 1512, ép. **Renée Sanglier**, gisant) ; **F.-A. Taveau** (1743-1834, émigré 1789). |
+| fin XIVe–XVIIIe s. | **Taveau** | **Guillaume Taveau**, baron de Mortemer (maire de Poitiers 1388-1413 ; sénéchal d'Olivier de Clisson 1385), reçoit Mortemer par mariage avec **Sibylle de Saint-Martin** ; **Geoffroy Taveau** hommage 1428 ; **Mathurin Taveau** (av. 1512, ép. **Renée Sanglier**, gisant) ; **F.-A. Taveau** (1743-1834, émigré 1789). |
 | 1844 → | **de Soubeyran** | Acquièrent le domaine ; **G. de Soubeyran** commandite la restauration (1865). |
 | XXe s. → | **de Werbrouck / de Volpelières d'Escombreras** | Propriété privée (SCI Domaine de Morthemer) ; vendue en 1993. |
 
@@ -189,8 +189,8 @@ est par ailleurs évoquée par l'exposé local **« Morthemer, un village, une h
 **L'entrée de Rédet (transcription consolidée de deux numérisations) :**
 
 > **Cognac**, *donjon en ruine à Mortemer*. — *Herbergamentum quod fuit Guidonis de
-> Coignaco militis*, [v. 137.] ; *houstel de Mortemer appelé anciennement l'oustel de
-> Coignac*, 1436 ; *fief de Mortemer autrement Cougnac*, 1629 (abb. de Nouaillé). —
+> Coignaco militis*, **1372** ; *houstel de Mortemer appelé anciennement l'oustel de
+> Coignac*, **1436** ; *fief de Mortemer autrement Cougnac*, **1639** (abb. de Nouaillé, 6). —
 > Ancien fief relevant de l'**abbaye de Nouaillé**.
 
 Rédet le confirme par des renvois croisés : « **Mortemer (Hostel de). Cognac** » ;
@@ -202,7 +202,7 @@ mouvance.
 - « Cognac » est un **toponyme attesté à Morthemer même**, désignant un **donjon en
   ruine** (dès 1881) — la tour n'est donc pas un objet fantôme.
 - **Formes anciennes datées** : latin *(de) Coignaco* (un chevalier **Guy de Coignac**,
-  v. 1370) ; *l'oustel de Coignac* (**1436**) ; *Cougnac* (**1629**).
+  **1372**) ; *l'oustel de Coignac* (**1436**) ; *Cougnac* (**1639**).
 - C'était un **fief tenu de l'abbaye de Nouaillé** (et non du baron de Morthemer),
   avec son propre arrière-fief.
 - La formule de 1436 — *« l'hôtel de Morthemer appelé anciennement l'hôtel de
@@ -383,6 +383,8 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `chandos-blason.png` | Armoiries de Sir John Chandos |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
+| `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac, donjon en ruine à Mortemer », Rédet (1881, p. 129) — Gallica/BnF |
+| `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) — Gallica/BnF |
 
 **Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
 (`09-eglise-gisant.jpg`), les **peintures de la crypte** (`06`), la **statue Vierge
@@ -421,7 +423,7 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
   « Taveau »). Le **tombeau de chevalier aux fleurs de lis** reste **non identifié**.
 - **Tour de Cognac** : **enfin documentée** (Rédet 1881 : « donjon en ruine à
   Mortemer », *l'oustel de Coignac*, fief de Nouaillé, chevalier Guy de Coignac
-  v. 1370). La **datation XIe s.** reste une **tradition** (textes seulement à partir
+  1372). La **datation XIe s.** reste une **tradition** (textes seulement à partir
   des années 1370) ; **localisation cadastrale** à confirmer (§ 6).
 - **Congrès archéologique de Poitiers (1843)** : vérification faite, **Morthemer n'y
   figure pas** — référence à écarter en l'état.

@@ -36,6 +36,8 @@ Commons : voir la page de chaque fichier
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
+| `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac » du Dict. topographique de la Vienne, Rédet (1881, p. 129) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) | Domaine public — source gallica.bnf.fr / BnF |
 
 ---
 
@@ -72,5 +74,21 @@ Page : <https://armma.saprat.fr/monument/sarcophage-morthemer-valdivienne/>
 
 ---
 
-*Pour intégrer localement un document du § 2, obtenir au préalable l'autorisation de
-l'ayant droit. En l'état, ce dépôt ne redistribue que des images libres (§ 1).*
+## 3. État d'accessibilité des sources (récapitulatif honnête)
+
+| Source | Statut | Action |
+|--------|--------|--------|
+| **Wikimedia Commons** (APMH, manuscrits Froissart) | ✅ libre | **téléchargé** (§ 1) |
+| **IGN / data.geopf.fr** (Cassini, état-major) | ✅ Licence Ouverte | **téléchargé** (§ 1) |
+| **Gallica / BnF** (Rédet, Beauchet-Filleau, domaine public) | ✅ accessible (IIIF) | **téléchargé** (§ 1) — d'autres pages récupérables sur demande |
+| **POP** (Mérimée/Palissy/Inventaire) | ✅ Etalab\* | textes utilisés ; certaines photos « © MH » |
+| **ArmmA** (plan Durand, peintures crypte) | ⛔ **tous droits réservés** | **liens uniquement** (§ 2.2) — pas de redistribution |
+| **Cadastre napoléonien** (Arch. Vienne) | ⛔ **mur anti-robot** + visualiseur tuilé | consultation **manuelle** (navigateur) |
+| **Médiathèque Grand Poitiers** (Gossin 1918) | ⛔ catalogue, hors ligne | **liens** (§ 2.4) |
+| **Geneanet** (cartes postales) | ⛔ compte requis | **liens** (§ 2.4) |
+
+> Autrement dit : **tout ce qui est librement réutilisable a été téléchargé**. Restent
+> hors d'atteinte deux ensembles — les **clichés ArmmA** (droit d'auteur) et le
+> **cadastre napoléonien** (protection anti-robot) — qui ne peuvent être ni
+> automatiquement récupérés ni légalement redistribués ici. *Pour les intégrer, il
+> faut l'autorisation de l'ayant droit (ArmmA) ou une consultation manuelle (cadastre).*

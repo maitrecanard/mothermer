@@ -78,9 +78,12 @@ Pope & Lodge (1910), Tyson (1975).
 Le *Dictionnaire topographique de la Vienne* de **L. Rédet** cite, à l'entrée
 **« Cognac, donjon en ruine à Mortemer »**, des actes datés :
 
-> *Herbergamentum quod fuit Guidonis de Coignaco militis* (v. 1370) · *houstel de
+> *Herbergamentum quod fuit Guidonis de Coignaco militis* (**1372**) · *houstel de
 > Mortemer appelé anciennement l'oustel de Coignac* (**1436**) · *fief de Mortemer
-> autrement Cougnac* (**1629**) — fief relevant de l'**abbaye de Nouaillé**.
+> autrement Cougnac* (**1639**) — fief relevant de l'**abbaye de Nouaillé**.
+>
+> *(Page reproduite : `images/document-redet-cognac.jpg` — Rédet, p. 129,
+> source gallica.bnf.fr / BnF.)*
 
 Ces mentions (chartes de **Nouaillé**) sont les plus anciens **écrits** rattachant
 Cognac à Morthemer (cf. § 6 du dossier).

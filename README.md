@@ -37,10 +37,10 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Livrables
 | Livrable | Fichier | Contenu |
 |----------|---------|---------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **14 pages**, chronologie depuis l'an 900, 13 illustrations, citations de Froissart et de l'épitaphe de Chandos |
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **16 pages**, chronologie depuis l'an 900, 15 illustrations, citations de Froissart, de l'épitaphe de Chandos et de Rédet |
 | 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
 | ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
-| 🖼️ **Iconographie** | [`images/`](images/) | **17 images libres** : 2 **plans d'époque** (Cassini, état-major), 2 **manuscrits** (Froissart), objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
+| 🖼️ **Iconographie** | [`images/`](images/) | **19 images libres** : 2 **plans d'époque** (Cassini, état-major), 2 **manuscrits** (Froissart), 2 **documents/écrits** (Rédet, Beauchet-Filleau — Gallica/BnF), objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
 | ⚖️ **Crédits & licences** | [`CREDITS.md`](CREDITS.md) | Source/licence de chaque image + liens manuscrits/plans/gravures |
 | ⚙️ **Générateur du PDF** | [`generate-pdf.js`](generate-pdf.js) | Script Node/pdfkit reproductible |
 
@@ -76,9 +76,15 @@ normande de Mortemer). Détail dans [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEM
   Vierge à l'Enfant, vitrail de sainte Radegonde (images libres) ; **tombeau de
   chevalier** (épée + écu gravés) et **sarcophage** en liens (ArmmA).
 
-> ⚠️ Restent **liés** (droits réservés, non redistribués) : le **plan d'architecte
-> Durand (1979-80)**, les **photos des peintures de la crypte** d'ArmmA, et les
-> **cartes postales** anciennes — voir [`CREDITS.md`](CREDITS.md).
+- 📜 **Documents/écrits** *téléchargés* (domaine public, Gallica/BnF) : la page de **Rédet**
+  (entrée *« Cognac, donjon en ruine à Mortemer »*, 1881) et l'entrée **Taveau** de
+  **Beauchet-Filleau** (généalogie de la branche de Mortemer).
+
+> ⚠️ **Ce qui reste hors d'atteinte** (et pourquoi) : les **clichés ArmmA** (plan Durand,
+> peintures de la crypte) sont **« tous droits réservés »** → liens uniquement ; le
+> **cadastre napoléonien** est derrière un **mur anti-robot** → consultation manuelle.
+> Tout le reste, librement réutilisable, a été **téléchargé**. Récapitulatif complet :
+> [`CREDITS.md`](CREDITS.md) § 3.
 
 ## Régénérer le PDF
 ```bash
