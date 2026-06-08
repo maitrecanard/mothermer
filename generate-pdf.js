@@ -312,7 +312,7 @@ bullet("Le fantôme de Chandos : des pas entendus la nuit autour du château (tr
 bullet("L’empreinte de saint Martin (chapelle du Pas-de-Saint-Martin) ; la croix hosannière du cimetière.");
 note("Ne pas confondre avec l’abbaye de Mortemer en Normandie (Lisors), homonyme, à laquelle "
   +"appartiennent les légendes de la Dame blanche et du lutin Goublin.");
-figure('12-dames-de-morthemer.png',"« Dames de Morthemer » : illustration de la légende seigneuriale (Wikimedia Commons).",220);
+figure('12-dames-de-morthemer.png',"« Les Dames de Morthemer », peinture symboliste de Lionel Le Falher (1957-2008) — les dames en robes de couleur devant le donjon (© L. Le Falher / Amis du patrimoine de Lussac, CC BY-SA 4.0).",330);
 
 /* ---- 9. ÉCRITS DEPUIS L'AN 900 ---- */
 h1('9. Les écrits, de l’an 900 à aujourd’hui');

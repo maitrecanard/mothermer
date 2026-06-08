@@ -378,7 +378,7 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `09-eglise-gisant.png` | Gisant (Renée Sanglier) |
 | `10-vitrail-radegonde.png` | Vitrail de sainte Radegonde |
 | `11-statue-vierge.png` | Statue Vierge à l'Enfant |
-| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » (légende) |
+| `12-dames-de-morthemer.png` | **« Les Dames de Morthemer »**, peinture de **Lionel Le Falher** (900×604) |
 | `chandos-mort-lussac.png` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
 | `manuscrit-froissart-poitiers.png` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
 | `chandos-blason.png` | Armoiries de Sir John Chandos |

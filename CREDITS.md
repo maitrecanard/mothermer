@@ -30,7 +30,7 @@ Commons : voir la page de chaque fichier
 | `09-eglise-gisant.png` | Gisant (Renée Sanglier) | APMH / Commons (DP) |
 | `10-vitrail-radegonde.png` | Vitrail sainte Radegonde | Commons |
 | `11-statue-vierge.png` | Statue Vierge à l'Enfant | Commons |
-| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » (original Commons 120×81 px ; **agrandi par interpolation** à 480 px pour l'affichage — pas de détail réel ajouté) | Commons (Amis du patrimoine de Lussac) |
+| `12-dames-de-morthemer.png` | **« Les Dames de Morthemer »**, peinture symboliste de **Lionel Le Falher** (1957-2008), **900×604 px** | © L. Le Falher / Amis du patrimoine de Lussac — **CC BY-SA 4.0** (repro HD via le site de l'artiste) |
 | `chandos-mort-lussac.png` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
 | `manuscrit-froissart-poitiers.png` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
@@ -100,10 +100,25 @@ Page : <https://armma.saprat.fr/monument/sarcophage-morthemer-valdivienne/>
 
 ---
 
-## 4. Obtenir l'original HD de la « Dame de Morthemer »
+## 4. « Les Dames de Morthemer » — RÉSOLU (version HD trouvée)
 
-**Le problème.** La seule version en ligne est minuscule (**120 × 81 px**). Le dépôt
-en contient un agrandissement par interpolation (cosmétique, sans détail réel).
+**✅ Mise à jour.** L'œuvre a été identifiée : **« Les Dames de Morthemer »**, peinture
+de **Lionel Le Falher** (1957-2008), peintre symboliste (prix Gustave-Courtois de
+l'Académie des beaux-arts, 1997, remis par Arnaud d'Hauterives). Une **reproduction
+en 900 × 604 px** a été récupérée sur le **site de l'artiste**
+(`pascal.lefalher.pagesperso-orange.fr/Les_dames_de_Morthemer.jpg`, via Wayback) et
+remplace désormais la vignette de 120 px. Attribution : © L. Le Falher / Amis du
+patrimoine de Lussac, CC BY-SA 4.0.
+
+> Le site de Pascal Le Falher recèle d'autres pièces liées (tombeau de Chandos à
+> Morthemer, *Bataille de Poitiers : roi Jean et Chandos*, armes de Chandos…),
+> récupérables de la même manière si besoin.
+
+**Pour une définition encore supérieure** (le tableau original), même démarche que
+ci-dessous (association / famille Le Falher).
+
+**Le contexte initial.** La seule version sur Wikimedia Commons est minuscule
+(**120 × 81 px**).
 
 **La source identifiée.**
 - **Fichier Wikimedia Commons** : *File:Dames de Morthemer.jpg*
