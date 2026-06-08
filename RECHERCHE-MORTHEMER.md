@@ -226,24 +226,58 @@ avec les **chartes de l'abbaye de Nouaillé** et **Beauchet-Filleau** (famille d
 > *Question :* la voûte présenterait un **trou en forme d'œil**, **à l'opposé du
 > clocher**. Pourquoi ?
 
-**État des sources : aucun document public ne le décrit.** Interprétation argumentée,
-à confirmer par un **relevé sur place**. Le clocher est vers l'**est** (chœur/château)
-; « à l'opposé » = partie **ouest** (ancien portail muré).
+**État des sources : aucun document public ne décrit ce trou.** Interprétation
+argumentée, à confirmer par un **relevé sur place**. Le clocher est vers l'**est**
+(chœur/château) ; « à l'opposé » = partie **ouest** (ancien portail muré).
 
-Hypothèses (de la plus probable à la plus spéculative) :
-1. **Oculus (œil-de-bœuf)** — *oculus* = « œil » : ouverture circulaire pour la
-   **lumière**. Explication la plus économique.
-2. **Symbolique — l'« Œil de Dieu »** : faisceau de lumière éclairant le chœur,
-   omniscience divine.
-3. **Trémie de cloche / corde** antérieure au clocher actuel (remanié v. 1230-1250),
-   conservée — d'où le décalage.
-4. **Communication avec la tribune seigneuriale** (oculus d'observation/son).
-5. **Ouverture acoustique** (vase scellé) — ou **hagioscope** mal interprété (si le
-   trou est en réalité dans un mur).
+### Hypothèse privilégiée : une **trémie d'église-refuge** (mise en défense du XIVe s.)
 
-**Conclusion provisoire :** très probablement un **oculus**, fonctionnel et
-peut-être **symbolique** ; décalage dû aux remaniements du XIIIe s. **À valider** in
-situ et auprès de la **CRMH Nouvelle-Aquitaine**.
+Cette piste — proposée à partir de l'observation que **le toit aurait été exhaussé**
+(de l'ordre de **3 m**) — est la **plus cohérente avec un fait établi** : l'église de
+Morthemer a été **fortifiée au XIVe siècle** (§ 5), en pleine guerre de Cent Ans
+(épisode Chandos, 1369-1370).
+
+Dans les **églises fortifiées**, l'**espace ménagé entre les voûtes et le toit**
+(comble surélevé) servait de **salle de refuge** pour les non-combattants, qui y
+montaient **vivres, coffres et bétail** en cas d'alerte. L'accès à ce réduit se
+faisait par un **percement de la voûte** — une **trémie** (trou de passage) doublée
+parfois d'une **trappe** — par laquelle on **hissait gens et provisions**, et qui
+servait aussi de **point de surveillance / de défense verticale**. La forme « en
+œil » du trou s'expliquerait alors **fonctionnellement** : c'est l'**orifice de
+hissage / d'observation** du refuge haut.
+
+**Ce qui rend l'hypothèse solide :**
+- Elle s'appuie sur la **fortification avérée** de l'édifice (XIVe s.), et non sur une
+  conjecture symbolique.
+- Le **toit exhaussé** crée précisément l'**espace de refuge** que la trémie dessert
+  (l'exhaussement et la trémie vont de pair).
+- La **typologie est bien documentée** : « la nef pour le bétail et le matériel, le
+  refuge au-dessus [des voûtes] pour les non-combattants », accès par **trappe** de
+  surveillance (cf. *Église fortifiée*, et les études sur les **lieux-refuges**).
+- La **position « à l'opposé du clocher »** (extrémité ouest) cadre avec un accès au
+  comble **éloigné du beffroi**, au-dessus de la nef plutôt que de la croisée.
+
+**Vérifications décisives (sur place) :** existe-t-il, **au-dessus des voûtes**, une
+**salle/chambre dans le comble** ? Le **trou est-il une trémie traversante** (et non
+un simple oculus de pignon) ? Voit-on des **traces d'exhaussement** des murs (reprise
+de maçonnerie, ancienne ligne de toit), des **corbeaux/échelle/trappe**, des
+**meurtrières** ou aménagements défensifs dans le comble ?
+
+### Autres hypothèses (subsidiaires)
+1. **Oculus / œil-de-bœuf** — simple ouverture circulaire de **lumière** (*oculus* =
+   « œil ») ; explication la plus banale si le percement est au **pignon** et non dans
+   la voûte.
+2. **Charge symbolique — l'« Œil de Dieu »** : faisceau de lumière sur le chœur.
+3. **Trémie de cloche / corde** antérieure au clocher actuel, conservée.
+4. **Communication avec la tribune seigneuriale** (observation / son).
+5. **Ouverture acoustique** (vase scellé) — ou **hagioscope** (si le trou est dans un mur).
+
+**Conclusion provisoire (révisée).** Compte tenu de la **fortification documentée**,
+l'explication la plus probable est désormais une **trémie d'accès à une salle de
+refuge** aménagée sous un **toit exhaussé** — fonction de **hissage / surveillance**
+plutôt que de pur ornement. L'hypothèse de l'**oculus de lumière** reste l'alternative
+si le percement se révèle être au pignon. **À trancher par un relevé du comble** et
+auprès de la **CRMH Nouvelle-Aquitaine**.
 
 ---
 
@@ -359,7 +393,9 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
   figure pas** — référence à écarter en l'état.
 - **Légende « Dame d'Or »** : locale (Valdivienne) — à **ne pas confondre** avec les
   légendes de l'abbaye de **Mortemer en Normandie** (*Dame blanche*, *Goublin*).
-- **Le « trou-œil »** : **non documenté** ; hypothèses § 7.
+- **Le « trou-œil »** : **non documenté** directement ; hypothèse privilégiée = **trémie
+  d'une salle de refuge** sous un **toit exhaussé** (cohérente avec la fortification du
+  XIVe s.), à vérifier dans le comble (§ 7).
 
 ### Sources
 - **Froissart, *Chroniques*** (Wikisource ; Project Gutenberg 73967 ; éd. Buchon/SHF) —

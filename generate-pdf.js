@@ -236,13 +236,29 @@ h1('7. Le mystère du « trou en forme d’œil »');
 para("Question : la voûte présenterait un trou en forme d’œil, à l’opposé du clocher. Aucun document "
   +"public ne le décrit ; interprétation argumentée, à confirmer in situ. Le clocher est vers l’est "
   +"(chœur/château) ; « à l’opposé » désigne la partie ouest (ancien portail muré).");
-bullet("Oculus (œil-de-bœuf) — oculus = « œil » : ouverture pour la lumière. La plus probable.");
-bullet("Symbolique — l’« Œil de Dieu » : lumière éclairant le chœur, omniscience divine.");
-bullet("Trémie de cloche/corde antérieure au clocher actuel, conservée (d’où le décalage).");
-bullet("Communication avec la tribune seigneuriale (oculus d’observation/son).");
-bullet("Ouverture acoustique (vase scellé) — ou hagioscope mal interprété (si le trou est dans un mur).");
-para("Conclusion provisoire : très probablement un oculus, fonctionnel et peut-être symbolique ; "
-  +"décalage dû aux remaniements du XIIIe s. À valider auprès de la CRMH Nouvelle-Aquitaine.");
+h2('Hypothèse privilégiée : une trémie d’église-refuge (fortification du XIVe s.)');
+para("Hypothèse fondée sur l’observation d’un toit exhaussé (de l’ordre de 3 m) : elle est la plus "
+  +"cohérente avec un fait établi — l’église a été FORTIFIÉE au XIVe s. (§ 5), en pleine guerre de "
+  +"Cent Ans. Dans les églises fortifiées, l’espace ménagé entre les voûtes et le toit servait de "
+  +"SALLE DE REFUGE aux non-combattants, qui y montaient vivres et coffres ; l’accès se faisait par "
+  +"un percement de la voûte — une TRÉMIE, parfois doublée d’une trappe — par laquelle on hissait "
+  +"gens et provisions, et qui servait de point de SURVEILLANCE. La forme « en œil » serait alors "
+  +"l’orifice de hissage / d’observation du refuge haut.");
+bullet("S’appuie sur la fortification avérée (XIVe s.), non sur une conjecture symbolique.");
+bullet("Le toit exhaussé crée précisément l’espace de refuge que la trémie dessert.");
+bullet("Typologie documentée : « la nef pour le bétail, le refuge au-dessus pour les non-combattants », accès par trappe de surveillance.");
+bullet("La position « à l’opposé du clocher » (ouest) cadre avec un accès au comble éloigné du beffroi.");
+para("À vérifier sur place : y a-t-il une salle dans le comble au-dessus des voûtes ? Le trou est-il "
+  +"une trémie traversante (et non un oculus de pignon) ? Traces d’exhaussement (reprises de "
+  +"maçonnerie, ancienne ligne de toit), corbeaux, échelle/trappe, meurtrières ?");
+h2('Autres hypothèses (subsidiaires)');
+bullet("Oculus / œil-de-bœuf : simple ouverture de lumière (si le percement est au pignon).");
+bullet("Symbolique — l’« Œil de Dieu » : faisceau de lumière sur le chœur.");
+bullet("Trémie de cloche/corde antérieure au clocher actuel ; communication avec la tribune seigneuriale ; ouverture acoustique.");
+para("Conclusion révisée : compte tenu de la fortification documentée, l’explication la plus probable "
+  +"est une trémie d’accès à une salle de refuge sous un toit exhaussé (hissage / surveillance) plutôt "
+  +"qu’un pur ornement ; l’oculus de lumière reste l’alternative si le percement est au pignon. À "
+  +"trancher par un relevé du comble et auprès de la CRMH Nouvelle-Aquitaine.");
 figure('07-eglise-nef-ouest.jpg',"La nef vue de l’entrée (extrémité ouest), côté de l’ancien portail muré — la zone « à l’opposé du clocher » (Médiathèque de l’architecture et du patrimoine).");
 
 /* ---- 8. CHANDOS & FROISSART ---- */
