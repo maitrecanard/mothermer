@@ -54,6 +54,37 @@ car elle **contredit le nombre de jours d'agonie** :
 L'épisode est aussi figuré dans les **manuscrits enluminés** des *Chroniques*
 (miniatures du combat ; cf. iconographie, [`CREDITS.md`](CREDITS.md)).
 
+### 1.3 L'épitaphe de Chandos — et une version rivale
+Une **épitaphe française** (rapportée par le *Dictionary of National Biography*,
+art. « Chandos, John ») fait parler le défunt et **confirme l'inhumation à Mortemer** :
+
+> « Je Jehan Chandos, des Anglois capitaine, / Fort chevaler, de Poictou seneschal, /
+> Après avoir faict guerre très lointaine / Au roi françois tant à pied qu'à cheval /
+> Et pris Bertrand de Guesquin en un val, / Les Poictevins près Lussac me defirent : /
+> **A Mortemer mon corps enterrer firent.** »
+
+⚠ **Source rivale** : la *Chronique de Bertrand du Guesclin* du trouvère **Cuvelier**
+(XIVe s.) fait au contraire mourir Chandos **à Chauvigny** et l'inhumer à l'entrée de
+**Saint-Pierre** — divergence à signaler avec Froissart et l'épitaphe.
+
+### 1.4 *La Vie du Prince Noir*, du héraut Chandos (v. 1385)
+Poème anglo-normand d'environ **4 304 vers**, composé vers **1385** par le **héraut**
+au service de Sir John Chandos ; il relate la vie d'Édouard le **Prince Noir**
+(1346-1376 : Crécy, **Poitiers 1356**, campagne de Castille). *N.B. : il porte sur le
+Prince Noir, non sur la mort de Chandos.* Éditions : Francisque-Michel (1883, Gallica),
+Pope & Lodge (1910), Tyson (1975).
+
+### 1.5 La tour de Cognac dans les textes (via Rédet, 1881)
+Le *Dictionnaire topographique de la Vienne* de **L. Rédet** cite, à l'entrée
+**« Cognac, donjon en ruine à Mortemer »**, des actes datés :
+
+> *Herbergamentum quod fuit Guidonis de Coignaco militis* (v. 1370) · *houstel de
+> Mortemer appelé anciennement l'oustel de Coignac* (**1436**) · *fief de Mortemer
+> autrement Cougnac* (**1629**) — fief relevant de l'**abbaye de Nouaillé**.
+
+Ces mentions (chartes de **Nouaillé**) sont les plus anciens **écrits** rattachant
+Cognac à Morthemer (cf. § 6 du dossier).
+
 ---
 
 ## 2. Sources modernes (XVIe–XVIIIe s.)

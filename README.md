@@ -37,7 +37,7 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Livrables
 | Livrable | Fichier | Contenu |
 |----------|---------|---------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | 10 pages, chronologie depuis l'an 900, 10 illustrations, citation de Froissart |
+| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **14 pages**, chronologie depuis l'an 900, 13 illustrations, citations de Froissart et de l'épitaphe de Chandos |
 | 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
 | ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
 | 🖼️ **Iconographie** | [`images/`](images/) | **17 images libres** : 2 **plans d'époque** (Cassini, état-major), 2 **manuscrits** (Froissart), objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
@@ -47,13 +47,24 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Les 4 thèmes demandés — réponses
 - 🏯 **Château** : 1ʳᵉ mention Xe s. ; donjon carré à 5 niveaux (re)bâti par les *Sénéchal* (~1375) ; quasi-ruine avant 1860 puis **restauration de Boeswillwald (1865)** ; MH 1927/2008.
 - ⛪ **Église collégiale Notre-Dame** : romane (XIe-XIIe s.), crypte peinte (Christ en Majesté, Vierge à l'Enfant) ; **soudée au château** — on y entre **par un passage voûté sous la nef** ; MH 1908.
-- 🗼 **Tour de Cognac** : XIe s. — **première résidence des seigneurs de Morthemer** (demeure primitive à l'écart, antérieure au donjon), d'après l'exposé de la société HÉRAGE (2005). Localisation cadastrale encore à confirmer (Rédet 1881 / Archives de la Vienne).
+- 🗼 **Tour de Cognac** : **documentée** par Rédet (1881) — *« Cognac, donjon en ruine à Mortemer »*, *l'oustel de Coignac* (1436), fief de l'**abbaye de Nouaillé**, chevalier **Guy de Coignac** (~1370) : c'est la **résidence seigneuriale primitive**. Datation XIe s. = tradition ; localisation à confirmer (cadastre napoléonien).
 - 👁️ **Trou « en forme d'œil »** : **non documenté** ; hypothèse la plus probable = un **oculus** (lumière + symbole de l'« Œil de Dieu »), à valider in situ.
 
-## Pièce maîtresse : un écrit d'époque
+## Pièce maîtresse : les écrits d'époque
 Le récit par **Jean Froissart** de la mort de **Jean Chandos** transporté à *Mortemer*
-(1ᵉʳ janvier 1370) est cité **mot à mot** dans le PDF et dans
-[`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md), avec ses **variantes manuscrites**.
+(1ᵉʳ janvier 1370) est cité **mot à mot** (PDF + [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md)),
+avec ses **variantes manuscrites**, l'**épitaphe** (« *A Mortemer mon corps enterrer firent* »)
+et la **version rivale de Cuvelier** (mort à Chauvigny).
+
+## 🔬 Enquête approfondie (dernière passe)
+Recherche multi-sources étendue sur l'**histoire, les légendes et les écrits** des trois
+monuments. Principaux apports : succession seigneuriale complète (**Chenin → La Vergne →
+Sénéchal → Taveau → Soubeyran**) ; **chapitre collégial 1223-1790** (église cédée à
+Saint-Cyprien de Poitiers en 1111) ; **écu de la crypte réattribué aux Sénéchal** ;
+**tour de Cognac documentée par Rédet** ; **légende de la « Dame d'Or »** (Vierge cachée,
+souterrains) ; **aumônerie/maladrerie** ; corrections critiques (Hastings = confusion
+normande ; « Congrès archéologique 1843 » écarté ; ne pas confondre avec l'abbaye
+normande de Mortemer). Détail dans [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md).
 
 ### 🆕 Plans, manuscrits et reliques (ajoutés)
 - 🗺️ **Plans d'époque** *téléchargés* (domaine public, via IGN/data.geopf.fr) :

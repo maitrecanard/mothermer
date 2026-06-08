@@ -155,11 +155,13 @@ table(['Date','Événement'],[1.1,4],[
 
 /* ---- 3. SEIGNEURS ---- */
 h1('3. Les seigneurs de Morthemer');
-table(['Période','Lignée','Faits'],[1.2,1.4,3],[
+table(['Période','Lignée','Faits'],[1.2,1.5,3],[
   ['XIe–XIIIe s.','de Morthemer (vic. de Châtellerault)',"Nom cité dès 1054 ; châtellenie 1077."],
-  ['XIIIe–XIVe s.','Sénéchal',"(Re)bâtissent le donjon v. 1369-1375."],
-  ['XVe–XVIIIe s.','Taveau',"Baronnie 1428 ; Mathurin Taveau (av. 1512) ; écu de la crypte ; F.-A. Taveau (1743-1834)."],
-  ['1844 →','de Soubeyran',"Sauvent le château ; restauration de 1865."],
+  ['XIIIe s.','Chenin puis de la Vergne',"Guillaume V Chenin (†v.1276), Agathe Chenin, Guillaume de la Vergne."],
+  ['XIIIe–XIVe s.','Sénéchal',"Aubert Sénéchal (dès 1267) ép. Agathe Chenin ; (re)bâtissent le donjon v.1369-1375 ; armes d'or au chef de gueules à deux pals de vair (écu de la crypte)."],
+  ['fin XIVe–XVIIIe s.','Taveau',"G. Taveau baron v.1391 ; hommage 1428 ; Mathurin Taveau (av.1512, ép. Renée Sanglier) ; F.-A. Taveau (1743-1834, émigré 1789)."],
+  ['1844 →','de Soubeyran',"Acquièrent le domaine ; commanditent la restauration de 1865."],
+  ['XXe s. →','Werbrouck / Volpelières d’Escombreras',"Propriété privée (SCI Domaine de Morthemer) ; vendue en 1993."],
 ]);
 
 /* ---- 4. CHÂTEAU ---- */
@@ -189,32 +191,42 @@ bullet("La crypte servait de nécropole seigneuriale.");
 note("Point débattu : la qualification de « chapelle castrale » est contestée par ArmmA (église "
   +"paroissiale + collégiale dès 1220, non chapelle du château).");
 figure('08-eglise-chateau-nord.jpg',"Ensemble nord : la jonction entre l’église et le château (Médiathèque de l’architecture et du patrimoine).");
+para("Chapitre collégial : l’église Sainte-Marie est cédée en 1110-1111 aux moines de Saint-Cyprien "
+  +"de Poitiers (confirmation du pape Calixte II, 1119) ; collège de chanoines séculiers de fondation "
+  +"seigneuriale attesté de v.1223 à 1790 (supprimé à la Révolution).");
 h2('La crypte et ses peintures');
-para("Crypte à trois vaisseaux (nécropole). Christ en Majesté sur la voûte (symboles des "
-  +"évangélistes) et Vierge à l’Enfant sur le mur est ; frise végétale et écu armorié lu Taveau "
-  +"(ArmmA). Peintures découvertes en 1978, restaurées en 1982-1983. Mobilier : enfeus du XIVe s., "
-  +"gisant de Renée Sanglier, Vierge à l’Enfant (XVIIe s.), vitrail de sainte Radegonde. Classée MH 1908.");
+para("Crypte à trois vaisseaux (nécropole). Christ en Majesté sur la voûte entouré du tétramorphe et "
+  +"Vierge à l’Enfant sur le mur est, fond en damier ; campagne 1230-1250. Écu peint « d’or, au chef "
+  +"de gueules à deux pals de vair », réattribué par ArmmA aux Sénéchal (et non aux Taveau). Peintures "
+  +"découvertes en 1978, restaurées en 1982-1983. Au fond de la nef, tombeau de chevalier « en dos "
+  +"d’âne » à épée et écu gravés (trois fleurs de lis — armes non identifiées). Mobilier : enfeus du "
+  +"XIVe s., gisant de Renée Sanglier, Vierge à l’Enfant (XVIIe s.), vitrail de sainte Radegonde, "
+  +"tableau donné par l’empereur en 1861. Église classée MH 1908. L’aumônerie (ancienne maladrerie, "
+  +"XVe s.) fut rattachée à celle de Chauvigny en 1695.");
 figure('06-eglise-crypte.jpg',"La crypte, vue vers le nord-est (Médiathèque de l’architecture et du patrimoine).");
 figure('09-eglise-gisant.jpg',"Le gisant (Renée Sanglier) dans l’église (Médiathèque de l’architecture et du patrimoine).",260);
 
 /* ---- 6. TOUR DE COGNAC ---- */
 h1('6. La tour de Cognac');
-para("Longtemps le point le plus obscur du dossier, la tour de Cognac est éclairée par une source "
-  +"locale : l’exposé « Morthemer, un village, une histoire » (société HÉRAGE, 16 avril 2005, "
-  +"par Y. Bourumeau-Dupuis et J.-H. Calmon, ancien maire et professeur d’histoire).");
-bullet("Datation : XIe siècle (une notice isolée avance le Xe s.).");
-bullet("Bâtiment situé à l’écart de l’ensemble château-église.");
-bullet("Surtout : considérée comme la PREMIÈRE RÉSIDENCE des seigneurs de Morthemer — la demeure "
-  +"seigneuriale primitive, antérieure au donjon (XIIe-XIVe s.).");
-para("Lecture d’historien : c’est une tour résidentielle seigneuriale (tour-maîtresse). Avant la "
-  +"construction du donjon accolé à l’église, le caput de la châtellenie (seigneurs cités dès 1054) "
-  +"se trouvait dans cette tour primitive ; le siège seigneurial a ensuite glissé vers le château "
-  +"actuel — évolution classique du castrum poitevin du XIe au XIVe s.");
-para("Reste à préciser : la localisation cadastrale et l’état actuel. Aucun lieu-dit « Cognac » "
-  +"n’apparaît dans la Base Adresse Nationale ni dans OpenStreetMap pour Valdivienne, ni — à la "
-  +"lecture — sur les cartes anciennes ci-dessous. « Cognac » est un microtoponyme (gallo-romain "
-  +"Conniacum), sans rapport avec la ville de Cognac. À documenter via le Dictionnaire topographique "
-  +"de la Vienne (Rédet, 1881), le cadastre napoléonien et les terriers (Arch. dép. de la Vienne).");
+para("Longtemps l’élément le plus obscur du dossier, la tour de Cognac est désormais documentée "
+  +"par une source de premier ordre : le Dictionnaire topographique de la Vienne de L. Rédet (1881), "
+  +"qui lui consacre une entrée, complétée par l’exposé local de la société HÉRAGE (2005).");
+quote("« Cognac, donjon en ruine à Mortemer. — Herbergamentum quod fuit Guidonis de Coignaco "
+  +"militis (v. 1370) ; houstel de Mortemer appelé anciennement l’oustel de Coignac (1436) ; fief de "
+  +"Mortemer autrement Cougnac (1629). — Ancien fief relevant de l’abbaye de Nouaillé. »",
+  "L. Rédet, Dictionnaire topographique du département de la Vienne, 1881.");
+bullet("« Cognac » est un toponyme attesté à Morthemer même, désignant un donjon en ruine — la "
+  +"tour n’est donc pas un objet fantôme.");
+bullet("Formes datées : un chevalier Guy de Coignac (v. 1370) ; l’oustel de Coignac (1436) ; "
+  +"Cougnac (1629). Fief tenu de l’abbaye de Nouaillé, avec son propre arrière-fief.");
+bullet("La formule de 1436 — « l’hôtel de Morthemer appelé anciennement l’hôtel de Coignac » — "
+  +"fonde l’idée que Cognac fut la RÉSIDENCE SEIGNEURIALE PRIMITIVE, à l’écart du château actuel.");
+para("Lecture d’historien : tour résidentielle / maîtresse, premier caput de la châtellenie avant "
+  +"le report du siège seigneurial vers le château accolé à l’église — schéma bien documenté en "
+  +"Poitou. Réserves : la datation XIe s. est une tradition (les textes ne remontent qu’aux années "
+  +"1370) ; l’étymologie Conniacum (type -acum) est plausible mais non sourcée pour ce lieu ; le "
+  +"toponyme est éteint (absent de la BAN, d’OSM et illisible sur Cassini/état-major). La "
+  +"localisation à la parcelle reste à chercher au cadastre napoléonien (Arch. dép. de la Vienne).");
 h2('Plans d’époque (cartes anciennes)');
 figure('plan-cassini-morthemer.png',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",430);
 figure('plan-etat-major-morthemer.png',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",430);
@@ -250,12 +262,23 @@ note("Critique des sources : les manuscrits de Froissart divergent — les uns f
   +"des dates (31 déc. 1369 / 1er janv. 1370). Texte complet : voir TEXTES-ET-ECRITS.md.");
 figure('chandos-mort-lussac.jpg',"Le combat du pont de Lussac où Chandos fut frappé — miniature d’un manuscrit médiéval des Chroniques (Wikimedia Commons, domaine public).",300);
 figure('manuscrit-froissart-poitiers.jpg',"Folio des Chroniques de Froissart : la bataille de Poitiers (1356), où Chandos s’illustra aux côtés du Prince Noir (Wikimedia Commons, domaine public).",300);
-para("À distinguer : le lieu d’inhumation (Morthemer) et le monument commémoratif (pierre du XIVe s. "
-  +"en bâtière) déplacé en 1886 à Mazerolles, classé objet en 1909 (Palissy PM86000321).");
-h2('Légendes');
-bullet("Le fantôme de Chandos : on entendrait, certaines nuits, des pas autour du château.");
-bullet("Les « Dames de Morthemer » : illustration romantique de la légende seigneuriale.");
-figure('12-dames-de-morthemer.jpg',"« Dames de Morthemer » : illustration de la légende (Wikimedia Commons).",220);
+quote("« Je Jehan Chandos, des Anglois capitaine, / Fort chevaler, de Poictou seneschal, / […] / "
+  +"Les Poictevins près Lussac me defirent : / A Mortemer mon corps enterrer firent. »",
+  "Épitaphe de Chandos, rapportée par le Dictionary of National Biography.");
+para("Version divergente : la Chronique de Bertrand du Guesclin de Cuvelier fait mourir Chandos au "
+  +"château de Chauvigny et l’inhume à Saint-Pierre — contradiction avec Froissart et l’épitaphe. Le "
+  +"monument commémoratif (pierre en bâtière, XIVe s.), longtemps près du pont de Lussac, a été "
+  +"déplacé en 1886 à Mazerolles (lieu-dit Aubeniaux) ; classé objet le 6 novembre 1909 (Palissy "
+  +"PM86000321). Une rue Chandos subsiste à Morthemer.");
+h2('Légendes locales');
+bullet("La « Dame d’Or » : pendant la guerre de Cent Ans, les Anglais capitulant devant Du Guesclin "
+  +"auraient caché une Vierge en or dans un souterrain, jamais retrouvée — légende reprise par le "
+  +"parcours Terra Aventura « La Malédiction de la Dame d’Or » (site officiel de Valdivienne).");
+bullet("Le fantôme de Chandos : des pas entendus la nuit autour du château (tradition orale).");
+bullet("L’empreinte de saint Martin (chapelle du Pas-de-Saint-Martin) ; la croix hosannière du cimetière.");
+note("Ne pas confondre avec l’abbaye de Mortemer en Normandie (Lisors), homonyme, à laquelle "
+  +"appartiennent les légendes de la Dame blanche et du lutin Goublin.");
+figure('12-dames-de-morthemer.jpg',"« Dames de Morthemer » : illustration de la légende seigneuriale (Wikimedia Commons).",220);
 
 /* ---- 9. ÉCRITS DEPUIS L'AN 900 ---- */
 h1('9. Les écrits, de l’an 900 à aujourd’hui');
@@ -263,9 +286,10 @@ para("Conformément au cahier des charges, les écrits se rapportant à Mortheme
   +"cités (dossier complet : TEXTES-ET-ECRITS.md). Synthèse par époque :");
 bullet("Médiéval : actes et chartes (formes Mortemarum 1077, etc.) ; Froissart, Chroniques (mort de "
   +"Chandos à Mortemer, cité ci-dessus) ; cartulaires poitevins.");
-bullet("Moderne : actes seigneuriaux des Taveau (aveux, contrats, testaments) ; F.-A. Taveau (1789).");
-bullet("Savant (XIXe-XXe s.) : Congrès archéologique de France (Poitiers, 1843) ; Beauchet-Filleau, "
-  +"Dictionnaire des familles du Poitou (« Taveau de Morthemer ») ; bases Mérimée/Inventaire ; ArmmA.");
+bullet("Moderne : actes seigneuriaux des Taveau ; épitaphe de Chandos ; Cuvelier (version rivale) ; "
+  +"Vie du Prince Noir du héraut Chandos (v.1385).");
+bullet("Savant (XIXe-XXe s.) : Rédet, Dictionnaire topographique de la Vienne (1881, entrée Cognac) ; "
+  +"Beauchet-Filleau (« Taveau de Morthemer ») ; base des collégiales (Limoges) ; Mérimée/Inventaire ; ArmmA.");
 bullet("Contemporain : notices POP, Wikipédia, études universitaires, offices de tourisme.");
 note("Écrits non numérisés à dépouiller : Archives départementales de la Vienne (terriers, cadastre "
   +"napoléonien), Société des Antiquaires de l’Ouest, Médiathèque du patrimoine (Charenton), "
@@ -279,9 +303,9 @@ para("Le dossier inclut désormais des images libres de chaque type demandé : d
   +"de chaque fichier : CREDITS.md. Les documents sous droits réservés ne sont pas redistribués mais liés :");
 bullet("Manuscrits enluminés de Froissart — autres folios des catégories Wikimedia Commons des "
   +"Chroniques (BnF Fr 2643-2646, 2663-2664).");
-bullet("Plan de l’église (relevé Durand, 1979-1980) et peintures de la crypte — base ArmmA.");
-bullet("Gravures et clichés anciens — Congrès archéologique (Poitiers 1843) sur Gallica ; clichés "
-  +"Gossin (1918), Médiathèque Grand Poitiers ; cartes postales anciennes (Geneanet).");
+bullet("Plan de l’église (relevé Durand, 1979-1980) et peintures de la crypte (écu Sénéchal) — base ArmmA.");
+bullet("Clichés anciens — Gossin (1918), Médiathèque Grand Poitiers ; cartes postales anciennes "
+  +"(Geneanet) ; Rédet (1881) et Beauchet-Filleau sur Gallica / Internet Archive.");
 bullet("Plan d’époque (cadastre napoléonien) — Archives départementales de la Vienne.");
 figure('chandos-blason.png',"Armoiries de Sir John Chandos (Wikimedia Commons).",170);
 
@@ -291,19 +315,24 @@ h2('Points débattus / à vérifier');
 bullet("Hastings (1066) : tradition locale ; famille de Mortemer présente à la conquête = normande.");
 bullet("« Chapelle castrale » : contesté par ArmmA (paroissiale + collégiale dès 1220).");
 bullet("Datation voûtes/clocher : fin XIIe s. (Inventaire) vs 1230-1250 (ArmmA).");
-bullet("Mort de Chandos : Froissart varie (« un jour et une nuit » vs « le tiers jour »).");
-bullet("Tombeau de Chandos : monument déplacé à Mazerolles (1886), ≠ lieu d’inhumation.");
-bullet("Écu de la crypte : lu Taveau (ArmmA), parfois Sénéchal. Tour de Cognac : à confirmer. "
-  +"Le « trou-œil » : non documenté (§ 7).");
+bullet("Mort de Chandos : lieu d’inhumation contesté — Mortemer (Froissart, épitaphe) vs Chauvigny "
+  +"(Cuvelier) ; cénotaphe déplacé à Mazerolles (1886).");
+bullet("Écu de la crypte : réattribué aux Sénéchal par ArmmA (longtemps dit Taveau) ; tombeau aux "
+  +"fleurs de lis non identifié.");
+bullet("Tour de Cognac : documentée par Rédet (donjon en ruine, oustel de Coignac, fief de Nouaillé) ; "
+  +"datation XIe s. = tradition ; localisation à confirmer (§ 6).");
+bullet("« Congrès archéologique 1843 » : Morthemer n’y figure pas (référence écartée). « Dame d’Or » : "
+  +"légende locale, ≠ légendes de l’abbaye normande de Mortemer. Le « trou-œil » : non documenté (§ 7).");
 h2('Sources principales');
 [
-  "Froissart, Chroniques (Wikisource ; Project Gutenberg ; éd. SHF) — texte cité au § 8.",
-  "POP : château PA00105752 ; Inventaire IA00045380 ; monument Chandos PM86000321.",
-  "ArmmA (SAPRAT/CNRS/Univ. Poitiers) — église, plan, crypte.",
-  "Beauchet-Filleau, Dictionnaire des familles du Poitou — « Taveau de Morthemer ».",
-  "HÉRAGE / Cercle généalogique poitevin, « Morthemer, un village, une histoire » (2005) — tour de Cognac.",
-  "L. Rédet, Dictionnaire topographique du département de la Vienne (1881).",
-  "Site officiel Valdivienne ; Wikipédia (Valdivienne) ; offices de tourisme ; Wikimedia Commons.",
+  "Froissart, Chroniques (Wikisource ; Gutenberg 73967 ; éd. Buchon/SHF) — texte au § 8.",
+  "Cuvelier, Chronique de Du Guesclin ; épitaphe de Chandos (DNB) ; Vie du Prince Noir (héraut Chandos).",
+  "L. Rédet, Dictionnaire topographique de la Vienne (1881) — entrée « Cognac ».",
+  "POP : château PA00105752 ; Inventaire IA00045380 ; cénotaphe Chandos PM86000321.",
+  "ArmmA (SAPRAT/CNRS/Univ. Poitiers) ; base des collégiales séculières (Univ. Limoges, 1223-1790).",
+  "Beauchet-Filleau, familles du Poitou ; Histoire de la famille Taveau ; chartes de Nouaillé.",
+  "HÉRAGE, « Morthemer, un village, une histoire » (2005) ; site Valdivienne (Dame d’Or) ; Terra Aventura.",
+  "IGN/data.geopf.fr (Cassini, état-major) ; Médiathèque Grand Poitiers ; Wikimedia Commons.",
 ].forEach(s=>bullet(s));
 doc.moveDown(0.5); hr();
 doc.fillColor(MUTED).font('Times-Italic').fontSize(9)
