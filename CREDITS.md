@@ -34,8 +34,8 @@ Commons : voir la page de chaque fichier
 | `chandos-mort-lussac.jpg` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
 | `manuscrit-froissart-poitiers.jpg` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
-| `plan-cassini-morthemer.jpg` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |
-| `plan-etat-major-morthemer.jpg` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
+| `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |
+| `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
 
 ---
 

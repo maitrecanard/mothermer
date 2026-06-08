@@ -251,8 +251,8 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `chandos-mort-lussac.jpg` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
 | `manuscrit-froissart-poitiers.jpg` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
 | `chandos-blason.png` | Armoiries de Sir John Chandos |
-| `plan-cassini-morthemer.jpg` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
-| `plan-etat-major-morthemer.jpg` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
+| `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
+| `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
 
 **Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
 (`09-eglise-gisant.jpg`), les **peintures de la crypte** (`06`), la **statue Vierge

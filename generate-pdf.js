@@ -216,8 +216,8 @@ para("Reste à préciser : la localisation cadastrale et l’état actuel. Aucun
   +"Conniacum), sans rapport avec la ville de Cognac. À documenter via le Dictionnaire topographique "
   +"de la Vienne (Rédet, 1881), le cadastre napoléonien et les terriers (Arch. dép. de la Vienne).");
 h2('Plans d’époque (cartes anciennes)');
-figure('plan-cassini-morthemer.jpg',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",330);
-figure('plan-etat-major-morthemer.jpg',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",330);
+figure('plan-cassini-morthemer.png',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",430);
+figure('plan-etat-major-morthemer.png',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",430);
 
 /* ---- 7. TROU-ŒIL ---- */
 h1('7. Le mystère du « trou en forme d’œil »');

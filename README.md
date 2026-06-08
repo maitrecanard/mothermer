@@ -58,7 +58,7 @@ Le récit par **Jean Froissart** de la mort de **Jean Chandos** transporté à *
 ### 🆕 Plans, manuscrits et reliques (ajoutés)
 - 🗺️ **Plans d'époque** *téléchargés* (domaine public, via IGN/data.geopf.fr) :
   **carte de Cassini** (XVIIIᵉ s.) et **carte d'état-major** (1820-1866) centrées sur
-  Morthemer — `images/plan-cassini-morthemer.jpg`, `images/plan-etat-major-morthemer.jpg`.
+  Morthemer — `images/plan-cassini-morthemer.png`, `images/plan-etat-major-morthemer.png`.
 - 📜 **Manuscrits** *téléchargés* (domaine public) : deux miniatures des *Chroniques*
   de **Froissart** — mort de Chandos à Lussac, et bataille de Poitiers.
 - ⚱️ **Objets / reliques** : gisant de Renée Sanglier, peintures de la crypte, statue
