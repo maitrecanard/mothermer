@@ -165,10 +165,22 @@ encyclopédique. « **Cognac** » est ici un **microtoponyme** (du gallo-romain
 **cartes anciennes** rassemblées ici — **Cassini** (XVIIIᵉ s.) et **état-major**
 (1820-1866) — n'a pas livré de toponyme « Cognac » lisible aux abords de Morthemer
 (noms voisins relevés : *la Tour*, *le Chai au Bourgeois*, *le Châtelard
-Bourgeois*…). **À documenter sur place et en archives** : *Dictionnaire topographique
-de la Vienne* de **L. Rédet** (1881), **cadastre napoléonien** (sections, à fort
-grossissement) et **terriers** de la châtellenie aux **Archives départementales de la
-Vienne**.
+Bourgeois*…).
+
+**Le cadastre napoléonien : la dernière clé (à consulter en navigateur).**
+Le **cadastre napoléonien de Morthemer** (levé v. 1810-1830) est le document le plus
+susceptible de **localiser la tour de Cognac à la parcelle** et de confirmer le
+microtoponyme. Il est **numérisé et en ligne**, mais protégé par un **mur anti-robot**
+(proof-of-work) et servi par un **visualiseur d'images tuilées** : il n'a **pas pu
+être récupéré automatiquement** (curl/WebFetch bloqués). **Marche à suivre :**
+1. Portail des **Archives départementales des Deux-Sèvres et de la Vienne** :
+   <https://archives-deux-sevres-vienne.fr/> → *Archives en ligne › Cadastre*.
+2. Chercher la commune **Morthemer** (plans-minutes sous la commune historique ;
+   matrices regroupées sous *Valdivienne* depuis 1969).
+3. Ouvrir le **tableau d'assemblage** puis les **plans de sections** (série **3 P**)
+   et y chercher un lieu-dit **« Cognac » / « Coignac »** et une tour isolée.
+- Compléter par le *Dictionnaire topographique de la Vienne* de **L. Rédet** (1881) et
+  les **terriers** de la châtellenie (Arch. dép. de la Vienne).
 
 ---
 
