@@ -11,8 +11,10 @@ const fs = require('fs');
 const path = require('path');
 const PDFDocument = require('pdfkit');
 
-const ROOT = __dirname, IMG = path.join(ROOT, 'images');
-const OUT = path.join(ROOT, 'Morthemer-Recherche-Historique.pdf');
+const ROOT = __dirname;
+const IMG = process.env.MORTHEMER_IMG ? path.resolve(process.env.MORTHEMER_IMG) : path.join(ROOT, 'images');
+const OUT = process.env.MORTHEMER_OUT ? path.resolve(process.env.MORTHEMER_OUT) : path.join(ROOT, 'Morthemer-Recherche-Historique.pdf');
+const shown = new Set();
 const INK = '#1d2b3a', ACCENT = '#7a5230', MUTED = '#5b6671', RULE = '#c9b48f', QBG = '#f5efe2';
 
 const doc = new PDFDocument({
@@ -73,6 +75,7 @@ function table(cols, widths, rows){
 }
 function figure(file, caption, maxH){
   const p=path.join(IMG,file); if(!fs.existsSync(p)) return; maxH=maxH||300;
+  shown.add(file);
   let img; try{ img=doc.openImage(p); }catch(e){ return; }
   const scale=Math.min(CONTENT_W/img.width, maxH/img.height);
   const w=img.width*scale, h=img.height*scale;
@@ -379,6 +382,21 @@ h2('Sources principales');
   "HÉRAGE, « Morthemer, un village, une histoire » (2005, d’après Ph. Durand) — fortification « en surélevant les murs » ; Dame d’Or (Trésors de l’Histoire, 1990).",
   "IGN/data.geopf.fr (Cassini, état-major) ; Médiathèque Grand Poitiers ; Wikimedia Commons.",
 ].forEach(s=>bullet(s));
+
+/* ---- 12. ANNEXE — GALERIE COMPLÈTE (toutes les images restantes) ---- */
+(function gallery(){
+  let files=[];
+  try{ files=fs.readdirSync(IMG).filter(f=>/\.png$/i.test(f)).sort(); }catch(e){ return; }
+  const rest=files.filter(f=>!shown.has(f));
+  if(!rest.length) return;
+  doc.addPage();
+  h1('12. Annexe — galerie iconographique complète');
+  para("Toutes les autres images réunies dans le dépôt (dossier images/). Source et licence "
+    +"de chaque pièce : CREDITS.md.");
+  const pretty=f=>f.replace(/\.png$/i,'').replace(/^\d+-/,'').replace(/-/g,' ');
+  for(const f of rest) figure(f, pretty(f), 250);
+})();
+
 doc.moveDown(0.5); hr();
 doc.fillColor(MUTED).font('Times-Italic').fontSize(9)
   .text("Morthemer — Recherche historique et archéologique. Généré à partir de RECHERCHE-MORTHEMER.md "

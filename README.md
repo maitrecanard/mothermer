@@ -37,7 +37,8 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Livrables
 | Livrable | Fichier | Contenu |
 |----------|---------|---------|
-| 📄 **PDF chronologique illustré** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **18 pages**, chronologie depuis l'an 900, ~20 illustrations, citations (Froissart, épitaphe de Chandos, Rédet, charte de Nouaillé) |
+| 📄 **PDF illustré (complet)** | [`Morthemer-Recherche-Historique.pdf`](Morthemer-Recherche-Historique.pdf) | **27 pages**, chronologie depuis l'an 900, **toutes les illustrations** (annexe-galerie incluse), citations (Froissart, épitaphe de Chandos, Rédet, charte de Nouaillé) — ~33 Mo |
+| 📄 **PDF — version allégée** | [`Morthemer-Recherche-Historique-leger.pdf`](Morthemer-Recherche-Historique-leger.pdf) | Même contenu, images compressées — **~5 Mo** (partage / e-mail) |
 | 📝 **Dossier de synthèse** | [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEMER.md) | 11 sections : château, église, tour de Cognac, trou-œil, seigneurs, Chandos… |
 | ✍️ **Textes et écrits (an 900 → aujourd'hui)** | [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) | Sources écrites datées + **Froissart cité en moyen français** |
 | 🖼️ **Iconographie** | [`images/`](images/) | **33 images libres** : 2 **plans d'époque** (Cassini, état-major), **manuscrits** (Froissart ; **portrait de Chandos**, Garter Book 1435), **écrits** (charte de **Nouaillé** v.1091-1115, Rédet, Beauchet-Filleau, blason Taveau), **sceau** de Chandos (1357), **cénotaphe** de Chandos, objets/reliques (gisant, crypte, statue, vitrail), vues & illustrations |
@@ -96,5 +97,12 @@ normande de Mortemer). Détail dans [`RECHERCHE-MORTHEMER.md`](RECHERCHE-MORTHEM
 ## Régénérer le PDF
 ```bash
 npm install pdfkit
+# Version complète (lit images/) :
 NODE_PATH=/chemin/vers/node_modules node generate-pdf.js   # -> Morthemer-Recherche-Historique.pdf
+
+# Version allégée : créer un dossier d'images réduites puis :
+MORTHEMER_IMG=images-leger MORTHEMER_OUT=Morthemer-Recherche-Historique-leger.pdf \
+  NODE_PATH=/chemin/vers/node_modules node generate-pdf.js
 ```
+> Note technique : toutes les images sont embarquées en **PNG** (et non JPEG) car
+> l'embarquement JPEG de pdfkit s'affiche mal dans certains lecteurs (Adobe, Aperçu).
