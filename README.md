@@ -16,6 +16,13 @@ Il faut toute les pièces possible, recherche sur inter,et, dans les archives pu
 
 ## image croquis
 Si possible récupère des lien d'image ou chrocuis ou télécharge lès, nous rechercheons des photos et ou illustrations du chateau ou de l'église ou de la tour
+- image de plan d'époque
+- d'illustration
+- de manuscrits
+- de sérigraphie 
+
+## texte et écrit
+cherche et récupère tout écrit d'époque aillant été écrit à partir de 900 ans jusqu'à aujourd'hui.
 
 ## Finalité
 créer un PDF extrêmement précis sur ta recherche en suivant la chronologie depuis l'années 900
