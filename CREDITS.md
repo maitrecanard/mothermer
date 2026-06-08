@@ -97,3 +97,39 @@ Page : <https://armma.saprat.fr/monument/sarcophage-morthemer-valdivienne/>
 > **cadastre napoléonien** (protection anti-robot) — qui ne peuvent être ni
 > automatiquement récupérés ni légalement redistribués ici. *Pour les intégrer, il
 > faut l'autorisation de l'ayant droit (ArmmA) ou une consultation manuelle (cadastre).*
+
+---
+
+## 4. Obtenir l'original HD de la « Dame de Morthemer »
+
+**Le problème.** La seule version en ligne est minuscule (**120 × 81 px**). Le dépôt
+en contient un agrandissement par interpolation (cosmétique, sans détail réel).
+
+**La source identifiée.**
+- **Fichier Wikimedia Commons** : *File:Dames de Morthemer.jpg*
+  (<https://commons.wikimedia.org/wiki/File:Dames_de_Morthemer.jpg>) — téléversé le
+  **22 février 2017** par l'utilisateur **`Amispatrimoinelussac`**, sous licence
+  **CC BY-SA 4.0**, déclaré « travail personnel », classé *peinture symboliste*.
+- Cet utilisateur a téléversé d'**autres œuvres en haute définition** (jusqu'à
+  **3191 px** : *Manoir encre*, *Gargantua encre*, *Dames du Château de Blagnac*
+  1751×1080…) : **il dispose donc de scans HD** — mais n'a mis en ligne que la
+  vignette pour « Dames de Morthemer ».
+- Derrière le compte : l'**Association des Amis du Patrimoine, de l'Histoire Locale
+  et de la Nature** de **Lussac-les-Châteaux** (liée à la famille **Le Falher**).
+
+**Comment demander l'original :**
+1. **Page de discussion Commons** de l'uploader :
+   <https://commons.wikimedia.org/wiki/User_talk:Amispatrimoinelussac> (laisser un
+   message — l'auteur recevra une notification).
+2. **Association** : *Amis du Patrimoine…*, **58 rue Saint-Michel, 86320
+   Lussac-les-Châteaux** (RNA W862002010), listée sur
+   <https://www.lussac-les-chateaux.fr/associations> ; à défaut, via la **mairie de
+   Lussac-les-Châteaux** : **05 49 48 40 33**.
+
+**Message type à envoyer :**
+> *Bonjour, je mène une recherche historique sur Morthemer (Valdivienne). Vous avez
+> téléversé sur Wikimedia Commons l'illustration « Dames de Morthemer » (CC BY-SA 4.0)
+> en petite définition (120×81 px). Disposeriez-vous du fichier d'origine en haute
+> résolution ? J'aimerais l'utiliser, avec attribution. Merci !*
+
+> Si tu obtiens un fichier HD, **envoie-le-moi** : je remplace l'image et régénère le PDF.
