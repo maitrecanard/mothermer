@@ -39,6 +39,24 @@ composé **« Morte- »** (eau morte/stagnante) **+ « -mer »** (latin *mare*, 
 dormante : étang, marais), soit **« mer morte »** (*Mortuum Mare*), en écho aux
 étangs du site — schéma de *Morteau*, *Mortefontaine*.
 
+**Contexte « vers l'an 900 ».** Le Poitou relève alors entièrement du **monde franc**
+(comtes de Poitiers / ducs d'Aquitaine : **Èbles Manzer**, **Guillaume le Pieux**
+fondateur de Cluny en 909, puis **Guillaume III Tête d'Étoupe**). Les **incursions
+normandes/vikings** sur la Vienne et ses affluents (Melle brûlée) poussent les
+princes à **fortifier les promontoires** et à créer des vicomtés-écrans, dont la
+**vicomté de Châtellerault** — d'où sont précisément issus les premiers **seigneurs
+de Morthemer**. Ce cadre rend plausible l'apparition d'un *castrum* sur la Dive vers
+cette période, **sans qu'aucune charte ne l'atteste directement**.
+- ⚠ La tradition locale (exposé **HÉRAGE**) avance des « Mortemer » dès **936**
+  (sous le prénom *Engelelmus*) ; **assertion non encore reliée à une charte éditée**.
+  La plus ancienne mention **confirmée** dans une édition savante reste celle du
+  **cartulaire de Nouaillé, v. 1091-1115** (Engelelme de Morthemer, § 9).
+- ⚠ **Archives anglaises et l'an 900 :** **aucune** — et c'est normal : l'Aquitaine
+  n'entre dans la mouvance anglaise qu'en **1152** (Aliénor ÷ Henri Plantagenêt). Pour
+  ~900, les seules sources sont **continentales** (cartulaires poitevins : Nouaillé,
+  Saint-Cyprien, Saint-Hilaire, Charroux). Les archives anglaises ne concernent
+  Morthemer qu'à la **guerre de Cent Ans** (Chandos, 1370 — § 8 et `TEXTES-ET-ECRITS.md` § 1.6).
+
 ---
 
 ## 2. Chronologie depuis l'an 900
@@ -323,6 +341,13 @@ en fait l'une des plus belles pages de ses *Chroniques* — texte d'époque cit�
 intégralement dans [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) (§ 1.2), avec ses
 **variantes manuscrites**.
 
+**Côté anglais** (Poitou anglais 1360-1372) : les **Gascon Rolls** (*C 61*) montrent
+Chandos *« baron of Saint-Sauveur-le-Vicomte »*, chargé de **prendre possession des
+terres cédées à Brétigny** et nommé **sénéchal d'Aquitaine le 12 novembre 1361** ;
+**Walsingham** (latin) signale sa mort *« in Wasconia »* **sans nommer Mortemer** ;
+la traduction anglaise de **Berners** dit *« Mortimer, the next fortress »*. Détails
+et verbatim : [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) § 1.6.
+
 Une **épitaphe ancienne** (rapportée par le *Dictionary of National Biography*) fait
 parler le chevalier et confirme l'inhumation **à Mortemer** :
 
@@ -444,7 +469,15 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
   mort de Chandos « à Mortemer », reprise de Mortemer par Du Guesclin (texte au § 8 et
   dans `TEXTES-ET-ECRITS.md`).
 - **Cuvelier**, *Chronique de Bertrand du Guesclin* (version rivale).
+- **Sources anglaises** (guerre de Cent Ans) : **Gascon Rolls** (*C 61*, gasconrolls.org /
+  TNA) ; **Th. Walsingham**, *Historia Anglicana* (Rolls Series, archive.org) ;
+  **Froissart trad. Berners** (archive.org) ; **Froissart éd. S. Luce**, t. VII (SHF,
+  note d'identification *Mortemer = Vienne*) ; ***Foedera* de Rymer** (t. III) ;
+  ***Register of the Black Prince***.
 - **Épitaphe de Chandos** via *Dictionary of National Biography* (« Chandos, John »).
+- **Poitou vers 900** : ducs d'Aquitaine / comtes de Poitiers (Èbles Manzer, Guillaume
+  le Pieux, Guillaume III) — Wikipédia + érudition ; cartulaires de **Saint-Cyprien**
+  (Rédet, 1874) et de **Nouaillé** (Monsabert, 1936).
 - **Héraut Chandos**, *La Vie du Prince Noir* (v. 1385) — ARLIMA, BnF, Gallica
   (éd. Francisque-Michel), Internet Archive.
 - **L. Rédet**, *Dictionnaire topographique de la Vienne* (1881) — **entrée « Cognac »**

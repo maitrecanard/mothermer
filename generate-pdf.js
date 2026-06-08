@@ -303,6 +303,11 @@ para("Version divergente : la Chronique de Bertrand du Guesclin de Cuvelier fait
   +"monument commémoratif (pierre en bâtière, XIVe s.), longtemps près du pont de Lussac, a été "
   +"déplacé en 1886 à Mazerolles (lieu-dit Aubeniaux) ; classé objet le 6 novembre 1909 (Palissy "
   +"PM86000321). Une rue Chandos subsiste à Morthemer.");
+para("Côté anglais (Poitou anglais 1360-1372) : les Gascon Rolls (C 61) montrent Chandos « baron de "
+  +"Saint-Sauveur-le-Vicomte », chargé de prendre possession des terres cédées à Brétigny et nommé "
+  +"sénéchal d’Aquitaine le 12 novembre 1361 ; Walsingham (latin) signale sa mort « in Wasconia » sans "
+  +"nommer Mortemer ; la traduction de Berners dit « Mortimer, the next fortress », et S. Luce identifie "
+  +"« Mortemer (Vienne, c. Lussac) ». (Détails : TEXTES-ET-ECRITS.md § 1.6.)");
 figure('chandos-cenotaphe-mazerolles.png',"Le cénotaphe de Jean Chandos (croix et dalle en bâtière sur dais), aujourd’hui à Mazerolles — cliché ancien (base Mémoire, Min. de la Culture, Licence Ouverte).",300);
 h2('Légendes locales');
 bullet("La « Dame d’Or » : pendant la guerre de Cent Ans, les Anglais capitulant devant Du Guesclin "
@@ -361,6 +366,8 @@ h2('Sources principales');
 [
   "Froissart, Chroniques (Wikisource ; Gutenberg 73967 ; éd. Buchon/SHF) — texte au § 8.",
   "Cuvelier, Chronique de Du Guesclin ; épitaphe de Chandos (DNB) ; Vie du Prince Noir (héraut Chandos).",
+  "Sources anglaises (guerre de Cent Ans) : Gascon Rolls (C 61, gasconrolls.org/TNA) ; Walsingham, Historia Anglicana ; Froissart trad. Berners ; Foedera de Rymer ; Register of the Black Prince.",
+  "Poitou vers 900 : comtes de Poitiers/ducs d’Aquitaine (Èbles Manzer, Guillaume le Pieux, Guillaume III) ; cartulaires de Saint-Cyprien (Rédet) et de Nouaillé (Monsabert).",
   "L. Rédet, Dictionnaire topographique de la Vienne (1881) — entrée « Cognac ».",
   "POP : château PA00105752 ; Inventaire IA00045380 ; cénotaphe Chandos PM86000321.",
   "ArmmA (SAPRAT/CNRS/Univ. Poitiers) ; base des collégiales séculières (Univ. Limoges, 1223-1790).",

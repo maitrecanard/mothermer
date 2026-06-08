@@ -102,6 +102,42 @@ Le *Dictionnaire topographique de la Vienne* de **L. Rédet** cite, à l'entrée
 Ces mentions (chartes de **Nouaillé**) sont les plus anciens **écrits** rattachant
 Cognac à Morthemer (cf. § 6 du dossier).
 
+### 1.6 Sources **anglaises** de la guerre de Cent Ans (Poitou anglais, Chandos)
+
+Après le **traité de Brétigny (1360)**, le **Poitou passe sous administration
+anglaise** (jusqu'en 1372) : les **archives royales anglaises** documentent alors la
+région — mais en **actes administratifs** (rôles), non en images.
+
+- **Gascon Rolls** (chancellerie anglaise, série *C 61*, The National Archives ;
+  calendriers en ligne : gasconrolls.org) :
+  - **C 61/74** (1361-62) : **John Chandos**, *« baron of Seint Saveour le Viscont »*
+    (Saint-Sauveur-le-Vicomte), reçoit pleins pouvoirs pour **prendre possession des
+    terres cédées** par le roi de France (Brétigny) ; il est nommé **sénéchal
+    d'Aquitaine le 12 novembre 1361**. La **sénéchaussée de Poitou** (*seneschalcy of
+    Pictavia*) y est administrée.
+- **Th. Walsingham, *Historia Anglicana*** (latin, Rolls Series) : note la mort de
+  Chandos mais **sans nommer Mortemer** —
+  > *« Johannes Chaundos interfectus est ab hostibus in Wasconia… dum incaute caput
+  > suum discooperuisset, ad magnum detrimentum utriusque regni. »*
+- **Froissart, traduction anglaise de Lord Berners** (1523-25) : nomme la forteresse
+  **« Mortimer »** (graphie anglaise, à ne pas confondre avec la famille Mortimer) —
+  > *« they bare him softly to **Mortimer, the next fortress** to them… this noble
+  > knight sir John Chandos lived not after his hurt past a day and a night. »*
+- **Identification géographique** par **Siméon Luce** (éd. Froissart, SHF, t. VII) :
+  Chandos *« expira à **Mortemer (Vienne, arr. Montmorillon, c. Lussac)** »* — confirme
+  qu'il s'agit bien du Morthemer poitevin (et non normand).
+- **Épitaphe** (rapportée par Jean Bouchet ; « postérieure » selon Luce) :
+  *« …Les Poictevins près Lussac me défirent, / **A Mortemer mon corps enterrer
+  firent**, / … L'an mil trois cents soixante et neuf »* (millésime en **ancien
+  style** = 1370).
+- Autres : ***Foedera* de Rymer** (t. III, actes 1360-72 ; éd. anciennes sur Gallica/
+  Internet Archive — non publiés sur British History Online avant 1377) ; ***Register
+  of the Black Prince*** (HMSO, sur archive.org) ; **DNB**, art. « Chandos, John ».
+
+> ⚠ **Sur la « tour de Cognac » dans les archives anglaises** : recherche faite,
+> **aucun dessin/croquis** n'existe (les sources anglaises sont des rôles textuels ;
+> la tour, simple *donjon en ruine*, n'a laissé aucune iconographie).
+
 ---
 
 ## 2. Sources modernes (XVIe–XVIIIe s.)
