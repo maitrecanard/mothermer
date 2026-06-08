@@ -189,11 +189,22 @@ figure('09-eglise-gisant.jpg',"Le gisant (Renée Sanglier) dans l’église (Mé
 
 /* ---- 6. TOUR DE COGNAC ---- */
 h1('6. La tour de Cognac');
-para("Élément le plus discrètement documenté : citée comme datant du XIe s. dans les inventaires du "
-  +"patrimoine local, sans monographie détaillée en ligne. Lecture d’historien : tour de guet / "
-  +"défense avancée commandant un passage, ou tour seigneuriale secondaire (l’un des 28 fiefs). "
-  +"« Cognac » est ici un microtoponyme (gallo-romain Conniacum), sans rapport avec la ville de "
-  +"Cognac. À documenter aux Archives de la Vienne (cadastre, terriers).");
+para("Longtemps le point le plus obscur du dossier, la tour de Cognac est éclairée par une source "
+  +"locale : l’exposé « Morthemer, un village, une histoire » (société HÉRAGE, 16 avril 2005, "
+  +"par Y. Bourumeau-Dupuis et J.-H. Calmon, ancien maire et professeur d’histoire).");
+bullet("Datation : XIe siècle (une notice isolée avance le Xe s.).");
+bullet("Bâtiment situé à l’écart de l’ensemble château-église.");
+bullet("Surtout : considérée comme la PREMIÈRE RÉSIDENCE des seigneurs de Morthemer — la demeure "
+  +"seigneuriale primitive, antérieure au donjon (XIIe-XIVe s.).");
+para("Lecture d’historien : c’est une tour résidentielle seigneuriale (tour-maîtresse). Avant la "
+  +"construction du donjon accolé à l’église, le caput de la châtellenie (seigneurs cités dès 1054) "
+  +"se trouvait dans cette tour primitive ; le siège seigneurial a ensuite glissé vers le château "
+  +"actuel — évolution classique du castrum poitevin du XIe au XIVe s.");
+para("Reste à préciser : la localisation cadastrale et l’état actuel. Aucun lieu-dit « Cognac » "
+  +"n’apparaît dans la Base Adresse Nationale ni dans OpenStreetMap pour Valdivienne. « Cognac » est "
+  +"un microtoponyme (gallo-romain Conniacum), sans rapport avec la ville de Cognac. À documenter via "
+  +"le Dictionnaire topographique de la Vienne (Rédet, 1881), le cadastre napoléonien et les terriers "
+  +"(Archives départementales de la Vienne).");
 
 /* ---- 7. TROU-ŒIL ---- */
 h1('7. Le mystère du « trou en forme d’œil »');
@@ -275,6 +286,8 @@ h2('Sources principales');
   "POP : château PA00105752 ; Inventaire IA00045380 ; monument Chandos PM86000321.",
   "ArmmA (SAPRAT/CNRS/Univ. Poitiers) — église, plan, crypte.",
   "Beauchet-Filleau, Dictionnaire des familles du Poitou — « Taveau de Morthemer ».",
+  "HÉRAGE / Cercle généalogique poitevin, « Morthemer, un village, une histoire » (2005) — tour de Cognac.",
+  "L. Rédet, Dictionnaire topographique du département de la Vienne (1881).",
   "Site officiel Valdivienne ; Wikipédia (Valdivienne) ; offices de tourisme ; Wikimedia Commons.",
 ].forEach(s=>bullet(s));
 doc.moveDown(0.5); hr();

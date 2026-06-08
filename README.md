@@ -47,7 +47,7 @@ créer un PDF extrêmement précis sur ta recherche en suivant la chronologie de
 ## Les 4 thèmes demandés — réponses
 - 🏯 **Château** : 1ʳᵉ mention Xe s. ; donjon carré à 5 niveaux (re)bâti par les *Sénéchal* (~1375) ; quasi-ruine avant 1860 puis **restauration de Boeswillwald (1865)** ; MH 1927/2008.
 - ⛪ **Église collégiale Notre-Dame** : romane (XIe-XIIe s.), crypte peinte (Christ en Majesté, Vierge à l'Enfant) ; **soudée au château** — on y entre **par un passage voûté sous la nef** ; MH 1908.
-- 🗼 **Tour de Cognac** : XIe s., toponyme *Conniacum* (rien à voir avec la ville de Cognac) ; **peu documentée** → archives à dépouiller.
+- 🗼 **Tour de Cognac** : XIe s. — **première résidence des seigneurs de Morthemer** (demeure primitive à l'écart, antérieure au donjon), d'après l'exposé de la société HÉRAGE (2005). Localisation cadastrale encore à confirmer (Rédet 1881 / Archives de la Vienne).
 - 👁️ **Trou « en forme d'œil »** : **non documenté** ; hypothèse la plus probable = un **oculus** (lumière + symbole de l'« Œil de Dieu »), à valider in situ.
 
 ## Pièce maîtresse : un écrit d'époque

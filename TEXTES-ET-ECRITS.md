@@ -86,6 +86,14 @@ L'épisode est aussi figuré dans les **manuscrits enluminés** des *Chroniques*
   *Durand, 1979-1980*), peintures de la crypte, héraldique (écu **Taveau**).
 - **Découverte et restauration des peintures de la crypte** : signalées en **1978**,
   restaurées en **1982-1983** (littérature de la CRMH / publications régionales).
+- **L. Rédet, *Dictionnaire topographique du département de la Vienne*** (1881) :
+  recense les **noms de lieu anciens et modernes** — outil de référence pour situer
+  et dater des microtoponymes comme **« Cognac »** (numérisé sur Gallica / Internet
+  Archive).
+- **HÉRAGE / Cercle généalogique poitevin**, ***Morthemer, un village, une
+  histoire*** (exposé du **16 avril 2005**, par **Y. Bourumeau-Dupuis** et
+  **J.-H. Calmon**, ancien maire) : synthèse d'histoire locale — **seule source
+  identifiant la tour de Cognac comme première résidence des seigneurs**.
 
 ---
 

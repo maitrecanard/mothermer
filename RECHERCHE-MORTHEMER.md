@@ -50,7 +50,7 @@ dormante : étang, marais), soit **« mer morte »** (*Mortuum Mare*), en écho 
 | **1054** | Le nom des **seigneurs de Morthemer** est cité (vicomtes de Châtellerault). |
 | **1066** | *(Tradition locale)* « Raoul de Mortemer » à Hastings — **⚠ confusion probable** avec les **Mortemer normands** (§ 10). |
 | **1077** | *Castellania Mortemari* (châtellenie) ; forme *Mortemarum*. |
-| **XIe s.** | **Tour de Cognac.** Chevet et **crypte romans** (2ᵉ moitié XIe s.). |
+| **XIe s.** | **Tour de Cognac** : première résidence des seigneurs de Morthemer (à l'écart du site actuel). Chevet et **crypte romans** (2ᵉ moitié XIe s.). |
 | **fin XIe–déb. XIIe s.** | **Église romane Notre-Dame** (chœur, crypte). |
 | **années 1220** | L'église, **siège d'un collège de chanoines** (collégiale). |
 | **v. 1230–1250** | Remaniement gothique (transept, nef, clocher, voûtes) ; **peintures de la crypte**. |
@@ -137,13 +137,34 @@ impérial (1861). **Classée MH 1908.**
 
 ## 6. La tour de Cognac
 
-Élément **le plus discrètement documenté**. Citée comme datant du **XIe s.** (une
-source isolée avance le Xe s.) dans les inventaires du patrimoine local, sans
-monographie détaillée en ligne. **Lecture d'historien :** tour de **guet/défense
-avancée** commandant un passage, ou **tour seigneuriale secondaire** (l'un des 28
-fiefs). « **Cognac** » = **microtoponyme** (gallo-romain *Conniacum*), **sans
-rapport** avec la ville de Cognac. **À documenter** aux Archives de la Vienne
-(cadastre, terriers).
+Longtemps le point le plus obscur du dossier, la tour de Cognac est enfin éclairée
+par une **source locale** : l'exposé **« Morthemer, un village, une histoire »**
+présenté le **16 avril 2005** par la société généalogique **HÉRAGE** (travail de
+**Yvette Bourumeau-Dupuis**, native du village, avec **Jean-Henri Calmon**, professeur
+d'histoire et ancien maire de Morthemer, et l'**abbé Moins**).
+
+**Ce que l'on sait désormais :**
+- **Datation : XIe siècle** (une notice isolée avance le Xe s.).
+- C'est un **bâtiment situé à l'écart** de l'ensemble château-église.
+- Surtout, elle est considérée comme la **première résidence des seigneurs de
+  Morthemer** — autrement dit la **demeure seigneuriale primitive**, **antérieure au
+  donjon** (XIIe-XIVe s.).
+
+**Lecture d'historien.** Cela confirme l'hypothèse d'une **tour résidentielle
+seigneuriale** (tour-maîtresse) : avant que les seigneurs ne bâtissent le
+donjon accolé à l'église, le *caput* de la châtellenie (seigneurs cités dès 1054,
+châtellenie en 1077) se trouvait dans cette **tour primitive du XIe s.** Le
+glissement du siège seigneurial **de la tour de Cognac vers le château actuel**
+illustre l'évolution classique du castrum poitevin entre le XIe et le XIVe s.
+
+**Ce qui reste à préciser.** La **localisation cadastrale exacte** et l'**état
+actuel** : aucun lieu-dit « Cognac » n'apparaît dans la Base Adresse Nationale ni
+dans OpenStreetMap pour Valdivienne, et le nom ne figure pas dans l'article
+encyclopédique. « **Cognac** » est ici un **microtoponyme** (du gallo-romain
+*Conniacum*, type *-acum*), **sans rapport** avec la ville de Cognac. **À documenter
+sur place et en archives** : *Dictionnaire topographique de la Vienne* de **L. Rédet**
+(1881, qui recense les noms de lieu anciens et modernes), **cadastre napoléonien**
+et **terriers** de la châtellenie aux **Archives départementales de la Vienne**.
 
 ---
 
@@ -240,7 +261,10 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 - **Tombeau de Chandos** : monument **déplacé à Mazerolles (1886)**, ≠ lieu
   d'inhumation (Morthemer).
 - **Écu de la crypte** : lu **Taveau** (ArmmA), parfois **Sénéchal**.
-- **Tour de Cognac** : datation/fonction **à confirmer en archives**.
+- **Tour de Cognac** : identifiée comme **première résidence seigneuriale** (XIe s.,
+  exposé HÉRAGE 2005) ; **localisation cadastrale et état actuel à confirmer** sur
+  place et via Rédet / Arch. dép. de la Vienne (aucun lieu-dit « Cognac » dans la
+  BAN/OSM de Valdivienne).
 - **Le « trou-œil »** : **non documenté** ; hypothèses § 7.
 
 ### Sources
@@ -250,6 +274,11 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 - **ArmmA** (SAPRAT/CNRS/Univ. Poitiers) — église, plan, crypte.
 - **Beauchet-Filleau**, *Dictionnaire… familles du Poitou* — « Taveau de Morthemer ».
 - *Histoire de la famille Taveau de Morthemer* (Montamisé).
+- **HÉRAGE / Cercle généalogique poitevin**, *Morthemer, un village, une histoire*
+  (exposé du 16 avr. 2005, Y. Bourumeau-Dupuis & J.-H. Calmon) — **source clé sur la
+  tour de Cognac** : <https://docplayer.fr/23284726>.
+- **L. Rédet**, *Dictionnaire topographique du département de la Vienne* (1881) —
+  référence toponymique (Gallica / Internet Archive).
 - Site officiel **Valdivienne** ; **Wikipédia** (*Valdivienne*) ; offices de tourisme
   Sud Vienne Poitou & Chauvigny ; **Wikimedia Commons** (images).
 
