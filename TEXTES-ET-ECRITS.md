@@ -37,7 +37,7 @@ conserve cet acte :
 C'est le **plus ancien écrit** rattachant des **« de Morthemer »** à des droits
 seigneuriaux (fin XIe – début XIIe s.). Le même cartulaire cite aussi *Goscelin*,
 *Samuel le Riche de Mortemer*, et un *Petrus, prior de Mortemer* (prieuré dépendant
-de Nouaillé). *(Page reproduite : `images/document-cartulaire-nouaille.jpg`.)*
+de Nouaillé). *(Page reproduite : `images/document-cartulaire-nouaille.png`.)*
 
 ### 1.2 Jean Froissart, *Chroniques* (v. 1370-1400) — **source capitale**
 Froissart consacre à la **mort de Jean Chandos à Mortemer** (1er janvier 1370) l'une
@@ -96,7 +96,7 @@ Le *Dictionnaire topographique de la Vienne* de **L. Rédet** cite, à l'entrée
 > Mortemer appelé anciennement l'oustel de Coignac* (**1436**) · *fief de Mortemer
 > autrement Cougnac* (**1639**) — fief relevant de l'**abbaye de Nouaillé**.
 >
-> *(Page reproduite : `images/document-redet-cognac.jpg` — Rédet, p. 129,
+> *(Page reproduite : `images/document-redet-cognac.png` — Rédet, p. 129,
 > source gallica.bnf.fr / BnF.)*
 
 Ces mentions (chartes de **Nouaillé**) sont les plus anciens **écrits** rattachant

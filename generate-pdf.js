@@ -98,9 +98,9 @@ doc.moveDown(1.2);
 doc.fillColor(MUTED).font('Times-Roman').fontSize(12).text('Recherche historique et archéologique',{align:'center'});
 doc.text('Commune de Valdivienne — Vienne (86)',{align:'center'});
 doc.text("Chronologie raisonnée depuis l'an 900",{align:'center'});
-if (fs.existsSync(path.join(IMG,'03-chateau-eglise-ancien.jpg'))){
+if (fs.existsSync(path.join(IMG,'03-chateau-eglise-ancien.png'))){
   doc.moveDown(1.5);
-  doc.image(path.join(IMG,'03-chateau-eglise-ancien.jpg'),{fit:[CONTENT_W,280],align:'center'});
+  doc.image(path.join(IMG,'03-chateau-eglise-ancien.png'),{fit:[CONTENT_W,280],align:'center'});
   doc.moveDown(0.2);
   doc.fillColor(MUTED).font('Times-Italic').fontSize(9)
     .text('Le château (donjon) et l’église collégiale Notre-Dame — cliché ancien (≈ un siècle), '
@@ -158,7 +158,7 @@ h1('3. Les seigneurs de Morthemer');
 para("La plus ancienne mention écrite de la famille figure dans une charte de l’abbaye de Nouaillé "
   +"(v. 1091-1115) : « Engelelme de Morthemer et ses frères Pierre et Bernard renoncent aux redevances "
   +"que leur père Engelelme percevait… à Fleuré, Mazerolles, Bouresse… » (cf. ci-dessous).");
-figure('document-cartulaire-nouaille.jpg',"La plus ancienne trace écrite : charte n°177 du cartulaire de l’abbaye de Nouaillé (v. 1091-1115) nommant Engelelme de Morthemer et ses frères (éd. Monsabert, p. 279 — source gallica.bnf.fr / BnF).",380);
+figure('document-cartulaire-nouaille.png',"La plus ancienne trace écrite : charte n°177 du cartulaire de l’abbaye de Nouaillé (v. 1091-1115) nommant Engelelme de Morthemer et ses frères (éd. Monsabert, p. 279 — source gallica.bnf.fr / BnF).",380);
 table(['Période','Lignée','Faits'],[1.2,1.5,3],[
   ['XIe–XIIIe s.','de Morthemer (vic. de Châtellerault)',"Nom cité dès 1054 ; châtellenie 1077."],
   ['XIIIe s.','Chenin puis de la Vergne',"Guillaume V Chenin (†v.1276), Agathe Chenin, Guillaume de la Vergne."],
@@ -170,7 +170,7 @@ table(['Période','Lignée','Faits'],[1.2,1.5,3],[
 para("D’après Beauchet-Filleau, Guillaume Taveau, baron de Mortemer (et maire de Poitiers en 1388, "
   +"1395-1398, 1412-1413 ; sénéchal d’Olivier de Clisson en 1385), reçut la terre de Mortemer par son "
   +"mariage avec Sibylle de Saint-Martin.");
-figure('document-taveau-beauchet-filleau.jpg',"Entrée « Taveau, branche de Mortemer » dans le Dictionnaire des familles du Poitou de Beauchet-Filleau (p. 694). Source gallica.bnf.fr / BnF.",430);
+figure('document-taveau-beauchet-filleau.png',"Entrée « Taveau, branche de Mortemer » dans le Dictionnaire des familles du Poitou de Beauchet-Filleau (p. 694). Source gallica.bnf.fr / BnF.",430);
 
 /* ---- 4. CHÂTEAU ---- */
 h1('4. Le château');
@@ -181,8 +181,8 @@ para("Avant 1860, le château était si délabré que, sans l’intervention, «
   +"plus ». Acquis par le baron de Soubeyran (1844), il est restauré v. 1865 par Émile Boeswillwald, "
   +"disciple de Viollet-le-Duc : la silhouette « médiévale » actuelle est en partie une recomposition "
   +"du XIXe s. Donjon inscrit MH 1927, ensemble 2008 (PA00105752). Propriété privée.");
-figure('01-chateau-vue-nord.jpg',"Le château, vue nord : le donjon restauré au XIXe s. et l’église (Wikimedia Commons).");
-figure('02-donjon-ouest.jpg',"Le donjon, face ouest : tourelles-contreforts et parapet (Wikimedia Commons).",320);
+figure('01-chateau-vue-nord.png',"Le château, vue nord : le donjon restauré au XIXe s. et l’église (Wikimedia Commons).");
+figure('02-donjon-ouest.png',"Le donjon, face ouest : tourelles-contreforts et parapet (Wikimedia Commons).",320);
 
 /* ---- 5. ÉGLISE & PASSAGE ---- */
 h1('5. L’église et le passage des seigneurs et chevaliers');
@@ -201,7 +201,7 @@ bullet("Une tribune permettait au seigneur et à sa garnison de suivre la messe 
 bullet("La crypte servait de nécropole seigneuriale.");
 note("Point débattu : la qualification de « chapelle castrale » est contestée par ArmmA (église "
   +"paroissiale + collégiale dès 1220, non chapelle du château).");
-figure('08-eglise-chateau-nord.jpg',"Ensemble nord : la jonction entre l’église et le château (Médiathèque de l’architecture et du patrimoine).");
+figure('08-eglise-chateau-nord.png',"Ensemble nord : la jonction entre l’église et le château (Médiathèque de l’architecture et du patrimoine).");
 para("Chapitre collégial : l’église Sainte-Marie est cédée en 1110-1111 aux moines de Saint-Cyprien "
   +"de Poitiers (confirmation du pape Calixte II, 1119) ; collège de chanoines séculiers de fondation "
   +"seigneuriale attesté de v.1223 à 1790 (supprimé à la Révolution).");
@@ -214,8 +214,8 @@ para("Crypte à trois vaisseaux (nécropole). Christ en Majesté sur la voûte e
   +"XIVe s., gisant de Renée Sanglier, Vierge à l’Enfant (XVIIe s.), vitrail de sainte Radegonde, "
   +"tableau donné par l’empereur en 1861. Église classée MH 1908. L’aumônerie (ancienne maladrerie, "
   +"XVe s.) fut rattachée à celle de Chauvigny en 1695.");
-figure('06-eglise-crypte.jpg',"La crypte, vue vers le nord-est (Médiathèque de l’architecture et du patrimoine).");
-figure('09-eglise-gisant.jpg',"Le gisant (Renée Sanglier) dans l’église (Médiathèque de l’architecture et du patrimoine).",260);
+figure('06-eglise-crypte.png',"La crypte, vue vers le nord-est (Médiathèque de l’architecture et du patrimoine).");
+figure('09-eglise-gisant.png',"Le gisant (Renée Sanglier) dans l’église (Médiathèque de l’architecture et du patrimoine).",260);
 
 /* ---- 6. TOUR DE COGNAC ---- */
 h1('6. La tour de Cognac');
@@ -238,7 +238,7 @@ para("Lecture d’historien : tour résidentielle / maîtresse, premier caput de
   +"1370) ; l’étymologie Conniacum (type -acum) est plausible mais non sourcée pour ce lieu ; le "
   +"toponyme est éteint (absent de la BAN, d’OSM et illisible sur Cassini/état-major). La "
   +"localisation à la parcelle reste à chercher au cadastre napoléonien (Arch. dép. de la Vienne).");
-figure('document-redet-cognac.jpg',"La preuve écrite : l’entrée « Cognac, donjon en ruine à Mortemer » dans le Dictionnaire topographique de la Vienne de L. Rédet (1881, p. 129). Source gallica.bnf.fr / BnF.",430);
+figure('document-redet-cognac.png',"La preuve écrite : l’entrée « Cognac, donjon en ruine à Mortemer » dans le Dictionnaire topographique de la Vienne de L. Rédet (1881, p. 129). Source gallica.bnf.fr / BnF.",430);
 h2('Plans d’époque (cartes anciennes)');
 figure('plan-cassini-morthemer.png',"Carte de Cassini (XVIIIᵉ s.) : Morthemer, La Chapelle-Morthemer, Salles, Toulon et la Dive (IGN / BnF — Licence Ouverte).",430);
 figure('plan-etat-major-morthemer.png',"Carte d’état-major (1820-1866) : le secteur de Morthemer et ses lieux-dits (IGN — Licence Ouverte).",430);
@@ -275,7 +275,7 @@ para("Conclusion révisée : compte tenu de la fortification documentée, l’ex
   +"est une trémie d’accès à une salle de refuge sous un toit exhaussé (hissage / surveillance) plutôt "
   +"qu’un pur ornement ; l’oculus de lumière reste l’alternative si le percement est au pignon. À "
   +"trancher par un relevé du comble et auprès de la CRMH Nouvelle-Aquitaine.");
-figure('07-eglise-nef-ouest.jpg',"La nef vue de l’entrée (extrémité ouest), côté de l’ancien portail muré — la zone « à l’opposé du clocher » (Médiathèque de l’architecture et du patrimoine).");
+figure('07-eglise-nef-ouest.png',"La nef vue de l’entrée (extrémité ouest), côté de l’ancien portail muré — la zone « à l’opposé du clocher » (Médiathèque de l’architecture et du patrimoine).");
 
 /* ---- 8. CHANDOS & FROISSART ---- */
 h1('8. Jean Chandos, Froissart et les légendes');
@@ -283,7 +283,7 @@ para("Jean (John) Chandos († 1er janv. 1370), sénéchal du Poitou et connéta
   +"capitaine anglais de la guerre de Cent Ans, fut blessé au pont de Lussac le 31 décembre 1369 "
   +"(coup de Jacques de Saint-Martin), transporté à Mortemer, « la plus prochaine forteresse », où il "
   +"mourut. Jean Froissart en a tiré l’une des plus belles pages de ses Chroniques (texte d’époque) :");
-figure('manuscrit-chandos-garter-1435.jpg',"Sir John Chandos, portrait enluminé du « Garter Book » de William Bruges (v. 1435, British Library, Stowe MS 594) — avec ses armes et l’insigne de la Jarretière (Wikimedia Commons, domaine public).",330);
+figure('manuscrit-chandos-garter-1435.png',"Sir John Chandos, portrait enluminé du « Garter Book » de William Bruges (v. 1435, British Library, Stowe MS 594) — avec ses armes et l’insigne de la Jarretière (Wikimedia Commons, domaine public).",330);
 quote("« Là fu li dis monsigneur Jehan Chandos de ses gens desarmés moult doucement et couchiés sus "
   +"targes et sus pavais, et amenés et aportés tout le pas à Mortemer, le plus proçainne forterèce de "
   +"là. […] Li gentilz chevaliers dessus nommés ne vesqui de ceste navrure q’un jour et une nuit, et "
@@ -293,8 +293,8 @@ quote("« Là fu li dis monsigneur Jehan Chandos de ses gens desarmés moult dou
 note("Critique des sources : les manuscrits de Froissart divergent — les uns font mourir Chandos "
   +"« un jour et une nuit » après sa blessure, d’autres « le tiers jour après » — d’où le flottement "
   +"des dates (31 déc. 1369 / 1er janv. 1370). Texte complet : voir TEXTES-ET-ECRITS.md.");
-figure('chandos-mort-lussac.jpg',"Le combat du pont de Lussac où Chandos fut frappé — miniature d’un manuscrit médiéval des Chroniques (Wikimedia Commons, domaine public).",300);
-figure('manuscrit-froissart-poitiers.jpg',"Folio des Chroniques de Froissart : la bataille de Poitiers (1356), où Chandos s’illustra aux côtés du Prince Noir (Wikimedia Commons, domaine public).",300);
+figure('chandos-mort-lussac.png',"Le combat du pont de Lussac où Chandos fut frappé — miniature d’un manuscrit médiéval des Chroniques (Wikimedia Commons, domaine public).",300);
+figure('manuscrit-froissart-poitiers.png',"Folio des Chroniques de Froissart : la bataille de Poitiers (1356), où Chandos s’illustra aux côtés du Prince Noir (Wikimedia Commons, domaine public).",300);
 quote("« Je Jehan Chandos, des Anglois capitaine, / Fort chevaler, de Poictou seneschal, / […] / "
   +"Les Poictevins près Lussac me defirent : / A Mortemer mon corps enterrer firent. »",
   "Épitaphe de Chandos, rapportée par le Dictionary of National Biography.");
@@ -303,7 +303,7 @@ para("Version divergente : la Chronique de Bertrand du Guesclin de Cuvelier fait
   +"monument commémoratif (pierre en bâtière, XIVe s.), longtemps près du pont de Lussac, a été "
   +"déplacé en 1886 à Mazerolles (lieu-dit Aubeniaux) ; classé objet le 6 novembre 1909 (Palissy "
   +"PM86000321). Une rue Chandos subsiste à Morthemer.");
-figure('chandos-cenotaphe-mazerolles.jpg',"Le cénotaphe de Jean Chandos (croix et dalle en bâtière sur dais), aujourd’hui à Mazerolles — cliché ancien (base Mémoire, Min. de la Culture, Licence Ouverte).",300);
+figure('chandos-cenotaphe-mazerolles.png',"Le cénotaphe de Jean Chandos (croix et dalle en bâtière sur dais), aujourd’hui à Mazerolles — cliché ancien (base Mémoire, Min. de la Culture, Licence Ouverte).",300);
 h2('Légendes locales');
 bullet("La « Dame d’Or » : pendant la guerre de Cent Ans, les Anglais capitulant devant Du Guesclin "
   +"auraient caché une Vierge en or dans un souterrain, jamais retrouvée — légende reprise par le "
@@ -312,7 +312,7 @@ bullet("Le fantôme de Chandos : des pas entendus la nuit autour du château (tr
 bullet("L’empreinte de saint Martin (chapelle du Pas-de-Saint-Martin) ; la croix hosannière du cimetière.");
 note("Ne pas confondre avec l’abbaye de Mortemer en Normandie (Lisors), homonyme, à laquelle "
   +"appartiennent les légendes de la Dame blanche et du lutin Goublin.");
-figure('12-dames-de-morthemer.jpg',"« Dames de Morthemer » : illustration de la légende seigneuriale (Wikimedia Commons).",220);
+figure('12-dames-de-morthemer.png',"« Dames de Morthemer » : illustration de la légende seigneuriale (Wikimedia Commons).",220);
 
 /* ---- 9. ÉCRITS DEPUIS L'AN 900 ---- */
 h1('9. Les écrits, de l’an 900 à aujourd’hui');

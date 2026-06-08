@@ -367,33 +367,33 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 
 | Fichier | Sujet |
 |---------|-------|
-| `01-chateau-vue-nord.jpg` | Château, vue nord (donjon restauré) |
-| `02-donjon-ouest.jpg` | Donjon, face ouest |
-| `03-chateau-eglise-ancien.jpg` | **Vue ancienne (≈1900-1920)** : château + église, ensemble sud |
-| `04-eglise-chevet.jpg` | Chevet, modillons (angle sud-est) |
-| `05-eglise-nef-choeur.jpg` | Intérieur, nef vers le chœur |
-| `06-eglise-crypte.jpg` | Crypte (vue nord-est) |
-| `07-eglise-nef-ouest.jpg` | Nef vue de l'entrée (**ouest**, portail muré — cf. § 7) |
-| `08-eglise-chateau-nord.jpg` | Ensemble **nord** : jonction église/château (cf. § 5) |
-| `09-eglise-gisant.jpg` | Gisant (Renée Sanglier) |
-| `10-vitrail-radegonde.jpg` | Vitrail de sainte Radegonde |
-| `11-statue-vierge.jpg` | Statue Vierge à l'Enfant |
-| `12-dames-de-morthemer.jpg` | Illustration « Dames de Morthemer » (légende) |
-| `chandos-mort-lussac.jpg` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
-| `manuscrit-froissart-poitiers.jpg` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
+| `01-chateau-vue-nord.png` | Château, vue nord (donjon restauré) |
+| `02-donjon-ouest.png` | Donjon, face ouest |
+| `03-chateau-eglise-ancien.png` | **Vue ancienne (≈1900-1920)** : château + église, ensemble sud |
+| `04-eglise-chevet.png` | Chevet, modillons (angle sud-est) |
+| `05-eglise-nef-choeur.png` | Intérieur, nef vers le chœur |
+| `06-eglise-crypte.png` | Crypte (vue nord-est) |
+| `07-eglise-nef-ouest.png` | Nef vue de l'entrée (**ouest**, portail muré — cf. § 7) |
+| `08-eglise-chateau-nord.png` | Ensemble **nord** : jonction église/château (cf. § 5) |
+| `09-eglise-gisant.png` | Gisant (Renée Sanglier) |
+| `10-vitrail-radegonde.png` | Vitrail de sainte Radegonde |
+| `11-statue-vierge.png` | Statue Vierge à l'Enfant |
+| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » (légende) |
+| `chandos-mort-lussac.png` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
+| `manuscrit-froissart-poitiers.png` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
 | `chandos-blason.png` | Armoiries de Sir John Chandos |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866) — lieux-dits de Morthemer |
-| `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac, donjon en ruine à Mortemer », Rédet (1881, p. 129) — Gallica/BnF |
-| `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) — Gallica/BnF |
-| `document-cartulaire-nouaille.jpg` | **Écrit (le plus ancien)** : charte n°177 (v. 1091-1115), *Engelelme de Morthemer*, cartulaire de Nouaillé (p. 279) — Gallica/BnF |
-| `document-blason-taveau.jpg` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) — Gallica/BnF |
-| `manuscrit-chandos-garter-1435.jpg` | **Manuscrit** : portrait de Sir John Chandos, *Garter Book* (v. 1435, BL Stowe 594) — Commons (DP) |
-| `sceau-chandos-1357.jpg` | **Sceau** de Jean Chandos (1357) — Commons (DP) |
-| `chandos-cenotaphe-mazerolles.jpg` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) — base Mémoire (Licence Ouverte) |
+| `document-redet-cognac.png` | **Écrit** : entrée « Cognac, donjon en ruine à Mortemer », Rédet (1881, p. 129) — Gallica/BnF |
+| `document-taveau-beauchet-filleau.png` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) — Gallica/BnF |
+| `document-cartulaire-nouaille.png` | **Écrit (le plus ancien)** : charte n°177 (v. 1091-1115), *Engelelme de Morthemer*, cartulaire de Nouaillé (p. 279) — Gallica/BnF |
+| `document-blason-taveau.png` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) — Gallica/BnF |
+| `manuscrit-chandos-garter-1435.png` | **Manuscrit** : portrait de Sir John Chandos, *Garter Book* (v. 1435, BL Stowe 594) — Commons (DP) |
+| `sceau-chandos-1357.png` | **Sceau** de Jean Chandos (1357) — Commons (DP) |
+| `chandos-cenotaphe-mazerolles.png` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) — base Mémoire (Licence Ouverte) |
 
 **Objets et reliques** documentés ici : le **gisant de Renée Sanglier**
-(`09-eglise-gisant.jpg`), les **peintures de la crypte** (`06`), la **statue Vierge
+(`09-eglise-gisant.png`), les **peintures de la crypte** (`06`), la **statue Vierge
 à l'Enfant** (`11`), le **vitrail de sainte Radegonde** (`10`). À cela s'ajoutent (en
 liens, § 9.2, droits réservés) le **tombeau de chevalier en dos d'âne** (épée et écu
 gravés, au pied du gisant) et le **sarcophage** étudiés par ArmmA.

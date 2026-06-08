@@ -19,30 +19,30 @@ Commons : voir la page de chaque fichier
 
 | Fichier | Sujet | Origine / licence |
 |---------|-------|-------------------|
-| `01-chateau-vue-nord.jpg` | Château, vue nord | Commons |
-| `02-donjon-ouest.jpg` | Donjon, face ouest | Commons |
-| `03-chateau-eglise-ancien.jpg` | Château + église (vue ancienne) | APMH / Commons (DP) |
-| `04-eglise-chevet.jpg` | Chevet, modillons | APMH / Commons (DP) |
-| `05-eglise-nef-choeur.jpg` | Nef vers le chœur | APMH / Commons (DP) |
-| `06-eglise-crypte.jpg` | Crypte | APMH / Commons (DP) |
-| `07-eglise-nef-ouest.jpg` | Nef vue de l'entrée (ouest) | APMH / Commons (DP) |
-| `08-eglise-chateau-nord.jpg` | Jonction église/château (nord) | APMH / Commons (DP) |
-| `09-eglise-gisant.jpg` | Gisant (Renée Sanglier) | APMH / Commons (DP) |
-| `10-vitrail-radegonde.jpg` | Vitrail sainte Radegonde | Commons |
-| `11-statue-vierge.jpg` | Statue Vierge à l'Enfant | Commons |
-| `12-dames-de-morthemer.jpg` | Illustration « Dames de Morthemer » | Commons |
-| `chandos-mort-lussac.jpg` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
-| `manuscrit-froissart-poitiers.jpg` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
+| `01-chateau-vue-nord.png` | Château, vue nord | Commons |
+| `02-donjon-ouest.png` | Donjon, face ouest | Commons |
+| `03-chateau-eglise-ancien.png` | Château + église (vue ancienne) | APMH / Commons (DP) |
+| `04-eglise-chevet.png` | Chevet, modillons | APMH / Commons (DP) |
+| `05-eglise-nef-choeur.png` | Nef vers le chœur | APMH / Commons (DP) |
+| `06-eglise-crypte.png` | Crypte | APMH / Commons (DP) |
+| `07-eglise-nef-ouest.png` | Nef vue de l'entrée (ouest) | APMH / Commons (DP) |
+| `08-eglise-chateau-nord.png` | Jonction église/château (nord) | APMH / Commons (DP) |
+| `09-eglise-gisant.png` | Gisant (Renée Sanglier) | APMH / Commons (DP) |
+| `10-vitrail-radegonde.png` | Vitrail sainte Radegonde | Commons |
+| `11-statue-vierge.png` | Statue Vierge à l'Enfant | Commons |
+| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » | Commons |
+| `chandos-mort-lussac.png` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
+| `manuscrit-froissart-poitiers.png` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |
 | `plan-etat-major-morthemer.png` | **Plan d'époque** : carte d'état-major (1820-1866), secteur de Morthemer | IGN (Licence Ouverte) |
-| `document-redet-cognac.jpg` | **Écrit** : entrée « Cognac » du Dict. topographique de la Vienne, Rédet (1881, p. 129) | Domaine public — source gallica.bnf.fr / BnF |
-| `document-taveau-beauchet-filleau.jpg` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) | Domaine public — source gallica.bnf.fr / BnF |
-| `document-cartulaire-nouaille.jpg` | **Écrit** : charte n°177 (v. 1091-1115), Engelelme de Morthemer, cartulaire de Nouaillé (p. 279) | Domaine public — source gallica.bnf.fr / BnF |
-| `document-blason-taveau.jpg` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) | Domaine public — source gallica.bnf.fr / BnF |
-| `manuscrit-chandos-garter-1435.jpg` | **Manuscrit** : portrait de Sir John Chandos, Garter Book (v. 1435, BL Stowe 594) | Domaine public (PD-old-100) — Wikimedia Commons |
-| `sceau-chandos-1357.jpg` | **Sceau** de Jean Chandos (1357) | Domaine public — Wikimedia Commons |
-| `chandos-cenotaphe-mazerolles.jpg` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) | Licence Ouverte etalab — base Mémoire (Min. Culture) |
+| `document-redet-cognac.png` | **Écrit** : entrée « Cognac » du Dict. topographique de la Vienne, Rédet (1881, p. 129) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-taveau-beauchet-filleau.png` | **Écrit** : entrée « Taveau, branche de Mortemer », Beauchet-Filleau (p. 694) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-cartulaire-nouaille.png` | **Écrit** : charte n°177 (v. 1091-1115), Engelelme de Morthemer, cartulaire de Nouaillé (p. 279) | Domaine public — source gallica.bnf.fr / BnF |
+| `document-blason-taveau.png` | **Écrit** : blasonnement des armes Taveau de Mortemer, Beauchet-Filleau (p. 700) | Domaine public — source gallica.bnf.fr / BnF |
+| `manuscrit-chandos-garter-1435.png` | **Manuscrit** : portrait de Sir John Chandos, Garter Book (v. 1435, BL Stowe 594) | Domaine public (PD-old-100) — Wikimedia Commons |
+| `sceau-chandos-1357.png` | **Sceau** de Jean Chandos (1357) | Domaine public — Wikimedia Commons |
+| `chandos-cenotaphe-mazerolles.png` | **Monument** : cénotaphe de Chandos à Mazerolles (cliché ancien) | Licence Ouverte etalab — base Mémoire (Min. Culture) |
 
 ---
 
