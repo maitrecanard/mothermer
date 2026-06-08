@@ -30,7 +30,7 @@ Commons : voir la page de chaque fichier
 | `09-eglise-gisant.png` | Gisant (Renée Sanglier) | APMH / Commons (DP) |
 | `10-vitrail-radegonde.png` | Vitrail sainte Radegonde | Commons |
 | `11-statue-vierge.png` | Statue Vierge à l'Enfant | Commons |
-| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » | Commons |
+| `12-dames-de-morthemer.png` | Illustration « Dames de Morthemer » (original Commons 120×81 px ; **agrandi par interpolation** à 480 px pour l'affichage — pas de détail réel ajouté) | Commons (Amis du patrimoine de Lussac) |
 | `chandos-mort-lussac.png` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
 | `manuscrit-froissart-poitiers.png` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
