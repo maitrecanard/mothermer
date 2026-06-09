@@ -172,7 +172,10 @@ Pierre II aux moines de Saint-Cyprien de Poitiers** (confirmation du pape **Cali
 1119**). **Collège de chanoines séculiers de fondation seigneuriale**, attesté de
 **v. 1223 à 1790** (supprimé à la Révolution). *(Nombre de chanoines, statuts et
 dotation : non documentés en ligne — à chercher en archives diocésaines / Dom
-Fonteneau.)*
+Fonteneau.)* Morthemer était en outre **chef-lieu d'archiprêtré** du diocèse de
+Poitiers (l'« **archiprêtré de Mortemer** » englobait des paroisses voisines, ainsi
+**Saint-Julien-l'Ars**) — indice de son poids ecclésiastique régional (Robuchon /
+Société des Antiquaires de l'Ouest).
 
 **Crypte et peintures.** Crypte **à trois vaisseaux** (nécropole seigneuriale).
 **Christ en Majesté** sur la voûte (entouré du **tétramorphe**, symboles des
@@ -487,6 +490,10 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 - **Poitou vers 900** : ducs d'Aquitaine / comtes de Poitiers (Èbles Manzer, Guillaume
   le Pieux, Guillaume III) — Wikipédia + érudition ; cartulaires de **Saint-Cyprien**
   (Rédet, 1874) et de **Nouaillé** (Monsabert, 1936).
+- **J. Robuchon**, *Paysages et monuments du Poitou* (héliogravures, Soc. des
+  Antiquaires de l'Ouest, 1884-1895, Gallica) — mentions de l'**archiprêtré de
+  Mortemer** (notices de Saint-Julien-l'Ars, Lavoux). *N.B. : pas de planche propre à
+  Morthemer repérée.*
 - **Héraut Chandos**, *La Vie du Prince Noir* (v. 1385) — ARLIMA, BnF, Gallica
   (éd. Francisque-Michel), Internet Archive.
 - **L. Rédet**, *Dictionnaire topographique de la Vienne* (1881) — **entrée « Cognac »**
