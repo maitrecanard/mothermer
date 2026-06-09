@@ -541,7 +541,23 @@ dernier lieu, **sans résultat exploitable** :
   la mort de Chandos** n'est pas catalogué publiquement (base Mandragore non indexée
   ici) et le volume couvrant 1370 est incertain ; aucune miniature « Chandos/Lussac »
   isolée sur Wikimedia Commons. La miniature de bataille déjà retenue fait foi.
-> **Conclusion :** le gisement *en ligne et libre* est désormais épuisé. Les avancées
+
+**Balayage international (par aire, pour mémoire) :**
+- 🇬🇧 **Angleterre** — *fructueux* : Gascon Rolls (C 61, TNA), Walsingham, Froissart
+  trad. Berners, Foedera de Rymer, Register of the Black Prince, DNB, **British
+  Library** (portrait de Chandos, Garter Book). Intégré (§ 8, TEXTES § 1.6).
+- 🇳🇱 **Pays-Bas** — *fructueux* : ms. Froissart **KB 72 A 25** (La Haye) — mort de
+  Chandos et bataille d'Auray, par le Maître de Virgile (v. 1410). Intégré.
+- 🇧🇪 **Flandre/Belgique** — *contexte* : ms. de **Gruuthuse** (Bruges, v. 1470).
+- 🇺🇸 **États-Unis** — *manuscrits de Froissart présents mais rien de propre à
+  Morthemer* : Newberry Library, **MS Case f.37.1** (unique version « C » du Livre I,
+  s'arrêtant au § 641 SHF) ; Getty (Livre III, v. 1480, hors période) ; Morgan
+  (MS M.804, miniature du prologue). Aucune pièce exploitable nouvelle.
+- 🇨🇭 **Suisse** (e-codices, Bodmer, Berne), 🇦🇺 **Australie**, 🕌 **Moyen-Orient**,
+  🇨🇳 **Chine**, 🇯🇵 **Japon** — *néant* : aucun lien documentaire avec un village
+  poitevin (résultats = homonymes / bruit). Rien à intégrer.
+> **Conclusion :** le gisement *en ligne et libre* est désormais épuisé (France,
+> Angleterre, Pays-Bas, Flandre couverts ; reste du monde sans objet). Les avancées
 > restantes (localiser la tour de Cognac au cadastre ; relever le comble de l'église ;
 > obtenir les images ArmmA / Le Falher) relèvent d'une démarche **humaine** (archives
 > en salle, mairie/CRMH, autorisations).
