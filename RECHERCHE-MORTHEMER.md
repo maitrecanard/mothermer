@@ -518,6 +518,26 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 > Société des Antiquaires de l'Ouest, Médiathèque du patrimoine (Charenton),
 > cartulaires poitevins, *Gallica*.
 
+### Pistes explorées sans gain nouveau (transparence)
+Pour éviter de refaire le travail, on consigne ici trois pistes Gallica sondées en
+dernier lieu, **sans résultat exploitable** :
+- **Cartulaire de Saint-Cyprien de Poitiers** (Rédet, 1874), copie Gallica
+  `bpt6k209470h` : **dépourvue de couche OCR** (recherche plein texte impossible) —
+  la cession de 1110-1111 y est référencée par la base des collégiales (chartes n°13
+  et 373) mais non localisable par recherche ; lecture image folio par folio requise.
+- **Beauchet-Filleau** : **pas d'entrée-famille « Sénéchal » dédiée** (le mot
+  « sénéchal » n'apparaît que comme titre, dispersé) ; les Sénéchal de Mortemer
+  restent connus par renvois (Guy Sénéchal, sgr de Mortemer, 1326 ; Aubert Sénéchal,
+  1267).
+- **Froissart, ms. enluminé de Gruuthuse** (BnF Fr 2643-2646) : le **folio précis de
+  la mort de Chandos** n'est pas catalogué publiquement (base Mandragore non indexée
+  ici) et le volume couvrant 1370 est incertain ; aucune miniature « Chandos/Lussac »
+  isolée sur Wikimedia Commons. La miniature de bataille déjà retenue fait foi.
+> **Conclusion :** le gisement *en ligne et libre* est désormais épuisé. Les avancées
+> restantes (localiser la tour de Cognac au cadastre ; relever le comble de l'église ;
+> obtenir les images ArmmA / Le Falher) relèvent d'une démarche **humaine** (archives
+> en salle, mairie/CRMH, autorisations).
+
 ---
 
 *Dossier de recherche — reconstruit à neuf à partir du cahier des charges actualisé.
