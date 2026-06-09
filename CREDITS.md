@@ -31,7 +31,8 @@ Commons : voir la page de chaque fichier
 | `10-vitrail-radegonde.png` | Vitrail sainte Radegonde | Commons |
 | `11-statue-vierge.png` | Statue Vierge à l'Enfant | Commons |
 | `12-dames-de-morthemer.png` | **« Les Dames de Morthemer »**, peinture symboliste de **Lionel Le Falher** (1957-2008), **900×604 px** | © L. Le Falher / Amis du patrimoine de Lussac — **CC BY-SA 4.0** (repro HD via le site de l'artiste) |
-| `chandos-mort-lussac.png` | **Miniature de manuscrit** : combat de Lussac / mort de Chandos | Commons (DP) |
+| `chandos-mort-lussac.png` | **Miniature** : mort de Chandos à Lussac — Froissart, *Chroniques* vol. I, **La Haye, KB 72 A 25**, Maître de Virgile (Paris, v. 1410) | Domaine public (KB / Commons) |
+| `manuscrit-chandos-auray.png` | **Miniature** : bataille d'Auray (1364), Chandos capture Du Guesclin — même ms. **KB 72 A 25** (La Haye) | Domaine public (KB / Commons) |
 | `manuscrit-froissart-poitiers.png` | **Folio de manuscrit** des *Chroniques* de Froissart : bataille de Poitiers (Maupertuis, 1356) où combattit Chandos | Commons (DP) |
 | `chandos-blason.png` | Armoiries de Sir John Chandos | Commons (CC) |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.), secteur de Morthemer | IGN / BnF (Licence Ouverte) |

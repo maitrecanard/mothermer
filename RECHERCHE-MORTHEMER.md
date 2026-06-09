@@ -351,6 +351,13 @@ terres cédées à Brétigny** et nommé **sénéchal d'Aquitaine le 12 novembre
 la traduction anglaise de **Berners** dit *« Mortimer, the next fortress »*. Détails
 et verbatim : [`TEXTES-ET-ECRITS.md`](TEXTES-ET-ECRITS.md) § 1.6.
 
+**Dimension européenne de l'iconographie.** La miniature de la **mort de Chandos** ici
+reproduite provient d'un manuscrit de Froissart conservé **aux Pays-Bas** — *Chroniques*,
+vol. I, **La Haye, Koninklijke Bibliotheek, KB 72 A 25**, enluminé à **Paris vers 1410**
+par le **Maître de Virgile** (ms. ayant appartenu à Louis de Luxembourg puis aux
+Orange-Nassau ; domaine public). Le même manuscrit illustre la **bataille d'Auray**
+(1364), où Chandos captura **Du Guesclin**.
+
 Une **épitaphe ancienne** (rapportée par le *Dictionary of National Biography*) fait
 parler le chevalier et confirme l'inhumation **à Mortemer** :
 
@@ -407,7 +414,8 @@ Voir source et licence de chaque fichier dans [`CREDITS.md`](CREDITS.md).
 | `10-vitrail-radegonde.png` | Vitrail de sainte Radegonde |
 | `11-statue-vierge.png` | Statue Vierge à l'Enfant |
 | `12-dames-de-morthemer.png` | **« Les Dames de Morthemer »**, peinture de **Lionel Le Falher** (900×604) |
-| `chandos-mort-lussac.png` | **Manuscrit** : combat de Lussac / mort de Chandos (miniature) |
+| `chandos-mort-lussac.png` | **Manuscrit** : mort de Chandos à Lussac — Froissart, La Haye, **KB 72 A 25**, Maître de Virgile (v. 1410) |
+| `manuscrit-chandos-auray.png` | **Manuscrit** : bataille d'Auray (1364), Chandos capture Du Guesclin — même ms. KB 72 A 25 |
 | `manuscrit-froissart-poitiers.png` | **Manuscrit** : *Chroniques* de Froissart, bataille de Poitiers (1356) où combattit Chandos |
 | `chandos-blason.png` | Armoiries de Sir John Chandos |
 | `plan-cassini-morthemer.png` | **Plan d'époque** : carte de Cassini (XVIIIᵉ s.) — Morthemer, La Chapelle, Salles, la Dive |
