@@ -145,7 +145,9 @@ table(['Date','Événement'],[1.1,4],[
   ['31 déc. 1369',"Jean Chandos blessé au pont de Lussac ; transporté à Mortemer, il y meurt (1er janv. 1370) — Froissart."],
   ['1428',"Morthemer érigée en baronnie (28 fiefs)."],
   ['XVe–XVIIIe s.',"Seigneurie aux Taveau (Mathurin Taveau, ép. Renée Sanglier)."],
-  ['1771',"« Petit château » (logis classique)."],
+  ['2e moitié XVIIe s.',"« Petit château » (aile Renaissance)."],
+  ['1789-1795',"Alexis de la Haye Montbaut, propriétaire à la Révolution, reste à Morthemer jusqu’en 1795."],
+  ['1795',"Vente du château au citoyen Jacques Augron."],
   ['1844',"Le baron de Soubeyran acquiert le domaine (quasi-ruine)."],
   ['v. 1865',"Restauration par Émile Boeswillwald (faux mâchicoulis)."],
   ['1886',"Monument commémoratif de Chandos déplacé (à Mazerolles)."],
@@ -166,7 +168,9 @@ table(['Période','Lignée','Faits'],[1.2,1.5,3],[
   ['XIe–XIIIe s.','de Morthemer (vic. de Châtellerault)',"Nom cité dès 1054 ; châtellenie 1077."],
   ['XIIIe s.','Chenin puis de la Vergne',"Guillaume V Chenin (†v.1276), Agathe Chenin, Guillaume de la Vergne."],
   ['XIIIe–XIVe s.','Sénéchal',"Aubert Sénéchal (dès 1267) ép. Agathe Chenin ; (re)bâtissent le donjon v.1369-1375 ; armes d'or au chef de gueules à deux pals de vair (écu de la crypte)."],
-  ['fin XIVe–XVIIIe s.','Taveau',"G. Taveau baron v.1391 ; hommage 1428 ; Mathurin Taveau (av.1512, ép. Renée Sanglier) ; F.-A. Taveau (1743-1834, émigré 1789)."],
+  ['fin XIVe–XVIIIe s.','Taveau',"G. Taveau baron v.1391 ; hommage 1428 ; Mathurin Taveau (av.1512, ép. Renée Sanglier)."],
+  ['1789-1795','de la Haye Montbaut',"Alexis de la Haye Montbaut, propriétaire à la Révolution ; ruiné par l’abolition des privilèges."],
+  ['1795','Augron',"Vente du château au citoyen Jacques Augron."],
   ['1844 →','de Soubeyran',"Acquièrent le domaine ; commanditent la restauration de 1865."],
   ['XXe s. →','Werbrouck / Volpelières d’Escombreras',"Propriété privée (SCI Domaine de Morthemer) ; vendue en 1993."],
 ]);
@@ -179,7 +183,7 @@ figure('document-taveau-beauchet-filleau.png',"Entrée « Taveau, branche de Mor
 h1('4. Le château');
 para("Donjon : tour quadrangulaire de cinq niveaux, tourelles-contreforts sur trois angles et tour "
   +"en saillie sur le quatrième, parapet crénelé sur faux mâchicoulis ; (re)bâti par les Sénéchal au "
-  +"3e quart du XIVe s. Petit château : logis rectangulaire (v. 1771) appuyé au nord sur l’église.");
+  +"3e quart du XIVe s. Petit château (aile Renaissance) : logis rectangulaire de la 2e moitié du XVIIe s. appuyé au nord sur l’église.");
 para("Avant 1860, le château était si délabré que, sans l’intervention, « le donjon n’existerait "
   +"plus ». Acquis par le baron de Soubeyran (1844), il est restauré v. 1865 par Émile Boeswillwald, "
   +"disciple de Viollet-le-Duc : la silhouette « médiévale » actuelle est en partie une recomposition "
@@ -254,34 +258,31 @@ h1('7. Le mystère du « trou en forme d’œil »');
 para("Question : la voûte présenterait un trou en forme d’œil, à l’opposé du clocher. Aucun document "
   +"public ne le décrit ; interprétation argumentée, à confirmer in situ. Le clocher est vers l’est "
   +"(chœur/château) ; « à l’opposé » désigne la partie ouest (ancien portail muré).");
-h2('Hypothèse privilégiée : un vestige du dispositif défensif (église-refuge, XIVe s.)');
-para("L’exhaussement est attesté par une source : l’exposé HÉRAGE (d’après la thèse de Ph. Durand) "
-  +"décrit le XIVe s. ainsi —");
+h2('Le point de départ : une église fortifiée (XIVe s.)');
+para("Un fait est acquis. Les recherches d’Yvette Dupuis-Bourumeau (Cercle généalogique poitevin / "
+  +"HÉRAGE) décrivent la mise en défense de l’église au XIVe s. —");
 quote("« C’est l’époque de la Guerre de Cent Ans. On fortifie l’église en surélevant les murs, en "
   +"condamnant les fenêtres et en ouvrant des meurtrières. » — et au XIXe s. : « On supprime tout le "
   +"système défensif de la Guerre de Cent Ans » (restauration Boeswillwald).",
-  "HÉRAGE, Morthemer, un village, une histoire (2005), d’après Ph. Durand.");
-para("C’est exactement la surélévation (« toit rehaussé ») observée. Dans les églises fortifiées, "
-  +"l’espace entre les voûtes et le toit servait de SALLE DE REFUGE (vivres, coffres) ; l’accès se "
-  +"faisait par un percement de la voûte — une TRÉMIE, parfois doublée d’une trappe — par laquelle on "
-  +"hissait gens et provisions, et qui servait de point de SURVEILLANCE. Le « trou » s’explique donc "
-  +"comme un vestige de ce niveau de défense : meurtrière rescapée ou trémie du comble-refuge — la "
-  +"plupart du système ayant été démantelé par Boeswillwald, d’où sa rareté et le mystère qui l’entoure.");
-bullet("Attesté par écrit (murs surélevés, fenêtres condamnées, meurtrières) — pas une conjecture.");
-bullet("Le toit exhaussé crée précisément l’espace de refuge que la trémie dessert.");
-bullet("La position « à l’opposé du clocher » (ouest) cadre avec un accès au comble éloigné du beffroi.");
-para("À vérifier sur place : y a-t-il une salle dans le comble au-dessus des voûtes ? Le trou est-il "
-  +"une trémie traversante (et non un oculus de pignon) ? Traces d’exhaussement (reprises de "
-  +"maçonnerie, ancienne ligne de toit), corbeaux, échelle/trappe, meurtrières ?");
-figure('20-eglise-charpente-comble-1.png',"L’ESPACE SOUS COMBLE, au-dessus des voûtes de l’église : la charpente et l’extrados des voûtes — c’est précisément le volume où s’aménageait la salle de refuge (base Mémoire — Licence Ouverte).",330);
-h2('Autres hypothèses (subsidiaires)');
-bullet("Oculus / œil-de-bœuf : simple ouverture de lumière (si le percement est au pignon).");
-bullet("Symbolique — l’« Œil de Dieu » : faisceau de lumière sur le chœur.");
-bullet("Trémie de cloche/corde antérieure au clocher actuel ; communication avec la tribune seigneuriale ; ouverture acoustique.");
-para("Conclusion révisée : compte tenu de la fortification documentée, l’explication la plus probable "
-  +"est une trémie d’accès à une salle de refuge sous un toit exhaussé (hissage / surveillance) plutôt "
-  +"qu’un pur ornement ; l’oculus de lumière reste l’alternative si le percement est au pignon. À "
-  +"trancher par un relevé du comble et auprès de la CRMH Nouvelle-Aquitaine.");
+  "Yvette Dupuis-Bourumeau, Morthemer, un village, une histoire.");
+para("La surélévation des murs ménage, entre voûtes et toit, un comble (visible sur les clichés ci-dessous).");
+figure('20-eglise-charpente-comble-1.png',"L’espace sous comble, au-dessus des voûtes : charpente et extrados — desservi par l’escalier à vis préexistant (base Mémoire — Licence Ouverte).",330);
+h2('Une hypothèse séduisante… mais à écarter');
+para("On serait tenté d’y voir une trémie de hissage du refuge. Un chercheur de longue date sur "
+  +"Morthemer écarte cette lecture, pour deux raisons décisives reprises ici :");
+bullet("Percer une large ouverture à la clé de voûte supposerait de démonter cette clé — au risque "
+  +"très élevé de faire effondrer l’ensemble.");
+bullet("Le comble et l’extrados étaient déjà desservis, AVANT la fortification, par un escalier à vis "
+  +"très étroit, lui-même défensif (une personne à la fois) : un hissage par trémie était inutile et dangereux.");
+para("La théorie du refuge-trémie tombe donc. La fortification est réelle (murs surélevés, fenêtres "
+  +"condamnées, meurtrières, escalier à vis), mais elle ne passe pas par ce percement.");
+h2('Alors, ce trou ? — question ouverte');
+para("En l’état, l’énigme reste ouverte. Si le percement est au pignon (et non à la clé de voûte), un "
+  +"simple oculus de lumière, peut-être chargé d’un sens symbolique (« œil » divin), redevient "
+  +"l’explication la plus économique. S’il est réellement dans la voûte, sa présence interroge la "
+  +"statique de l’édifice. Seul un relevé sur place permettra de trancher.");
+note("Mise au point due à un chercheur de longue date sur Morthemer (remercié), poursuivant le travail "
+  +"d’Yvette Dupuis-Bourumeau : elle corrige une hypothèse d’abord retenue ici.");
 figure('07-eglise-nef-ouest.png',"La nef vue de l’entrée (extrémité ouest), côté de l’ancien portail muré — la zone « à l’opposé du clocher » (Médiathèque de l’architecture et du patrimoine).");
 
 /* ---- 8. CHANDOS & FROISSART ---- */
@@ -379,7 +380,7 @@ h2('Sources principales');
   "POP : château PA00105752 ; Inventaire IA00045380 ; cénotaphe Chandos PM86000321.",
   "ArmmA (SAPRAT/CNRS/Univ. Poitiers) ; base des collégiales séculières (Univ. Limoges, 1223-1790).",
   "Beauchet-Filleau, familles du Poitou ; Histoire de la famille Taveau ; chartes de Nouaillé.",
-  "HÉRAGE, « Morthemer, un village, une histoire » (2005, d’après Ph. Durand) — fortification « en surélevant les murs » ; Dame d’Or (Trésors de l’Histoire, 1990).",
+  "Yvette Dupuis-Bourumeau, « Morthemer, un village, une histoire » (Cercle généalogique poitevin / HÉRAGE) — fortification « en surélevant les murs » ; Dame d’Or (Trésors de l’Histoire, 1990).",
   "IGN/data.geopf.fr (Cassini, état-major) ; Médiathèque Grand Poitiers ; Wikimedia Commons.",
 ].forEach(s=>bullet(s));
 

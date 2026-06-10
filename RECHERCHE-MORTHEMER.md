@@ -81,8 +81,9 @@ cette période, **sans qu'aucune charte ne l'atteste directement**.
 | **14 juin 1428** | **Geoffroy Taveau** rend hommage au roi pour sa **baronnie de Mortemer** ; **28 fiefs** (« 1ʳᵉ baronnie du Poitou »). |
 | **1436** | *« l'oustel de Mortemer appelé anciennement l'oustel de Coignac »* (Rédet). |
 | **XVe–XVIIIe s.** | Seigneurie aux **Taveau** (Mathurin Taveau av. 1512, ép. Renée Sanglier). |
-| **1771** | **« Petit château »** (logis classique). |
-| **1789** | F.-A. Taveau de Morthemer à l'assemblée de la noblesse, puis émigration. |
+| **2e moitié XVIIe s.** | **« Petit château »** (aile Renaissance). |
+| **1789-1795** | **Alexis de la Haye Montbaut**, propriétaire à la Révolution ; reste à Morthemer sans être inquiété, ruiné par l'abolition des privilèges. |
+| **1795** | Vente du château au **citoyen Jacques Augron**. |
 | **1844** | Le **baron de Soubeyran** acquiert le domaine (alors en quasi-ruine). |
 | **v. 1865** | **Restauration** par **Émile Boeswillwald** (disciple de Viollet-le-Duc) : donjon néo-médiéval, **faux mâchicoulis**. |
 | **1886** | **Monument commémoratif de Chandos déplacé** (aujourd'hui à Mazerolles). |
@@ -101,7 +102,9 @@ cette période, **sans qu'aucune charte ne l'atteste directement**.
 | XIe–XIIIe s. | **de Morthemer** (vic. de Châtellerault) | Nom cité dès 1054 ; châtellenie 1077. |
 | XIIIe s. | **Chenin** puis **de la Vergne** | Guillaume V Chenin († v. 1276), Agathe Chenin (héritière), Guillaume de la Vergne. |
 | XIIIe–XIVe s. | **Sénéchal** | **Aubert Sénéchal** (cité dès 1267) ép. Agathe Chenin ; **(re)bâtissent le donjon** v. 1369-1375 ; armes *d'or, au chef de gueules à deux pals de vair* (écu de la crypte). |
-| fin XIVe–XVIIIe s. | **Taveau** | **Guillaume Taveau**, baron de Mortemer (maire de Poitiers 1388-1413 ; sénéchal d'Olivier de Clisson 1385), reçoit Mortemer par mariage avec **Sibylle de Saint-Martin** ; **Geoffroy Taveau** hommage 1428 ; **Mathurin Taveau** (av. 1512, ép. **Renée Sanglier**, gisant) ; **F.-A. Taveau** (1743-1834, émigré 1789). |
+| fin XIVe–XVIIIe s. | **Taveau** | **Guillaume Taveau**, baron de Mortemer (maire de Poitiers 1388-1413 ; sénéchal d'Olivier de Clisson 1385), reçoit Mortemer par mariage avec **Sibylle de Saint-Martin** ; **Geoffroy Taveau** hommage 1428 ; **Mathurin Taveau** (av. 1512, ép. **Renée Sanglier**, gisant). |
+| 1789-1795 | **de la Haye Montbaut** | **Alexis de la Haye Montbaut**, propriétaire à la Révolution ; reste à Morthemer jusqu'en 1795, ruiné par l'abolition des privilèges. *(Un Taveau émigra en 1789 mais sans rapport avec Morthemer.)* |
+| 1795 | **Augron** | Vente du château au **citoyen Jacques Augron**. |
 | 1844 → | **de Soubeyran** | Acquièrent le domaine ; **G. de Soubeyran** commandite la restauration (1865). |
 | XXe s. → | **de Werbrouck / de Volpelières d'Escombreras** | Propriété privée (SCI Domaine de Morthemer) ; vendue en 1993. |
 
@@ -114,7 +117,9 @@ trois angles** et **tour en saillie sur le quatrième**, ressaut à l'angle sud-
 **parapet crénelé sur faux mâchicoulis**. (Re)bâti par les **Sénéchal** au 3ᵉ quart
 du XIVe s.
 
-**Petit château.** Corps de logis rectangulaire (**v. 1771**) appuyé **au nord sur
+**Petit château.** L'**aile Renaissance** : corps de logis rectangulaire de la
+**seconde moitié du XVIIe s.** (et non « v. 1771 », datation erronée de certaines
+notices) appuyé **au nord sur
 l'église** ; quatre travées au sud, portique côté parc.
 
 **Avant 1860 / restauration.** Le château était **si délabré** que, sans
@@ -139,7 +144,8 @@ années 1220 ; **fortifiée au XIVe s.**
 **chœur en hémicycle** sur crypte. **Clocher-porche** à flèche ; **modillons
 sculptés** au chevet.
 
-**Campagnes de construction (d'après la thèse de Ph. Durand, via HÉRAGE) :**
+**Campagnes de construction (d'après la thèse de Ph. Durand sur l'église, reprise
+dans l'exposé d'Y. Dupuis-Bourumeau) :**
 - **XIe s.** : église à **nef unique**, abside sur crypte ; **2 escaliers latéraux**
   desservaient la crypte ; toit en **charpente de bois** ; **portail à l'opposé de
   l'abside** (ouest). *(Une autre église, St-Christophe de Montierneuf, existait dans
@@ -205,8 +211,9 @@ ses **peintures murales religieuses du XVe s.** (saint Christophe ; Déposition)
 Longtemps l'élément le plus obscur du dossier, la tour de Cognac est désormais
 **documentée par une source de premier ordre** : le ***Dictionnaire topographique du
 département de la Vienne*** de **L. Rédet** (1881), qui lui consacre une entrée. Elle
-est par ailleurs évoquée par l'exposé local **« Morthemer, un village, une histoire »**
-(société **HÉRAGE**, 16 avril 2005, Y. Bourumeau-Dupuis & J.-H. Calmon, ancien maire).
+est par ailleurs évoquée par l'exposé local **« Morthemer, un village, une histoire »**,
+travail d'**Yvette Dupuis-Bourumeau** (native de Morthemer, historienne et généalogiste),
+diffusé par le **Cercle généalogique poitevin / HÉRAGE**.
 
 **L'entrée de Rédet (transcription consolidée de deux numérisations) :**
 
@@ -271,66 +278,48 @@ avec les **chartes de l'abbaye de Nouaillé** et **Beauchet-Filleau** (famille d
 argumentée, à confirmer par un **relevé sur place**. Le clocher est vers l'**est**
 (chœur/château) ; « à l'opposé » = partie **ouest** (ancien portail muré).
 
-### Hypothèse privilégiée : un **vestige du dispositif défensif** (église-refuge, XIVe s.)
+### Le point de départ : une église fortifiée (XIVe s.)
 
-**Une source primaire confirme l'exhaussement.** L'exposé **HÉRAGE** (d'après la
-**thèse de Philippe Durand**) décrit ainsi le XIVe s. : *« C'est l'époque de la Guerre
-de Cent Ans. On **fortifie l'église en surélevant les murs, en condamnant les fenêtres
-et en ouvrant des meurtrières**. »* — exactement la **surélévation** (« toit rehaussé »)
-proposée. Et au XIXe s. : *« On **supprime tout le système défensif** de la Guerre de
-Cent Ans »* (restauration Boeswillwald), avec réfection de la **toiture** et des murs.
+**L'exhaussement est attesté.** Les recherches d'**Yvette Dupuis-Bourumeau** (Cercle
+généalogique poitevin / HÉRAGE) décrivent ainsi la mise en défense au XIVe s. :
+*« C'est l'époque de la Guerre de Cent Ans. On **fortifie l'église en surélevant les
+murs, en condamnant les fenêtres et en ouvrant des meurtrières**. »* — et, au XIXe s. :
+*« On **supprime tout le système défensif** de la Guerre de Cent Ans »* (restauration
+Boeswillwald). La surélévation ménage, entre voûtes et toit, un **comble** bien réel
+(visible sur les clichés `20-` / `21-`).
 
-**Conséquence pour le « trou ».** Le percement s'explique alors comme un **vestige du
-niveau de défense / de refuge** aménagé au XIVe s. **au-dessus des voûtes** sous les
-**murs surélevés** : soit une **meurtrière** rescapée, soit la **trémie** d'accès au
-comble-refuge (par où l'on **hissait gens et vivres** et où l'on **surveillait**). La
-plupart de ce système ayant été **démantelé par Boeswillwald**, un tel orifice serait
-l'un des **rares témoins** survivants — ce qui explique aussi qu'il **intrigue** et ne
-soit pas « expliqué » par les notices touristiques.
+### ⚠️ Hypothèse du « refuge-trémie » : ÉCARTÉE
 
-Dans les **églises fortifiées**, l'**espace ménagé entre les voûtes et le toit**
-(comble surélevé) servait de **salle de refuge** pour les non-combattants, qui y
-montaient **vivres, coffres et bétail** en cas d'alerte. L'accès à ce réduit se
-faisait par un **percement de la voûte** — une **trémie** (trou de passage) doublée
-parfois d'une **trappe** — par laquelle on **hissait gens et provisions**, et qui
-servait aussi de **point de surveillance / de défense verticale**. La forme « en
-œil » du trou s'expliquerait alors **fonctionnellement** : c'est l'**orifice de
-hissage / d'observation** du refuge haut.
+L'idée d'expliquer le « trou » comme une **trémie de hissage** du refuge (par où l'on
+aurait monté gens et vivres dans le comble) — que ce dossier avait d'abord retenue —
+**doit être abandonnée**. Un **chercheur ayant longuement étudié Morthemer** l'écarte,
+pour deux raisons décisives :
+1. **Percer une large ouverture à la clé de voûte** supposerait de **démonter cette
+   clé** — l'élément qui tient tout l'édifice —, au **risque très élevé d'effondrement**.
+   On n'imagine pas une telle opération pour de la simple circulation.
+2. Surtout, le **comble et l'extrados des voûtes étaient déjà desservis, *avant* la
+   fortification, par un escalier à vis très étroit** — lui-même un **dispositif
+   défensif** (passage d'une seule personne à la fois). Un système de hissage par
+   trémie aurait donc été **inutile et dangereux**.
 
-**Ce qui rend l'hypothèse solide :**
-- Elle s'appuie sur la **fortification avérée** de l'édifice (XIVe s.), et non sur une
-  conjecture symbolique.
-- Le **toit exhaussé** crée précisément l'**espace de refuge** que la trémie dessert
-  (l'exhaussement et la trémie vont de pair).
-- La **typologie est bien documentée** : « la nef pour le bétail et le matériel, le
-  refuge au-dessus [des voûtes] pour les non-combattants », accès par **trappe** de
-  surveillance (cf. *Église fortifiée*, et les études sur les **lieux-refuges**).
-- La **position « à l'opposé du clocher »** (extrémité ouest) cadre avec un accès au
-  comble **éloigné du beffroi**, au-dessus de la nef plutôt que de la croisée.
+La fortification est donc réelle (murs surélevés, fenêtres condamnées, meurtrières,
+**escalier à vis** défensif), mais **elle ne passe pas par ce percement**.
 
-**Vérifications décisives (sur place) :** existe-t-il, **au-dessus des voûtes**, une
-**salle/chambre dans le comble** ? Le **trou est-il une trémie traversante** (et non
-un simple oculus de pignon) ? Voit-on des **traces d'exhaussement** des murs (reprise
-de maçonnerie, ancienne ligne de toit), des **corbeaux/échelle/trappe**, des
-**meurtrières** ou aménagements défensifs dans le comble ?
+### Alors, ce trou ? — question ouverte
 
-### Autres hypothèses (subsidiaires)
-1. **Oculus / œil-de-bœuf** — simple ouverture circulaire de **lumière** (*oculus* =
-   « œil ») ; explication la plus banale si le percement est au **pignon** et non dans
-   la voûte.
-2. **Charge symbolique — l'« Œil de Dieu »** : faisceau de lumière sur le chœur.
-3. **Trémie de cloche / corde** antérieure au clocher actuel, conservée.
-4. **Communication avec la tribune seigneuriale** (observation / son).
-5. **Ouverture acoustique** (vase scellé) — ou **hagioscope** (si le trou est dans un mur).
+En l'état, l'énigme reste **ouverte**, et c'est plus honnête ainsi :
+- Si le percement est au **pignon** (et non à la clé de voûte), un simple **oculus de
+  lumière**, éventuellement chargé d'un sens **symbolique** (« œil » divin éclairant le
+  chœur), redevient l'explication la plus économique.
+- S'il est réellement **dans la voûte**, sa présence même **interroge la statique** de
+  l'édifice et appelle un examen attentif.
 
-**Conclusion (révisée à la lumière de la source).** L'exhaussement des murs est
-**attesté par écrit** (HÉRAGE/Durand) : l'explication la plus probable du « trou » est
-un **vestige du dispositif défensif du XIVe s.** (meurtrière, ou trémie d'accès au
-**comble-refuge** : hissage de gens/vivres, surveillance), la majeure partie du système
-ayant été **supprimée par Boeswillwald**. L'**oculus de lumière** ne reste l'hypothèse
-que si le percement se révèle être au **pignon**. **À confirmer par un relevé du
-comble** (salle de refuge ? trémie ? meurtrières ?) et auprès de la **CRMH
-Nouvelle-Aquitaine**.
+**À trancher par un relevé sur place** : position exacte (pignon ? clé de voûte ?),
+ébrasement, traces de percement — et auprès de la **CRMH Nouvelle-Aquitaine**.
+
+> *Mise au point due à un chercheur de longue date sur Morthemer (remercié),
+> poursuivant le travail fondateur d'Yvette Dupuis-Bourumeau. Elle corrige une
+> hypothèse d'abord retenue dans ce dossier.*
 
 ---
 
@@ -480,9 +469,11 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
   figure pas** — référence à écarter en l'état.
 - **Légende « Dame d'Or »** : locale (Valdivienne) — à **ne pas confondre** avec les
   légendes de l'abbaye de **Mortemer en Normandie** (*Dame blanche*, *Goublin*).
-- **Le « trou-œil »** : **non documenté** directement ; hypothèse privilégiée = **trémie
-  d'une salle de refuge** sous un **toit exhaussé** (cohérente avec la fortification du
-  XIVe s.), à vérifier dans le comble (§ 7).
+- **Le « trou-œil »** : **non documenté** ; l'hypothèse de la **trémie-refuge**
+  (un temps retenue ici) est **écartée** sur l'avis d'un connaisseur du monument
+  (risque d'effondrement à la clé de voûte ; comble déjà desservi par un escalier à
+  vis défensif). **Question ouverte** : oculus de pignon ? percement de voûte
+  problématique ? — relevé sur place requis (§ 7).
 
 ### Sources
 - **Froissart, *Chroniques*** (Wikisource ; Project Gutenberg 73967 ; éd. Buchon/SHF) —
@@ -513,9 +504,11 @@ Détails et URLs : [`CREDITS.md`](CREDITS.md).
 - **Base des collégiales séculières de France** (Univ. Limoges) — chapitre 1223-1790.
 - **Beauchet-Filleau**, *Dictionnaire… familles du Poitou* ; *Histoire de la famille
   Taveau de Morthemer* (Montamisé) ; **chartes de l'abbaye de Nouaillé** (Gallica).
-- **HÉRAGE**, *Morthemer, un village, une histoire* (16 avr. 2005, d'après la **thèse
-  de Ph. Durand**) — **source de la fortification « en surélevant les murs »** (§ 7) et
-  de la Dame d'Or. PDF via Wayback :
+- **Yvette Dupuis-Bourumeau**, *Morthemer, un village, une histoire* (Cercle
+  généalogique poitevin / HÉRAGE) — **travail fondateur de l'histoire locale** ;
+  source de la fortification « en surélevant les murs » (§ 7) et de la Dame d'Or.
+  *(Ph. Durand, « Les campagnes de construction de l'église N.-D. de Morthemer »,
+  Bull. Soc. Antiquaires de l'Ouest, 1980 — étude architecturale distincte.)* PDF via Wayback :
   <https://web.archive.org/web/20250126082056/https://www.herage.org/telechargements/antenne_expose_20050416_morthemer.pdf>
   (aussi <https://docplayer.fr/23284726>).
 - Site officiel **Valdivienne** (*Histoire et Légendes* — Dame d'Or) ; **Terra Aventura**

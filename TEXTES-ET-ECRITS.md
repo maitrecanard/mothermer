@@ -146,8 +146,11 @@ région — mais en **actes administratifs** (rôles), non en images.
   baronnie du **XVe s. jusqu'au XVIIIe s.** Parmi les écrits, les **aveux et
   dénombrements**, contrats et testaments (ex. **Mathurin Taveau** et **Renée
   Sanglier**, av. 1512 — dont subsiste le **gisant**). **François-Alexandre Taveau
-  de Morthemer** (1743-1834), qualifié *baron de Mortemer*, participe à
-  l'**assemblée de la noblesse de 1789** puis émigre (armée des Princes).
+  de Morthemer** (1743-1834), qualifié *baron de Mortemer*. **⚠ Correction :** si un
+  Taveau émigra bien en 1789, **ce fut sans rapport avec Morthemer** — à cette date le
+  château appartenait à **Alexis de la Haye Montbaut**, resté sur place jusqu'en 1795,
+  date à laquelle, ruiné par l'abolition des privilèges, il le vendit au **citoyen
+  Jacques Augron**.
 - **Monographie généalogique moderne** : *Histoire de la famille Taveau de
   Morthemer* (document compilé, diffusé par la commune de Montamisé) — synthèse des
   écrits familiaux.
@@ -174,10 +177,12 @@ région — mais en **actes administratifs** (rôles), non en images.
   recense les **noms de lieu anciens et modernes** — outil de référence pour situer
   et dater des microtoponymes comme **« Cognac »** (numérisé sur Gallica / Internet
   Archive).
-- **HÉRAGE / Cercle généalogique poitevin**, ***Morthemer, un village, une
-  histoire*** (exposé du **16 avril 2005**, par **Y. Bourumeau-Dupuis** et
-  **J.-H. Calmon**, ancien maire) : synthèse d'histoire locale — **seule source
-  identifiant la tour de Cognac comme première résidence des seigneurs**.
+- ***Morthemer, un village, une histoire***, travail d'**Yvette Dupuis-Bourumeau**
+  (native de Morthemer, historienne et généalogiste), diffusé par le **Cercle
+  généalogique poitevin / HÉRAGE** : **travail fondateur** de l'histoire locale —
+  notamment la fortification de l'église et la tour de Cognac comme première
+  résidence des seigneurs. *(À ne pas confondre avec la thèse de Ph. Durand sur
+  l'église, source distincte.)*
 
 ---
 

@@ -80,6 +80,7 @@ h1("Avant-propos de l'historien");
 lead("Reconstituer l'histoire d'un lieu comme Morthemer, c'est lire trois écritures superposées : celle des pierres, celle des chartes, et celle des hommes qui, du chroniqueur médiéval à l'érudit du XIXᵉ siècle, ont transmis — parfois déformé — la mémoire du site. La présente étude s'efforce de les confronter.");
 para("Morthemer offre un cas d'école : un promontoire fortifié où se soudent, sur le même rocher, un château seigneurial et une église collégiale ; une châtellenie qui figure parmi les premières du Poitou ; et un épisode de portée européenne — la mort, en ses murs, du connétable anglais Jean Chandos, au cœur de la guerre de Cent Ans. À cela s'ajoute une énigme de terrain, le « trou en forme d'œil » de la voûte, et un toponyme presque effacé, la « tour de Cognac ».");
 para("La méthode suivie est celle de l'archéologie du bâti croisée à la critique documentaire. J'ai dépouillé les sources accessibles — base Mérimée et Inventaire général (Ministère de la Culture), base Mémoire de la Médiathèque de l'architecture et du patrimoine, cartulaires poitevins (Nouaillé, Saint-Cyprien), Dictionnaire topographique de la Vienne de L. Rédet (1881), Dictionnaire des familles du Poitou de Beauchet-Filleau, Chroniques de Froissart, Gascon Rolls et chroniques anglaises, travaux universitaires (Ph. Durand ; base ArmmA), cartes de Cassini et d'état-major — et signalé scrupuleusement ce qui relève du fait établi, de la tradition locale ou de l'hypothèse. Le lecteur trouvera l'appareil critique au chapitre XI.");
+para("Cette étude doit beaucoup au travail fondateur d'Yvette Dupuis-Bourumeau, native de Morthemer, dont les recherches d'histoire et de généalogie (diffusées par le Cercle généalogique poitevin) ont jeté les bases de la connaissance moderne du village. Elle a aussi bénéficié des corrections d'un chercheur de longue date sur Morthemer, que je remercie : grâce à lui, plusieurs erreurs héritées de compilations en ligne ont pu être redressées — sur la datation du « petit château », sur la propriété du château à la Révolution, et sur l'interprétation du « trou » de la voûte (chapitres IV, III et VII).");
 note("Avertissement onomastique récurrent : il faut distinguer le Morthemer poitevin (Vienne) du Mortemer normand (Seine-Maritime : bataille de 1054, abbaye cistercienne, famille Mortimer). Plusieurs sources confondent les deux — la présente étude les sépare systématiquement.");
 
 /* ============================= I. SITE ET NOM ============================= */
@@ -111,10 +112,13 @@ table(["Période","Lignée","Faits marquants"],[1.1,1.5,3],[
  ["XIᵉ–XIIIᵉ s.","de Morthemer (vicomtes de Châtellerault)","Nom cité dès 1054 ; châtellenie en 1077."],
  ["XIIIᵉ s.","Chenin, puis de la Vergne","Guillaume V Chenin († v. 1276), Agathe Chenin (héritière), Guillaume de la Vergne."],
  ["XIIIᵉ–XIVᵉ s.","Sénéchal","Aubert Sénéchal (cité dès 1267) épouse Agathe Chenin ; les Sénéchal (re)bâtissent le donjon (v. 1369-1375). Armes : d'or, au chef de gueules à deux pals de vair (écu peint de la crypte)."],
- ["fin XIVᵉ–XVIIIᵉ s.","Taveau","Guillaume Taveau, baron de Mortemer, maire de Poitiers (1388-1413), sénéchal d'Olivier de Clisson (1385), reçoit Mortemer par mariage avec Sibylle de Saint-Martin ; Geoffroy Taveau (hommage 1428) ; Mathurin Taveau (av. 1512, ép. Renée Sanglier) ; F.-A. Taveau (1743-1834, émigré en 1789)."],
+ ["fin XIVᵉ–XVIIIᵉ s.","Taveau","Guillaume Taveau, baron de Mortemer, maire de Poitiers (1388-1413), sénéchal d'Olivier de Clisson (1385), reçoit Mortemer par mariage avec Sibylle de Saint-Martin ; Geoffroy Taveau (hommage 1428) ; Mathurin Taveau (av. 1512, ép. Renée Sanglier)."],
+ ["1789-1795","de la Haye Montbaut","Alexis de la Haye Montbaut, propriétaire à la Révolution ; resté à Morthemer sans être inquiété ; ruiné par l'abolition des privilèges seigneuriaux."],
+ ["1795","Augron","Vente du château au citoyen Jacques Augron."],
  ["1844 →","de Soubeyran","Acquièrent le domaine ; J.-M.-G. de Soubeyran commandite la restauration (v. 1865)."],
- ["XXᵉ s. →","de Werbrouck / de Volpelières d'Escombreras","Propriété privée ; vendue en 1993."]]);
+ ["XXᵉ s.","propriétaires successifs","Propriété privée (transmissions diverses au XXᵉ s.)."]]);
 para("Cette succession, plus complexe que la chaîne « Morthemer → Taveau » des notices grand public, est établie par les actes recensés chez Beauchet-Filleau (Dictionnaire des familles du Poitou) et par l'analyse héraldique de la base ArmmA. Elle a une conséquence archéologique directe : c'est aux Sénéchal, et non aux Taveau, qu'il faut attribuer la grande campagne du donjon au troisième quart du XIVᵉ siècle, et probablement l'écu peint de la crypte.");
+para("Un point mérite d'être redressé, car il court dans les compilations en ligne : à la Révolution, Morthemer n'appartenait plus aux Taveau (si un Taveau émigra bien en 1789, ce fut sans rapport avec Morthemer). Le château était alors la propriété d'Alexis de la Haye Montbaut, qui demeura à Morthemer sans être inquiété jusqu'en 1795 ; ruiné par l'abolition des privilèges seigneuriaux, il dut alors le vendre au citoyen Jacques Augron. Ce n'est qu'au XIXᵉ siècle que le domaine échut aux Soubeyran.");
 figure('document-taveau-beauchet-filleau.png',"Notice « Taveau, branche de Mortemer » dans le Dictionnaire des familles du Poitou de Beauchet-Filleau, p. 694 (Gallica / BnF).",360);
 
 /* ============================= IV. CHÂTEAU ============================= */
@@ -128,7 +132,7 @@ note("Conséquence de méthode : toute lecture « militaire » du donjon (mâchi
 figure('13-chateau-cour.png',"Le donjon et le corps de logis à arcades, depuis la cour (base Mémoire — Licence Ouverte).",320);
 figure('01-chateau-vue-nord.png',"Le château et l'église, vue nord : la masse du donjon restauré domine l'ensemble (Wikimedia Commons).",300);
 h2("Le « petit château » et l'ensemble");
-para("Au donjon répond le « petit château », corps de logis rectangulaire probablement de 1771 (la notice Mérimée hésite avec le XVIIᵉ s.), appuyé à l'est sur l'église paroissiale. Il présente quatre travées de fenêtres au sud, côté village, et s'ouvre au nord par un portique aux arcs légèrement brisés surmonté d'une rangée de baies étroites et d'un parapet crénelé. Donjon et petit château sont reliés par une tour ; au nord, un corps de bâtiment s'organise de part et d'autre d'un pavillon d'entrée vers le parc.");
+para("Au donjon répond le « petit château » — l'aile Renaissance —, corps de logis rectangulaire de la seconde moitié du XVIIᵉ siècle (et non de 1771, comme l'écrivent par erreur certaines notices), appuyé à l'est sur l'église paroissiale. Il présente quatre travées de fenêtres au sud, côté village, et s'ouvre au nord par un portique aux arcs légèrement brisés surmonté d'une rangée de baies étroites et d'un parapet crénelé. Donjon et petit château sont reliés par une tour ; au nord, un corps de bâtiment s'organise de part et d'autre d'un pavillon d'entrée vers le parc.");
 figure('14-chateau-vue-ancienne.png',"Le château avant l'effacement complet du bourg ancien : photographie ancienne (base Mémoire).",300);
 para("Protection : le donjon est inscrit au titre des Monuments historiques le 18 mars 1927 ; l'ensemble (petit château, communs, murs d'enceinte) l'est le 14 mai 2008 (réf. PA00105752). Le château est une propriété privée et ne se visite pas.");
 
@@ -164,21 +168,21 @@ para("Lecture d'historien du bâti : tout concorde avec une tour résidentielle 
 note("Piste décisive non encore exploitée : le cadastre napoléonien de Morthemer (v. 1810-1830, Archives départementales de la Vienne, série 3 P) devrait livrer l'emprise parcellaire de Cognac. Son accès en ligne est protégé par un dispositif anti-robot ; la consultation doit se faire en navigateur ou en salle.");
 
 /* ============================= VII. LE TROU-ŒIL ============================= */
-h1("VII. Le « trou en forme d'œil » : enquête d'archéologie du bâti");
-lead("On signale, dans la voûte de l'église, un percement « en forme d'œil », situé à l'opposé du clocher. Aucune notice ne l'explique. C'est précisément le genre de question que l'archéologie du bâti sait traiter — non par la légende, mais par la fonction.");
-h2("L'hypothèse retenue : un vestige du dispositif de refuge (XIVᵉ s.)");
-para("La clé est fournie par une source que l'on néglige trop : l'exposé de la société HÉRAGE, fondé sur la thèse de Philippe Durand. Il décrit ainsi le XIVᵉ siècle à Morthemer :");
-quote("« C'est l'époque de la Guerre de Cent Ans. On fortifie l'église en surélevant les murs, en condamnant les fenêtres et en ouvrant des meurtrières. » — et, au XIXᵉ s. : « On supprime tout le système défensif de la Guerre de Cent Ans. »","HÉRAGE, Morthemer, un village, une histoire (2005), d'après Ph. Durand.");
-para("Tout s'éclaire. La surélévation des murs crée, entre les voûtes et le toit, un comble — c'est-à-dire l'espace même où s'aménageaient, dans les églises fortifiées, les salles de refuge des non-combattants, qui y montaient vivres et coffres en cas d'alerte. L'accès à ce réduit se faisait par un percement de la voûte — une trémie, parfois doublée d'une trappe — par laquelle on hissait gens et provisions, et qui servait de poste de surveillance. Le « trou en forme d'œil » s'explique donc le plus économiquement comme l'orifice de hissage et d'observation de ce refuge haut, l'un des rares éléments du dispositif à avoir échappé au démantèlement opéré par Boeswillwald.");
-para("Et de fait, le comble existe : la documentation photographique de la Médiathèque du patrimoine en conserve des vues. On y voit la charpente reposant sur l'extrados des voûtes — le volume précis où prenait place la salle de refuge.");
-figure('20-eglise-charpente-comble-1.png',"L'espace sous comble, au-dessus des voûtes : la charpente et l'extrados des voûtes — le volume de la salle de refuge (base Mémoire — Licence Ouverte).",330);
-figure('07-eglise-nef-ouest.png',"La nef vue vers l'ouest (l'ancien portail muré) : c'est de ce côté, « à l'opposé du clocher », que se situerait le percement (Médiathèque de l'architecture et du patrimoine).",290);
-h2("Hypothèses subsidiaires");
-bullet("Oculus de lumière (œil-de-bœuf) : explication banale si le percement est au pignon et non dans la voûte.");
-bullet("Charge symbolique (« Œil de Dieu ») : un faisceau de lumière sur le chœur ; plausible mais non nécessaire.");
-bullet("Trémie de cloche antérieure au clocher actuel, ou communication avec la tribune seigneuriale ; ouverture acoustique.");
-h2("Conclusion de l'historien");
-para("Compte tenu de la fortification documentée du XIVᵉ siècle, je tiens pour l'explication la plus probable celle d'une trémie de l'église-refuge, sous un toit exhaussé. Elle a le mérite de reposer sur un fait écrit, et non sur une conjecture. La vérification est simple et n'attend qu'un relevé : retrouver, dans le comble, la salle au-dessus des voûtes, la trémie traversante, les meurtrières et les reprises de maçonnerie de l'exhaussement.");
+h1("VII. Le « trou en forme d'œil » : une énigme rouverte");
+lead("On signale, dans la voûte de l'église, un percement « en forme d'œil », à l'opposé du clocher. C'est le genre de question où l'archéologie du bâti doit se garder des explications trop séduisantes — et où l'avis d'un connaisseur du monument vaut mieux qu'une théorie d'atelier.");
+h2("Le point de départ : une église fortifiée");
+para("Un fait est acquis, et il est précieux. L'historienne et généalogiste Yvette Dupuis-Bourumeau, native de Morthemer, dont les recherches (diffusées par le Cercle généalogique poitevin / HÉRAGE) fondent l'étude moderne du village, décrit ainsi la mise en défense de l'église au XIVᵉ siècle :");
+quote("« C'est l'époque de la Guerre de Cent Ans. On fortifie l'église en surélevant les murs, en condamnant les fenêtres et en ouvrant des meurtrières. » — et, au XIXᵉ s. : « On supprime tout le système défensif de la Guerre de Cent Ans. »","Yvette Dupuis-Bourumeau, Morthemer, un village, une histoire (Cercle généalogique poitevin / HÉRAGE).");
+para("La surélévation des murs ménage, entre les voûtes et le toit, un comble — espace où, dans bien des églises fortifiées, se tenaient les non-combattants en cas d'alerte. Ce comble existe ici : la documentation de la Médiathèque du patrimoine en conserve des vues, où l'on voit la charpente reposer sur l'extrados des voûtes.");
+figure('20-eglise-charpente-comble-1.png',"L'espace sous comble, au-dessus des voûtes : la charpente et l'extrados — desservi par l'escalier à vis préexistant (base Mémoire — Licence Ouverte).",330);
+h2("Une hypothèse séduisante… mais à écarter");
+para("On serait tenté d'expliquer le « trou » comme une trémie de hissage du refuge — l'orifice par lequel on aurait monté gens et vivres dans le comble. Un chercheur ayant longuement étudié Morthemer m'a justement mis en garde contre cette lecture, pour deux raisons dirimantes que je fais miennes :");
+bullet("Percer une large ouverture à la clé de voûte supposerait de démonter cette clé — l'élément qui tient tout l'édifice —, au risque très élevé de faire effondrer l'ensemble. On n'imagine pas une telle opération pour un usage de circulation.");
+bullet("Surtout, le comble et l'extrados des voûtes étaient déjà desservis, avant même la fortification, par un escalier à vis très étroit — lui-même un dispositif défensif, puisqu'il ne livre passage qu'à une personne à la fois. Un système de hissage par trémie aurait donc été à la fois inutile et dangereux.");
+para("La théorie du refuge-trémie tombe donc. C'est un bon exemple de la prudence qu'impose le bâti : la fortification est réelle, mais elle ne passe pas par ce percement — elle s'appuie sur des murs surélevés, des fenêtres condamnées, des meurtrières et un escalier à vis défensif, non sur un trou dans la voûte.");
+h2("Alors, ce trou ?");
+para("La question reste, en l'état, ouverte — et c'est plus honnête ainsi. Si le percement se trouve au pignon (et non à la clé de voûte), un simple oculus de lumière, éventuellement chargé d'un sens symbolique (« œil » divin éclairant le chœur), redevient l'explication la plus économique. S'il est réellement dans la voûte, sa présence même interroge la statique de l'édifice et appelle un examen attentif. Seul un relevé sur place — position exacte, rapport à la clé de voûte, ébrasement, traces de percement — permettra de trancher.");
+note("Je dois cette mise au point à un chercheur de longue date sur Morthemer (que je remercie), poursuivant le travail fondateur d'Yvette Dupuis-Bourumeau. Elle corrige une hypothèse que j'avais d'abord retenue : preuve, s'il en fallait, qu'une étude documentaire ne remplace pas la connaissance du monument.");
 
 /* ============================= VIII. CHANDOS ============================= */
 h1("VIII. Jean Chandos et la guerre de Cent Ans");
@@ -229,8 +233,9 @@ table(["Date","Événement"],[1.05,4],[
  ["1428","Geoffroy Taveau : baronnie de Mortemer (28 fiefs)."],
  ["1436","« l'oustel de Mortemer appelé anciennement l'oustel de Coignac »."],
  ["av. 1512","Mathurin Taveau ; gisant de Renée Sanglier."],
- ["1771","« Petit château »."],
- ["1789","F.-A. Taveau émigre."],
+ ["2e moitié XVIIᵉ s.","« Petit château » (aile Renaissance)."],
+ ["1789-1795","Alexis de la Haye Montbaut, propriétaire ; reste à Morthemer jusqu'en 1795."],
+ ["1795","Vente du château au citoyen Jacques Augron."],
  ["1844 / v. 1865","Acquisition Soubeyran / restauration Boeswillwald."],
  ["1886","Cénotaphe de Chandos déplacé à Mazerolles."],
  ["1908 / 1927 / 2008","Église classée MH / donjon inscrit / ensemble du château inscrit."],
@@ -254,7 +259,7 @@ h2("Sources et fonds consultés");
   "Ph. Durand, Les campagnes de construction de l'église Notre-Dame de Morthemer (Bull. Soc. Antiquaires de l'Ouest, 1980) ; base ArmmA (SAPRAT-EPHE / CNRS / Univ. Poitiers).",
   "Base des collégiales séculières de France (Univ. Limoges) — chapitre 1223-1790.",
   "Froissart, Chroniques (éd. S. Luce, SHF ; trad. Berners) ; Walsingham, Historia Anglicana ; Gascon Rolls (C 61, gasconrolls.org / TNA) ; Foedera de Rymer ; DNB.",
-  "HÉRAGE / Cercle généalogique poitevin, « Morthemer, un village, une histoire » (2005, d'après Ph. Durand).",
+  "Yvette Dupuis-Bourumeau, « Morthemer, un village, une histoire » (Cercle généalogique poitevin / HÉRAGE) — travail fondateur de l'histoire locale du village.",
   "Cartographie : Carte de Cassini (XVIIIᵉ s.) et Carte d'état-major (1820-1866), IGN / data.geopf.fr.",
   "Iconographie complémentaire (liens, droits réservés) : base ArmmA (plan Durand, peintures) ; Médiathèque Grand Poitiers (clichés Gossin, 1918) ; cadastre napoléonien (Arch. dép. de la Vienne, série 3 P)." ].forEach(s=>bullet(s));
 note("Crédit et licence de chaque image : voir le fichier CREDITS.md du dépôt. Les pièces sous droits réservés ne sont pas reproduites ici mais référencées.");
